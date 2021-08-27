@@ -1,3 +1,4 @@
+name: "Generate Awesome Readme.md"
 on:
   workflow_dispatch:
     
