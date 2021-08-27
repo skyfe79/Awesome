@@ -1,0 +1,26 @@
+on:
+  workflow_dispatch:
+    
+jobs:
+  generate_awesome_readme_job:
+    runs-on: ubuntu-latest
+    name: Generate Awesome Readme.md from starred repos.
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: Fetch starred respos and generate Readme.md markdowns
+        uses: skyfe79/awesome-readme-generator@v0.1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          owner: 'skyfe79'
+      - name: Commit files
+        run: |
+          git config --local user.email "skyfe79@gmail.com"
+          git config --local user.name "sungcheol kim"
+          git add .
+          git commit -m "Add changes"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
