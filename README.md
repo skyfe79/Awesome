@@ -2,7 +2,7 @@
 
 
 
-## [Contents](#toc)
+## Contents
 
 - [ActionScript](#ActionScript)
 - [Assembly](#Assembly)
@@ -34,17 +34,17 @@
 - [Vim script](#Vim-script)
 - [etc](#etc)
 
-## [ActionScript](#toc)
+## ActionScript
 
 - [Flash2Cocos2D](https://github.com/TheDamArmada/Flash2Cocos2D) - Library to import animations made in Flash to Cocos2D
 - [CCAnimate](https://github.com/SevInf/CCAnimate) - Animation Editor for cocos2d
 - [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) - a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats.
 
-## [Assembly](#toc)
+## Assembly
 
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
-## [C](#toc)
+## C
 
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
@@ -92,13 +92,13 @@
 - [VocalKit](https://github.com/KingOfBrian/VocalKit) - Objective-C shim layer for Speech Recognition
 - [iProxy](https://github.com/epatel/iProxy) - Let's you connect your laptop to the iPhone to surf the web. This fork adds a http server to the app that feeds a .pac file that make  it much easier to configure the first version of iPads.
 
-## [C#](#toc)
+## C#
 
 - [Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
 - [AndHUD](https://github.com/redth-org/AndHUD) - Android Progress HUD and Dialog helpers for Xamarin.Android apps!
 - [P31UnityAddOns](https://github.com/prime31/P31UnityAddOns) - Mostly defunct. Features were added and components broken out in the *Kit repositories.
 
-## [C++](#toc)
+## C++
 
 - [bloom_cpp](https://github.com/duckduckgo/bloom_cpp) - null
 - [FlexLayout](https://github.com/layoutBox/FlexLayout) - FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
@@ -140,15 +140,15 @@
 - [cocoa-linear](https://github.com/brow/cocoa-linear) - Vectors, matrices, quaternions, and eigenstuff for Mac OS X and iPhone
 - [cocoa-viewfinder](https://github.com/brow/cocoa-viewfinder) - Real-time camera rotation tracking for iPhone
 
-## [GLSL](#toc)
+## GLSL
 
 - [ShaderKit](https://github.com/twostraws/ShaderKit) - A library of fragment shaders you can use in any SpriteKit project.
 
-## [Gnuplot](#toc)
+## Gnuplot
 
 - [CHDataStructures](https://github.com/quinntaylor/CHDataStructures) - An Objective-C library of data structures, such as deque, heap, linked list, queue, stack, and tree.
 
-## [Go](#toc)
+## Go
 
 - [geopattern](https://github.com/pravj/geopattern) - :triangular_ruler: Create beautiful generative image patterns from a string in golang.
 - [glyph](https://github.com/dbriemann/glyph) - A static site generator utilizing Github issues and pages.
@@ -162,11 +162,11 @@
 - [egl](https://github.com/remogatto/egl) - Go package for accessing EGL
 - [mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 
-## [Groovy](#toc)
+## Groovy
 
 - [gradle-androidannotations-plugin](https://github.com/ealden/gradle-androidannotations-plugin) - AndroidAnnotations plugin for Gradle
 
-## [HTML](#toc)
+## HTML
 
 - [kotlin-resources](https://github.com/kotlinresources/kotlin-resources) - Collaborative list of awesome Kotlin resources.
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -176,7 +176,7 @@
 - [OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 - [CMHTMLView](https://github.com/mureev/CMHTMLView) - CMHTMLView is an UIWebView wrapper to provide easy access to show rich text content (HTML) with native look and feel.
 
-## [Java](#toc)
+## Java
 
 - [Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android) - This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
 - [GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android) - This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
@@ -326,7 +326,7 @@
 - [Book-Catalogue](https://github.com/eleybourn/Book-Catalogue) - A book cataloging tool for Android phones. 
 - [cocos2d](https://github.com/ZhouWeikuan/cocos2d) - cocos2d for android,  based on cocos2d-android-0.82, and now ported from cocos2d-iphone 0.99.4.  The googlecode address is here: http://code.google.com/p/cocos2d-android-1/ . There are several demos to watch.
 
-## [JavaScript](#toc)
+## JavaScript
 
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
 - [simple-octokit](https://github.com/vweevers/simple-octokit) - Preconfigured GitHub API client with GraphQL and REST.
@@ -364,13 +364,13 @@
 - [Ext.ux.TouchGridPanel](https://github.com/mitchellsimoens/Ext.ux.TouchGridPanel) - A GridPanel extension based on ExtJS for Sencha Touch
 - [richie](https://github.com/dnewcome/richie) - Richie is a Javascript rich text editor for mobile and desktop browsers
 
-## [Jupyter-Notebook](#toc)
+## Jupyter-Notebook
 
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 
-## [Kotlin](#toc)
+## Kotlin
 
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
 - [BottomDrawer](https://github.com/HeyAlex/BottomDrawer) - BottomSheet with animations
@@ -386,11 +386,11 @@
 - [CircularImageView](https://github.com/lopspower/CircularImageView) - Create circular ImageView in Android in the simplest way possible
 - [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
 
-## [M](#toc)
+## M
 
 - [InfColorPicker](https://github.com/InfinitApps/InfColorPicker) - iOS color picker view controller which presents a hue bar and a saturation/brightness box to allow selection of any RGB color.
 
-## [Objective-C](#toc)
+## Objective-C
 
 - [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
@@ -1301,27 +1301,27 @@
 - [TICoreDataUtilities](https://github.com/timisted/TICoreDataUtilities) - Utilities to make Core Data applications as free of template code (and as painless) as possible
 - [big5app](https://github.com/holtwick/big5app) - Enhanced UIWebView browser with e.g. camera support via Javascript
 
-## [Objective-C++](#toc)
+## Objective-C++
 
 - [UICoreTextView](https://github.com/giladno/UICoreTextView) - Easy to use UIView which supports rendering using CoreText
 - [AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit) - Smooth asynchronous user interfaces for iOS apps.
 - [textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 
-## [PHP](#toc)
+## PHP
 
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 - [fuzzy-record](https://github.com/pokeb/fuzzy-record) - PHP Active Record implementation with a Rails-like API
 
-## [PLpgSQL](#toc)
+## PLpgSQL
 
 - [Chats](https://github.com/acani/Chats) - Open-Source Messaging App
 
-## [Perl](#toc)
+## Perl
 
 - [ffmpeg-ios-compile](https://github.com/xiewei-wayne/ffmpeg-ios-compile) - How to compile ffmpeg v1.0 libs for iOS.
 - [IMDB-Tools](https://github.com/fmorgner/IMDB-Tools) - IMDB Tools is a collection of some scripts to fetch Information from the Internet Movie DataBase (IMDB)
 
-## [Python](#toc)
+## Python
 
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [OpenDartReader](https://github.com/FinanceData/OpenDartReader) - Open DART Reader
@@ -1339,7 +1339,7 @@
 - [pyapns](https://github.com/samuraisam/pyapns) - An APNS provider with multi-app support.
 - [cocosCairo](https://github.com/jeremyflores/cocosCairo) - A port of cocos2d for iPhone to PyGTK and PyCairo for use in the Sugar Desktop Environment and the OLPC platform.
 
-## [Ruby](#toc)
+## Ruby
 
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [FFmpeg-iOS](https://github.com/chrisballinger/FFmpeg-iOS) - FFmpeg static libraries compiled for iOS
@@ -1354,17 +1354,17 @@
 - [octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 - [apn_on_rails](https://github.com/PRX/apn_on_rails) - Apple Push Notifications on Rails
 
-## [Rust](#toc)
+## Rust
 
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
 - [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 
-## [SCSS](#toc)
+## SCSS
 
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
-## [Shell](#toc)
+## Shell
 
 - [webrtc-build-scripts](https://github.com/pristineio/webrtc-build-scripts) - A set of build scripts useful for building WebRTC libraries for Android and iOS.
 - [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
@@ -1373,7 +1373,7 @@
 - [android-ffmpeg](https://github.com/guardianproject/android-ffmpeg) - a system for building custom ffmpeg binaries for Android 
 - [spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
 
-## [Swift](#toc)
+## Swift
 
 - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
@@ -1523,7 +1523,7 @@
 - [DDMathParser](https://github.com/davedelong/DDMathParser) - String → Number
 - [TDBadgedCell](https://github.com/tmdvs/TDBadgedCell) - TDBadgedCell is a table view cell class that adds a badge, similar to the badges in Apple's own apps
 
-## [TypeScript](#toc)
+## TypeScript
 
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
@@ -1532,11 +1532,11 @@
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 
-## [Vim-script](#toc)
+## Vim-script
 
 - [Trinity](https://github.com/wenlongche/Trinity) - A (G)Vim plugin which build the trinity of Source Explorer, TagList and NERD tree to be an IDE for software development.
 
-## [etc](#toc)
+## etc
 
 - [EZPods](https://github.com/thellimist/EZPods) - Easy CocoaPods checklist and tutorial
 - [StackViewLayout](https://github.com/layoutBox/StackViewLayout) - Coming soon!
