@@ -10,10 +10,11 @@ jobs:
       - name: checkout
         uses: actions/checkout@v1
       - name: Fetch starred respos and generate Readme.md markdowns
-        uses: skyfe79/awesome-readme-generator@v0.3
+        uses: skyfe79/awesome-readme-generator@v0.4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           owner: 'skyfe79'
+          group-by: 'language'
       - name: Commit files
         run: |
           git config --local user.email "skyfe79@gmail.com"
