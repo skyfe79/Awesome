@@ -12,13 +12,11 @@
 - [GLSL](#GLSL)
 - [Gnuplot](#Gnuplot)
 - [Go](#Go)
-- [Groovy](#Groovy)
 - [HTML](#HTML)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
 - [Jupyter Notebook](#Jupyter-Notebook)
 - [Kotlin](#Kotlin)
-- [M](#M)
 - [Objective-C](#Objective-C)
 - [Objective-C++](#Objective-C++)
 - [PHP](#PHP)
@@ -57,7 +55,6 @@
 - [OpenGL](https://github.com/McNopper/OpenGL) - OpenGL 3 and 4 with GLSL
 - [gsoc](https://github.com/slash-dev-null/gsoc) -  An attempt to complete Robert Rudd's GSOC project of 2008 with XBMC
 - [PhotoProcessing](https://github.com/chrisbanes/PhotoProcessing) - A demo of how you can process photos leveraging the ndk.
-- [Android-Video-Player-FFmpeg-and-Bitmap](https://github.com/xorange/Android-Video-Player-FFmpeg-and-Bitmap) - null
 - [Simple-OpenGL-Image-Library](https://github.com/kbranigan/Simple-OpenGL-Image-Library) - Simple image uploader primarily for OpenGL
 - [Android-ImageMagick](https://github.com/lilac/Android-ImageMagick) - ImageMagick library ported to Android
 - [android-ffmpeg-sample](https://github.com/churnlabs/android-ffmpeg-sample) - An actual functioning Android app using ffmpeg through the NDK
@@ -100,6 +97,7 @@
 
 ## C++
 
+- [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [bloom_cpp](https://github.com/duckduckgo/bloom_cpp) - null
 - [FlexLayout](https://github.com/layoutBox/FlexLayout) - FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -162,10 +160,6 @@
 - [egl](https://github.com/remogatto/egl) - Go package for accessing EGL
 - [mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 
-## Groovy
-
-- [gradle-androidannotations-plugin](https://github.com/ealden/gradle-androidannotations-plugin) - AndroidAnnotations plugin for Gradle
-
 ## HTML
 
 - [kotlin-resources](https://github.com/kotlinresources/kotlin-resources) - Collaborative list of awesome Kotlin resources.
@@ -174,7 +168,6 @@
 - [www.html5rocks.com](https://github.com/html5rocks/www.html5rocks.com) - ....a top-notch resource for web developers
 - [iOS-HTMLTextEditor](https://github.com/insanoid/iOS-HTMLTextEditor) - A simple implementation of an HTML Editor using CKEditor in a web view.
 - [OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
-- [CMHTMLView](https://github.com/mureev/CMHTMLView) - CMHTMLView is an UIWebView wrapper to provide easy access to show rich text content (HTML) with native look and feel.
 
 ## Java
 
@@ -386,12 +379,9 @@
 - [CircularImageView](https://github.com/lopspower/CircularImageView) - Create circular ImageView in Android in the simplest way possible
 - [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
 
-## M
-
-- [InfColorPicker](https://github.com/InfinitApps/InfColorPicker) - iOS color picker view controller which presents a hue bar and a saturation/brightness box to allow selection of any RGB color.
-
 ## Objective-C
 
+- [promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 - [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
 - [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller for iOS that allows users to crop portions of UIImage objects
@@ -577,7 +567,6 @@
 - [SECoreTextView](https://github.com/kishikawakatsumi/SECoreTextView) - SECoreTextView is multi style text view.
 - [Alcatraz](https://github.com/alcatraz/Alcatraz) - Package manager for Xcode
 - [JTObjectMapping](https://github.com/jamztang/JTObjectMapping) - A very simple objective-c framework that maps a JSON response from NSDictionary or NSArray to an NSObject subclass for iOS.
-- [iOSInstalledApps](https://github.com/arg0s/iOSInstalledApps) - Utility functions to fetch installed apps on iOS by a combination of reading running processes & investigating custom URL schemes implemented.
 - [BButton](https://github.com/jessesquires/BButton) - Twitter Bootstrap buttons for iOS
 - [UINavigationBarAdjustableTint](https://github.com/TomThorpe/UINavigationBarAdjustableTint) - A subclass of UINavigationBar that allows you to control the level of tint brightness that is applied to the tintColor
 - [UITableViewZoomController](https://github.com/TomThorpe/UITableViewZoomController) - A Cocoa Touch UITableViewController subclass in Objective C that provides a zoom effect as cells appear for the first time (similar in style to Google+ iPhone app)
@@ -632,9 +621,6 @@
 - [SNRMusicKit](https://github.com/indragiek/SNRMusicKit) - All-in-one framework for browsing and playing music from various sources on iOS and OS X
 - [DLCImagePickerController](https://github.com/dmitric/DLCImagePickerController) - ImagePickerController with live filters, radial blur and more. Brought to you by Backspaces.
 - [SKBounceAnimation](https://github.com/khanlou/SKBounceAnimation) - A CAKeyframeAnimation subclass that lets you quickly and easily set a number of bounces, and start and end values, and creates an animation for you.
-- [KOFiles](https://github.com/adamhoracek/KOFiles) - null
-- [KOTree](https://github.com/adamhoracek/KOTree) - null
-- [KOTabs](https://github.com/adamhoracek/KOTabs) - null
 - [KOKeyboard](https://github.com/adamhoracek/KOKeyboard) - null
 - [OrigamiEngine](https://github.com/ap4y/OrigamiEngine) - Lightweight audio engine for iOS and OSX with flac, cue, mp3, m4a, m3u support.
 - [AJNotificationView](https://github.com/ajerez/AJNotificationView) - Notice component for iOS (UNMAINTAINED CODE)
@@ -882,7 +868,6 @@
 - [CoconutKit](https://github.com/defagos/CoconutKit) - CoconutKit is a productivity framework for iOS, crafted with love and focusing on ease of use
 - [UIView-FlipTransition](https://github.com/sgabello/UIView-FlipTransition) - An Objective-C category on UIView to make Flip transitions between Views
 - [Smooth-Line-View](https://github.com/levinunnink/Smooth-Line-View) - Smooth & fast line drawing from touch inputs for UIViews using Quartz
-- [WebContentView](https://github.com/nicklockwood/WebContentView) - [DEPRECATED]
 - [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView) - [UNMAINTAINED] An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines. Similar to the one Apple uses in the SMS-app. See blog-post for a small screencast.
 - [DDExpandableButton](https://github.com/smartapps-fr/DDExpandableButton) - A single-file iOS 5.0+ class designed to be used like an expandable UIButton ; as seen in the iOS Camera app for the "flash" button.
 - [STableViewController](https://github.com/shiki/STableViewController) - A custom UIViewController with a UITableView which supports "pull to refresh" and "load more"
@@ -945,7 +930,6 @@
 - [SlidingTabs](https://github.com/MPiccinato/SlidingTabs) - Sliding tabs UI element for iPhone
 - [MTQuadrantControl](https://github.com/domesticcatsoftware/MTQuadrantControl) - A 4-way button disguised as a table cell, as seen in Tweetie 2
 - [leaves](https://github.com/skyfe79/leaves) - An iBooks-like page-turning interface for iPhone and iPad apps using only public APIs.
-- [JPButton](https://github.com/jpoz/JPButton) - null
 - [socialize-sdk-ios](https://github.com/socialize/socialize-sdk-ios) - Socialize SDK for iOS devices. An iOS social sharing SDK for native apps.
 - [iOS-nodechat](https://github.com/honcheng/iOS-nodechat) - iOS chat client for socket.io & node.js backend
 - [MKEntryPanelDemo](https://github.com/MugunthKumar/MKEntryPanelDemo) - Entry Panel UI
@@ -1001,7 +985,6 @@
 - [RPG](https://github.com/felixmo/RPG) - A simple demo of a game with a tiled map built using the cocos2d engine.
 - [Moving-MKAnnotationView](https://github.com/100grams/Moving-MKAnnotationView) - An implementation of a moving map annotation using iOS MapKit and QuartzCore.  
 - [KKLibrary](https://github.com/kolinkrewinkel/KKLibrary) - iOS Framework.
-- [ColorPicker](https://github.com/Thallius/ColorPicker) - A powerful color picker for all iOs devices
 - [HGPageScrollView](https://github.com/100grams/HGPageScrollView) - UIScrollView for iPhone with horizontal paging like mobile Safari tabs
 - [JJGWebView](https://github.com/geerlingguy/JJGWebView) - UIWebView class and example implementation for iOS Applications
 - [MTZoomWindow](https://github.com/myell0w/MTZoomWindow) - A UIWindow that can be used to zoom in a specific UIView and displays it fullscreen
@@ -1319,7 +1302,6 @@
 ## Perl
 
 - [ffmpeg-ios-compile](https://github.com/xiewei-wayne/ffmpeg-ios-compile) - How to compile ffmpeg v1.0 libs for iOS.
-- [IMDB-Tools](https://github.com/fmorgner/IMDB-Tools) - IMDB Tools is a collection of some scripts to fetch Information from the Internet Movie DataBase (IMDB)
 
 ## Python
 
@@ -1332,12 +1314,9 @@
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [AirPlayer](https://github.com/hellozimi/AirPlayer) - null
 - [osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
-- [iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework) - An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [Wendy](https://github.com/tinybird/Wendy) - Simple Appstore sales report bot
 - [PyAPNs](https://github.com/djacobs/PyAPNs) - Python library for interacting with the Apple Push Notification service (APNs)
 - [pyapns](https://github.com/samuraisam/pyapns) - An APNS provider with multi-app support.
-- [cocosCairo](https://github.com/jeremyflores/cocosCairo) - A port of cocos2d for iPhone to PyGTK and PyCairo for use in the Sugar Desktop Environment and the OLPC platform.
 
 ## Ruby
 
@@ -1375,6 +1354,9 @@
 
 ## Swift
 
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+- [Animo](https://github.com/eure/Animo) - Bring life to CALayers with SpriteKit-like animation builders
+- [tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
 - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
 - [PopMenu](https://github.com/CaliCastle/PopMenu) - A fully customizable popup style menu for iOS 😎
@@ -1538,6 +1520,8 @@
 
 ## etc
 
+- [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [EZPods](https://github.com/thellimist/EZPods) - Easy CocoaPods checklist and tutorial
 - [StackViewLayout](https://github.com/layoutBox/StackViewLayout) - Coming soon!
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
