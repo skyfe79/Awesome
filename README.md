@@ -439,7 +439,6 @@
 - [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue providing a blurred overlay effect.
 - [AYVibrantButton](https://github.com/a1anyip/AYVibrantButton) - A stylish button with iOS 8 vibrancy effect
 - [chameleon](https://github.com/vicc/chameleon) - Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
-- [onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant animated GIF engine for iOS
 - [OLEContainerScrollView](https://github.com/ole/OLEContainerScrollView) - A UIScrollView subclass that intelligently handles multiple child scroll views and does not interfere with UIKitʼs cell reuse functionality.
 - [FastAnimationWithPOP](https://github.com/WilliamZang/FastAnimationWithPOP) - A very simplifty animation framework. Powerby Facebook POP(https://github.com/facebook/pop). Use 'fast animation' you can add animations without any lines of code.  You can see the DEMO in project DEMO(https://github.com/WilliamZang/FastAnimationWithPopDemo).
@@ -723,7 +722,6 @@
 - [SFContainerViewController](https://github.com/krzysztofzablocki/SFContainerViewController) - UIViewControllers containment predating Apple implementation. Works in both 4.x and 5.x iOS, no memory or hierarchy issues.
 - [AcornCharts-for-iOS](https://github.com/honcheng/AcornCharts-for-iOS) - Fun way to display charts using balls that responds to device tilting 
 - [SoundArt](https://github.com/unixpickle/SoundArt) - Draw sound waves and hear them, iOS only
-- [DataKit](https://github.com/eaigner/DataKit) - DataKit makes it easy to add web backends to your apps!
 - [How-To-Create-a-Rotating-Wheel-Control-with-UIKit](https://github.com/funkyboy/How-To-Create-a-Rotating-Wheel-Control-with-UIKit) - Code for the tutorial "How To Create a Rotating Wheel Control with UIKit" published on raywenderlich.com
 - [Opaque](https://github.com/MassiveHealth/Opaque) - A prototype UI showing how one would implement an app with Clear-like animations & gestures.
 - [LeveyPopListView](https://github.com/levey/LeveyPopListView) - LeveyPopListView is an alternative of UIActionSheet : ) 
@@ -1354,6 +1352,10 @@
 
 ## Swift
 
+- [BottomSheet](https://github.com/gaetanomatonti/BottomSheet) - A BottomSheet component made with UIKit. Completely written in Swift 🧡
+- [BottomSheet](https://github.com/finn-no/BottomSheet) - Custom modal presentation style for thumb-friendly interactive views
+- [CompositionalDiffablePlayground.ios](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios) - Examples showing Compositional Layout, Diffable Data Sources and more!
+- [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [Animo](https://github.com/eure/Animo) - Bring life to CALayers with SpriteKit-like animation builders
 - [tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
@@ -1520,6 +1522,8 @@
 
 ## etc
 
+- [awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [EZPods](https://github.com/thellimist/EZPods) - Easy CocoaPods checklist and tutorial
@@ -1535,6 +1539,7 @@
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
 - [BlurredSegues](https://github.com/edwurtle/BlurredSegues) - Modal Blurred Segue (and unwind segue) for iOS, full project to demo EDWBlurredSegue and EDWBlurredUnwindSegue
+- [onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
 - [code](https://github.com/effectiveobjc/code) - Code for the Effective Objective-C 2.0 book
 - [AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) - null
