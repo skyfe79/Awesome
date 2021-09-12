@@ -1352,6 +1352,12 @@
 
 ## Swift
 
+- [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework
+- [collection-view-compositional-layout-demo](https://github.com/Lickability/collection-view-compositional-layout-demo) - An exploration of the iOS 13 API UICollectionViewCompositionalLayout
+- [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - 📏 A set of advanced compositional layouts for UICollectionView with examples [Swift 5.3, iOS 13].
+- [CompositionalLayoutDSL](https://github.com/faberNovel/CompositionalLayoutDSL) - CompositionalLayoutDSL, library to simplify the creation of UICollectionViewCompositionalLayout. It wraps the UIKit API and makes the code shorter and easier to read.
+- [FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS
+- [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [BottomSheet](https://github.com/gaetanomatonti/BottomSheet) - A BottomSheet component made with UIKit. Completely written in Swift 🧡
 - [BottomSheet](https://github.com/finn-no/BottomSheet) - Custom modal presentation style for thumb-friendly interactive views
 - [CompositionalDiffablePlayground.ios](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios) - Examples showing Compositional Layout, Diffable Data Sources and more!
