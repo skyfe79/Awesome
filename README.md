@@ -148,6 +148,8 @@
 
 ## Go
 
+- [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [geopattern](https://github.com/pravj/geopattern) - :triangular_ruler: Create beautiful generative image patterns from a string in golang.
 - [glyph](https://github.com/dbriemann/glyph) - A static site generator utilizing Github issues and pages.
 - [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -321,6 +323,7 @@
 
 ## JavaScript
 
+- [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
 - [simple-octokit](https://github.com/vweevers/simple-octokit) - Preconfigured GitHub API client with GraphQL and REST.
 - [jsengine](https://github.com/cliqz-oss/jsengine) - (deprecated) Javascript runtime for mobile platforms
@@ -359,6 +362,7 @@
 
 ## Jupyter-Notebook
 
+- [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
@@ -1333,6 +1337,7 @@
 
 ## Rust
 
+- [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
 - [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
@@ -1352,6 +1357,10 @@
 
 ## Swift
 
+- [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
+- [SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
+- [BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers
+- [SwiftDomainParser](https://github.com/Dashlane/SwiftDomainParser) - A Full Swift Lightweight Framework that uses the Public Suffix list to Parse URLs 
 - [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework
 - [collection-view-compositional-layout-demo](https://github.com/Lickability/collection-view-compositional-layout-demo) - An exploration of the iOS 13 API UICollectionViewCompositionalLayout
 - [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - 📏 A set of advanced compositional layouts for UICollectionView with examples [Swift 5.3, iOS 13].
