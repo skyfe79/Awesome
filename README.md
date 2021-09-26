@@ -9,6 +9,7 @@
 - [C](#C)
 - [C#](#C#)
 - [C++](#C++)
+- [Dockerfile](#Dockerfile)
 - [GLSL](#GLSL)
 - [Gnuplot](#Gnuplot)
 - [Go](#Go)
@@ -22,6 +23,7 @@
 - [PHP](#PHP)
 - [PLpgSQL](#PLpgSQL)
 - [Perl](#Perl)
+- [PowerShell](#PowerShell)
 - [Python](#Python)
 - [Ruby](#Ruby)
 - [Rust](#Rust)
@@ -138,6 +140,10 @@
 - [cocoa-linear](https://github.com/brow/cocoa-linear) - Vectors, matrices, quaternions, and eigenstuff for Mac OS X and iPhone
 - [cocoa-viewfinder](https://github.com/brow/cocoa-viewfinder) - Real-time camera rotation tracking for iPhone
 
+## Dockerfile
+
+- [python-black-check](https://github.com/RojerGS/python-black-check) - A customisable GitHub action to check the style of Python code with black.
+
 ## GLSL
 
 - [ShaderKit](https://github.com/twostraws/ShaderKit) - A library of fragment shaders you can use in any SpriteKit project.
@@ -148,6 +154,9 @@
 
 ## Go
 
+- [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
+- [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
+- [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 - [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [geopattern](https://github.com/pravj/geopattern) - :triangular_ruler: Create beautiful generative image patterns from a string in golang.
@@ -323,6 +332,8 @@
 
 ## JavaScript
 
+- [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
+- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
 - [simple-octokit](https://github.com/vweevers/simple-octokit) - Preconfigured GitHub API client with GraphQL and REST.
@@ -1305,8 +1316,18 @@
 
 - [ffmpeg-ios-compile](https://github.com/xiewei-wayne/ffmpeg-ios-compile) - How to compile ffmpeg v1.0 libs for iOS.
 
+## PowerShell
+
+- [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+
 ## Python
 
+- [Bezier.py](https://github.com/torresjrjr/Bezier.py) - ➰ Create Bezier curves in Python [Mirror]
+- [Defity](https://github.com/hongquan/Defity) - Speedy library to detect file type from initial part of file content
+- [black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [peps](https://github.com/python/peps) - Python Enhancement Proposals
+- [cpython](https://github.com/python/cpython) - The Python programming language
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [OpenDartReader](https://github.com/FinanceData/OpenDartReader) - Open DART Reader
 - [libchromiumcontent](https://github.com/izhengzhixian/libchromiumcontent) - null
@@ -1337,6 +1358,11 @@
 
 ## Rust
 
+- [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
+- [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
@@ -1357,6 +1383,9 @@
 
 ## Swift
 
+- [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+- [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - The easy way to use sockets on Apple platforms
+- [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
 - [SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers
@@ -1524,6 +1553,7 @@
 
 ## TypeScript
 
+- [jupyterlab_app](https://github.com/jupyterlab/jupyterlab_app) - A desktop application for JupyterLab, based on Electron.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
