@@ -18,6 +18,7 @@
 - [JavaScript](#JavaScript)
 - [Jupyter Notebook](#Jupyter-Notebook)
 - [Kotlin](#Kotlin)
+- [Metal](#Metal)
 - [Objective-C](#Objective-C)
 - [Objective-C++](#Objective-C++)
 - [PHP](#PHP)
@@ -32,6 +33,7 @@
 - [Swift](#Swift)
 - [TypeScript](#TypeScript)
 - [Vim script](#Vim-script)
+- [Vue](#Vue)
 - [etc](#etc)
 
 ## ActionScript
@@ -332,6 +334,8 @@
 
 ## JavaScript
 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -380,6 +384,7 @@
 
 ## Kotlin
 
+- [Landscapist](https://github.com/skydoves/Landscapist) - 🍂 Jetpack Compose image loading library which can fetch and display network images using Glide, Coil, and Fresco.
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
 - [BottomDrawer](https://github.com/HeyAlex/BottomDrawer) - BottomSheet with animations
 - [TedNaverMapClustering](https://github.com/ParkSangGwon/TedNaverMapClustering) - 네이버지도용 클러스터 유틸리티 라이브러리
@@ -393,6 +398,10 @@
 - [android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [CircularImageView](https://github.com/lopspower/CircularImageView) - Create circular ImageView in Android in the simplest way possible
 - [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
+
+## Metal
+
+- [MSLExamples](https://github.com/satoshi0212/MSLExamples) - Metal Shader Language(MSL) examples.
 
 ## Objective-C
 
@@ -1322,6 +1331,9 @@
 
 ## Python
 
+- [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) - Visit PixelLib's official documentation  https://pixellib.readthedocs.io/en/latest/
+- [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+- [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
 - [Bezier.py](https://github.com/torresjrjr/Bezier.py) - ➰ Create Bezier curves in Python [Mirror]
 - [Defity](https://github.com/hongquan/Defity) - Speedy library to detect file type from initial part of file content
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -1358,6 +1370,9 @@
 
 ## Rust
 
+- [youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
@@ -1383,6 +1398,12 @@
 
 ## Swift
 
+- [AR_100Days](https://github.com/satoshi0212/AR_100Days) - null
+- [DeviceCameraMonitorSample](https://github.com/satoshi0212/DeviceCameraMonitorSample) - null
+- [BlueSocket](https://github.com/Kitura/BlueSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, and Linux.
+- [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+- [xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
+- [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - A Swift Package to easily play YouTube videos 📺
 - [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 - [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - The easy way to use sockets on Apple platforms
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
@@ -1553,6 +1574,10 @@
 
 ## TypeScript
 
+- [notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
+- [rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects 
+- [setup-rust](https://github.com/ATiltedTree/setup-rust) - A action to setup rust at a specific version using rustup.
+- [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [jupyterlab_app](https://github.com/jupyterlab/jupyterlab_app) - A desktop application for JupyterLab, based on Electron.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
@@ -1564,6 +1589,10 @@
 ## Vim-script
 
 - [Trinity](https://github.com/wenlongche/Trinity) - A (G)Vim plugin which build the trinity of Source Explorer, TagList and NERD tree to be an IDE for software development.
+
+## Vue
+
+- [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 사이트
 
 ## etc
 
