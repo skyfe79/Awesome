@@ -48,6 +48,8 @@
 
 ## C
 
+- [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+- [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
@@ -158,6 +160,8 @@
 
 ## Go
 
+- [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
+- [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
 - [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -336,6 +340,11 @@
 
 ## JavaScript
 
+- [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [twilio-video.js](https://github.com/twilio/twilio-video.js) - Twilio’s Programmable Video JavaScript SDK
+- [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [timeline-editor-react](https://github.com/kevintech/timeline-editor-react) - A timeline like a video editor made using react
 - [videoeditor](https://github.com/kudlav/videoeditor) - Web Based Video Editor Using MLT Framework, Bachelor thesis
@@ -1345,6 +1354,23 @@
 
 ## Python
 
+- [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
+- [huey](https://github.com/coleifer/huey) - a little task queue for python
+- [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
+- [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [tiny_python_projects](https://github.com/kyclark/tiny_python_projects) - Code for Tiny Python Projects (Manning, 2020, ISBN 1617297518). Learning Python through test-driven development of games and puzzles.
+- [pymotw-3](https://github.com/dhellmann/pymotw-3) - null
+- [OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot for TA, arbitrage and social trading with an advanced web interface
+- [mercy-reader](https://github.com/hex0cter/mercy-reader) - A Python library to extract clean(er), readable text from web pages via Mercury Web Parser.
+- [reader](https://github.com/zyocum/reader) - Extract clean(er), readable text from web pages via Mercury Web Parser.
+- [mercury-parserpy](https://github.com/Girbons/mercury-parserpy) - python api wrapper for https://mercury.postlight.com/web-parser/
+- [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+- [stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
+- [awesome-ml-demos-with-ios](https://github.com/tucan9389/awesome-ml-demos-with-ios) - The challenge projects for Inferencing machine learning models on iOS
+- [auto-caption](https://github.com/aguang-xyz/auto-caption) - Automatic captioning for movies.
+- [auto-subtitle](https://github.com/harikrishnantb/auto-subtitle) - Command-line utility for auto-generating subtitles for any video file
 - [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) - Visit PixelLib's official documentation  https://pixellib.readthedocs.io/en/latest/
 - [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
@@ -1384,6 +1410,7 @@
 
 ## Rust
 
+- [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
 - [youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -1403,6 +1430,7 @@
 
 ## Shell
 
+- [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [webrtc-build-scripts](https://github.com/pristineio/webrtc-build-scripts) - A set of build scripts useful for building WebRTC libraries for Android and iOS.
 - [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [ffmpeg-android](https://github.com/WritingMinds/ffmpeg-android) - FFmpeg for Android compiled with x264, libass, fontconfig, freetype, fribidi and lame (Supports Android 4.1+)
@@ -1412,6 +1440,8 @@
 
 ## Swift
 
+- [swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
+- [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM) - Template iOS app using Clean Architecture and MVVM. Includes DIContainer, FlowCoordinator, DTO, Response Caching and one of the views in SwiftUI 
 - [LicensePlist](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications
 - [AR_100Days](https://github.com/satoshi0212/AR_100Days) - null
 - [DeviceCameraMonitorSample](https://github.com/satoshi0212/DeviceCameraMonitorSample) - null
@@ -1446,7 +1476,7 @@
 - [InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout) - Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging, NSProxy delegate, Reactive extension, SectionModel & AnimatableSectionModel support
 - [Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - SnackBar provide brief feedback about an operation through a message at the bottom of the screen.
-- [surmagic](https://github.com/gurhub/surmagic) - 🚀 Create XCFrameworks with ease! A Command Line Tool to create XCFrameworks for multiple platforms at one shot! The better way to deal with XCFrameworks for iOS, Mac Catalyst, tvOS, macOS, and watchOS.
+- [surmagic](https://github.com/gurhub/surmagic) - 🚀 Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! The better way to deal with XCFrameworks for iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 - [Gradient-Meshes-with-SceneKit](https://github.com/movingparts-io/Gradient-Meshes-with-SceneKit) - Building Gradient Meshes with SceneKit.
 - [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
@@ -1589,6 +1619,9 @@
 
 ## TypeScript
 
+- [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
+- [python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
+- [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [video-editing-timeline](https://github.com/pansyjs/video-editing-timeline) - Timeline for video editing(为视频编辑而写时间线)
 - [notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
@@ -1614,6 +1647,9 @@
 
 ## etc
 
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
+- [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
