@@ -340,6 +340,21 @@
 
 ## JavaScript
 
+- [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
+- [blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
+- [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
+- [atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
+- [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+- [core-js](https://github.com/zloirock/core-js) - Standard Library
+- [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
+- [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - 🍡@quilljs editor component for @vuejs
+- [react-wasm-gif-maker](https://github.com/fireship-io/react-wasm-gif-maker) - Video to GIF with WASM (FFpeg) & React
+- [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [twilio-video.js](https://github.com/twilio/twilio-video.js) - Twilio’s Programmable Video JavaScript SDK
 - [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
@@ -399,7 +414,7 @@
 
 ## Jupyter-Notebook
 
-- [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
+- [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
@@ -1169,7 +1184,6 @@
 - [AFCache](https://github.com/artifacts/AFCache) - AFCache is an HTTP cache for iOS and OSX seeking towards full RFC2616 compliance
 - [KVO-Notification-Manager](https://github.com/schwa/KVO-Notification-Manager) - KVOBlockNotificationCenter is a set of source code for using blocks with Cocoa's Key Value Observing (KVO).  Originally inspired by Mike Ash's "KVO Done Right" blog post and code: http://www.mikeash.com/?page=pyblog/key-value-observing-done-right.html   See http://toxicsoftware.com/kvoblocks/ for more information.
 - [MyAVControllerDemo](https://github.com/benlodotcom/MyAVControllerDemo) - A little sample showing how to access directly the datas of the camera in iOS
-- [Smart-Alert-View](https://github.com/Constantine-Fry/Smart-Alert-View) - Smart Alert View allow to put any view in a UIAlertView. 
 - [OARequestHeader](https://github.com/Gurpartap/OARequestHeader) - A quickie to generate OAuth headers when using OAuthConsumer library in Mac and iPhone apps.
 - [GSTwitPicEngine](https://github.com/Gurpartap/GSTwitPicEngine) - Objective C wrapper around TwitPic's OAuth and OAuth Echo API with OAuthConsumer Lib. Deprecated.
 - [TwitterClient](https://github.com/dojoiphone/TwitterClient) - Client Twitter pour Iphone
@@ -1354,6 +1368,7 @@
 
 ## Python
 
+- [dart-fss](https://github.com/josw123/dart-fss) - 한국 금융감독원에서 운영하는 다트(Dart) 시스템 크롤링을 위한 라이브러리
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -1430,6 +1445,7 @@
 
 ## Shell
 
+- [n](https://github.com/tj/n) - Node version management
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [webrtc-build-scripts](https://github.com/pristineio/webrtc-build-scripts) - A set of build scripts useful for building WebRTC libraries for Android and iOS.
 - [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
@@ -1440,6 +1456,8 @@
 
 ## Swift
 
+- [MiniSuperApp-fastcampus](https://github.com/nsoojin/MiniSuperApp-fastcampus) - 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 https://fastcampus.co.kr/dev_red_rsj
+- [ModernRIBs](https://github.com/DevYeom/ModernRIBs) - Uber's RIBs with Combine.
 - [swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM) - Template iOS app using Clean Architecture and MVVM. Includes DIContainer, FlowCoordinator, DTO, Response Caching and one of the views in SwiftUI 
 - [LicensePlist](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications
@@ -1619,6 +1637,10 @@
 
 ## TypeScript
 
+- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
+- [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
+- [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
 - [python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -1642,11 +1664,14 @@
 
 ## Vue
 
+- [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
+- [vue-modular-architecture](https://github.com/DarkC0der11/vue-modular-architecture) - null
 - [vega](https://github.com/toshusai/vega) - Browser-based video editing software.
 - [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 사이트
 
 ## etc
 
+- [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
