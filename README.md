@@ -9,6 +9,7 @@
 - [C](#C)
 - [C#](#C#)
 - [C++](#C++)
+- [CSS](#CSS)
 - [Dockerfile](#Dockerfile)
 - [GLSL](#GLSL)
 - [Gnuplot](#Gnuplot)
@@ -146,6 +147,10 @@
 - [cocoa-linear](https://github.com/brow/cocoa-linear) - Vectors, matrices, quaternions, and eigenstuff for Mac OS X and iPhone
 - [cocoa-viewfinder](https://github.com/brow/cocoa-viewfinder) - Real-time camera rotation tracking for iPhone
 
+## CSS
+
+- [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
+
 ## Dockerfile
 
 - [python-black-check](https://github.com/RojerGS/python-black-check) - A customisable GitHub action to check the style of Python code with black.
@@ -190,6 +195,7 @@
 
 ## Java
 
+- [CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.
 - [Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android) - This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
 - [GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android) - This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
 - [TedPermission](https://github.com/ParkSangGwon/TedPermission) - Easy check permission library for Android Marshmallow
@@ -340,6 +346,9 @@
 
 ## JavaScript
 
+- [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
+- [popper-core](https://github.com/popperjs/popper-core) - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
@@ -1372,7 +1381,7 @@
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [tiny_python_projects](https://github.com/kyclark/tiny_python_projects) - Code for Tiny Python Projects (Manning, 2020, ISBN 1617297518). Learning Python through test-driven development of games and puzzles.
@@ -1425,6 +1434,7 @@
 
 ## Rust
 
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
 - [youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
@@ -1456,6 +1466,7 @@
 
 ## Swift
 
+- [SwiftProcessing](https://github.com/jjkaufman/SwiftProcessing) - null
 - [MiniSuperApp-fastcampus](https://github.com/nsoojin/MiniSuperApp-fastcampus) - 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 https://fastcampus.co.kr/dev_red_rsj
 - [ModernRIBs](https://github.com/DevYeom/ModernRIBs) - Uber's RIBs with Combine.
 - [swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
@@ -1637,6 +1648,9 @@
 
 ## TypeScript
 
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
+- [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
@@ -1664,6 +1678,8 @@
 
 ## Vue
 
+- [vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue
+- [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker) - Vue2 date range picker
 - [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [vue-modular-architecture](https://github.com/DarkC0der11/vue-modular-architecture) - null
 - [vega](https://github.com/toshusai/vega) - Browser-based video editing software.
@@ -1671,6 +1687,7 @@
 
 ## etc
 
+- [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
