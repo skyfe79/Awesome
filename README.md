@@ -10,6 +10,7 @@
 - [C#](#C#)
 - [C++](#C++)
 - [CSS](#CSS)
+- [Cython](#Cython)
 - [Dockerfile](#Dockerfile)
 - [GLSL](#GLSL)
 - [Gnuplot](#Gnuplot)
@@ -105,6 +106,7 @@
 
 ## C++
 
+- [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [bloom_cpp](https://github.com/duckduckgo/bloom_cpp) - null
@@ -152,6 +154,10 @@
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 
+## Cython
+
+- [ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
+
 ## Dockerfile
 
 - [python-black-check](https://github.com/RojerGS/python-black-check) - A customisable GitHub action to check the style of Python code with black.
@@ -166,6 +172,8 @@
 
 ## Go
 
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
@@ -347,6 +355,9 @@
 
 ## JavaScript
 
+- [gh-action-bump-version](https://github.com/maks-stupak/gh-action-bump-version) - GitHub Action for automated npm version bump.
+- [action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
+- [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sl](https://github.com/rousan/sl) - :beers: An utility tool to list npm scripts from package.json file
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [popper-core](https://github.com/popperjs/popper-core) - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
@@ -425,6 +436,7 @@
 
 ## Jupyter-Notebook
 
+- [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
@@ -474,7 +486,7 @@
 - [ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) - OSX Moder Look UI
 - [UINavigationItem-Loading](https://github.com/antongaenko/UINavigationItem-Loading) - Simple category to show a loading status in a navigation bar in place of left/right items or title.
 - [FlexSlidingView](https://github.com/hwiesmann/FlexSlidingView) - null
-- [STPopup](https://github.com/kevin0571/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
+- [STPopup](https://github.com/kevin-lyn/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
 - [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView
 - [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
 - [FancyTabBar](https://github.com/marvelapp/FancyTabBar) - An expandable and customisable tabbar for iOS
@@ -653,7 +665,7 @@
 - [MSMatrixController](https://github.com/MarcoSero/MSMatrixController) - A component to organize your view controllers in a gesture-based 2D matrix.
 - [IIIThumbFlow](https://github.com/sehone/IIIThumbFlow) - IIIThumbFlow is a simple iOS view component for presenting images in a vertical flow style.
 - [CAAnimation-EasingEquations](https://github.com/bryanoltman/CAAnimation-EasingEquations) - A category on CAAnimation that provides a number of easing equations to add some zazz to your app (with examples!)
-- [MBAlertView](https://github.com/mobitar/MBAlertView) - [DEPRECATED] A fast block-based alert and HUD library with a simple API.
+- [MBAlertView](https://github.com/moughxyz/MBAlertView) - [DEPRECATED] A fast block-based alert and HUD library with a simple API.
 - [GIKPopoverBackgroundView](https://github.com/GiK/GIKPopoverBackgroundView) - GIKPopoverBackgroundView is a UIPopoverBackgroundView subclass which shows how to customise the background of a UIPopoverController.
 - [ZGParallelView](https://github.com/zhigang1992/ZGParallelView) - ParallelView For UITableView
 - [SCPageScrubberBar](https://github.com/ohsc/SCPageScrubberBar) - A page scrubber bar like ibooks.
@@ -970,7 +982,6 @@
 - [Pholio](https://github.com/bdewey/Pholio) - iPad photo gallery. Available on the App Store.
 - [PhotoAppLink](https://github.com/pocketpixels/PhotoAppLink) - iOS library for connecting photo editing apps
 - [Box2D-Examples](https://github.com/yannickl/Box2D-Examples) - Box2D examples (Ragdoll, Buoyancy, etc.)  for Cocos2D for iPhone
-- [MCSegmentedControl](https://github.com/oettam/MCSegmentedControl) - subclass of UISegmentedControl with custom colors
 - [SerialCommunicationFramework](https://github.com/yusukeSekikawa/SerialCommunicationFramework) - SerialCommunication framework for iOS.iOS version of Android ADK
 - [ios-image-filters](https://github.com/esilverberg/ios-image-filters) - photoshop-style filter interface for UIImage class on iOS to make instagram-style images
 - [BJImageCropper](https://github.com/barrettj/BJImageCropper) - A simple UIView subclass that allows a user to crop an image.  If you use it, I'd love to know!  Twitter: @barrettjacobsen
@@ -1469,6 +1480,7 @@
 
 ## Swift
 
+- [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 - [SwiftProcessing](https://github.com/jjkaufman/SwiftProcessing) - null
 - [MiniSuperApp-fastcampus](https://github.com/nsoojin/MiniSuperApp-fastcampus) - 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 https://fastcampus.co.kr/dev_red_rsj
 - [ModernRIBs](https://github.com/DevYeom/ModernRIBs) - Uber's RIBs with Combine.
@@ -1549,7 +1561,7 @@
 - [SwiftUIDrag](https://github.com/demharusnam/SwiftUIDrag) - A simple, customizable, and intuitive SwiftUI wrapper-view enabling dragging, floating, and/or collapsing for its content. 
 - [CollectionThing](https://github.com/liscio/CollectionThing) - Scroll fast using pure SwiftUI
 - [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - A collection view for SwiftUI
-- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI framework that contains 40+ customizable UI components
+- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI library that contains 40+ customizable UI components
 - [ElegantPages](https://github.com/ThasianX/ElegantPages) - The elegant full screen page view missed in SwiftUI
 - [SVEVideoUI](https://github.com/SergioEstevao/SVEVideoUI) - A video component for SwiftUI
 - [fluxus](https://github.com/johnsusek/fluxus) - Flux for SwiftUI, inspired by Vuex
