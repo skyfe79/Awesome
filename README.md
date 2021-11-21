@@ -355,6 +355,11 @@
 
 ## JavaScript
 
+- [tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - null
+- [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
+- [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
+- [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
+- [youtube-metadata-from-url](https://github.com/ezefranca/youtube-metadata-from-url) - Simple module to get a video metadata from url
 - [gh-action-bump-version](https://github.com/maks-stupak/gh-action-bump-version) - GitHub Action for automated npm version bump.
 - [action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -1390,6 +1395,7 @@
 
 ## Python
 
+- [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
 - [dart-fss](https://github.com/josw123/dart-fss) - 한국 금융감독원에서 운영하는 다트(Dart) 시스템 크롤링을 위한 라이브러리
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
@@ -1447,6 +1453,7 @@
 
 ## Rust
 
+- [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [evm](https://github.com/rust-blockchain/evm) - Pure Rust implementation of Ethereum Virtual Machine
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
@@ -1480,6 +1487,10 @@
 
 ## Swift
 
+- [SceneKit-SCNLine](https://github.com/maxxfrazer/SceneKit-SCNLine) - Draw a tube or thick line in SceneKit
+- [ImpressionKit](https://github.com/623637646/ImpressionKit) - A tool to detect impression events for UIView (exposure of UIView) in iOS. SwiftUI supported.
+- [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - null
+- [swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 - [SwiftProcessing](https://github.com/jjkaufman/SwiftProcessing) - null
 - [MiniSuperApp-fastcampus](https://github.com/nsoojin/MiniSuperApp-fastcampus) - 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 https://fastcampus.co.kr/dev_red_rsj
@@ -1587,7 +1598,7 @@
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [DateHelper](https://github.com/melvitax/DateHelper) - A Swift Date extension helper
 - [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values
-- [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults
+- [Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [PartialSheet](https://github.com/AndreaMiotto/PartialSheet) - A SwiftUI Partial Sheet fully customizable with dynamic height
 - [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [NavigationStack](https://github.com/indieSoftware/NavigationStack) - An alternative to SwiftUI's navigation with greater flexibility and custom transition animation support.
@@ -1663,6 +1674,8 @@
 
 ## TypeScript
 
+- [design-editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js
+- [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
