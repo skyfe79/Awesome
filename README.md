@@ -50,6 +50,7 @@
 
 ## C
 
+- [qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
@@ -355,6 +356,8 @@
 
 ## JavaScript
 
+- [vue3-quill](https://github.com/flyween/vue3-quill) - Quill editor for vue3
+- [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - null
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
@@ -471,6 +474,7 @@
 
 ## Objective-C
 
+- [Ejecta](https://github.com/phoboslab/Ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS
 - [promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 - [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
@@ -1487,6 +1491,7 @@
 
 ## Swift
 
+- [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [SceneKit-SCNLine](https://github.com/maxxfrazer/SceneKit-SCNLine) - Draw a tube or thick line in SceneKit
 - [ImpressionKit](https://github.com/623637646/ImpressionKit) - A tool to detect impression events for UIView (exposure of UIView) in iOS. SwiftUI supported.
 - [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - null
@@ -1674,6 +1679,9 @@
 
 ## TypeScript
 
+- [vue-quill](https://github.com/vueup/vue-quill) - Rich Text Editor Component for Vue 3.
+- [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
+- [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [design-editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js
 - [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1696,7 +1704,7 @@
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
-- [adblocker](https://github.com/cliqz-oss/adblocker) - Efficient embeddable adblocker library
+- [adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 
