@@ -107,6 +107,7 @@
 
 ## C++
 
+- [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -356,6 +357,15 @@
 
 ## JavaScript
 
+- [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
+- [vue-tags-input](https://github.com/JohMun/vue-tags-input) - A tags input component for VueJS
+- [react-tagsinput](https://github.com/olahol/react-tagsinput) - Highly customizable React component for inputing tags.
+- [vue-input-tag](https://github.com/matiastucci/vue-input-tag) - :bookmark: Vue.js 2.0 Input Tag Component
+- [tokenfield](https://github.com/KaneCohen/tokenfield) - Input field with tagging/token/chip capabilities written in raw JavaScript.
+- [drei](https://github.com/pmndrs/drei) - 🌭 useful helpers for react-three-fiber
+- [react-three-babel](https://github.com/pmndrs/react-three-babel) - A Babel plugin that automatically builds the extend catalogue of known native Three.js elements
+- [Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+- [codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
 - [vue3-quill](https://github.com/flyween/vue3-quill) - Quill editor for vue3
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - null
@@ -1426,7 +1436,7 @@
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [cpython](https://github.com/python/cpython) - The Python programming language
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [OpenDartReader](https://github.com/FinanceData/OpenDartReader) - Open DART Reader
 - [libchromiumcontent](https://github.com/izhengzhixian/libchromiumcontent) - null
@@ -1457,6 +1467,7 @@
 
 ## Rust
 
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [evm](https://github.com/rust-blockchain/evm) - Pure Rust implementation of Ethereum Virtual Machine
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -1491,6 +1502,7 @@
 
 ## Swift
 
+- [UIPiPDemo](https://github.com/uakihir0/UIPiPDemo) - Demo App for Picture-in-Picture of Arbitrary UIView in iOS
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [SceneKit-SCNLine](https://github.com/maxxfrazer/SceneKit-SCNLine) - Draw a tube or thick line in SceneKit
 - [ImpressionKit](https://github.com/623637646/ImpressionKit) - A tool to detect impression events for UIView (exposure of UIView) in iOS. SwiftUI supported.
@@ -1679,6 +1691,14 @@
 
 ## TypeScript
 
+- [react-custom-chips](https://github.com/loweisz/react-custom-chips) - Very powerful, lightweight and customizable chips input field 🍟
+- [valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
+- [use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
+- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+- [use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
+- [jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [vue-quill](https://github.com/vueup/vue-quill) - Rich Text Editor Component for Vue 3.
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
@@ -1701,6 +1721,7 @@
 - [setup-rust](https://github.com/ATiltedTree/setup-rust) - A action to setup rust at a specific version using rustup.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -1714,6 +1735,8 @@
 
 ## Vue
 
+- [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
+- [automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [vue-confirm-dialog](https://github.com/aslanon/vue-confirm-dialog) - Simple Confirm Dialog verification plugin with Vue.js.
@@ -1722,7 +1745,7 @@
 - [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [vue-modular-architecture](https://github.com/DarkC0der11/vue-modular-architecture) - null
 - [vega](https://github.com/toshusai/vega) - Browser-based video editing software.
-- [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 사이트
+- [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 (Hangul Font Collection that can be used Commercially with Ads)
 
 ## etc
 
@@ -1733,7 +1756,6 @@
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [EZPods](https://github.com/thellimist/EZPods) - Easy CocoaPods checklist and tutorial
