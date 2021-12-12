@@ -107,6 +107,7 @@
 
 ## C++
 
+- [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
@@ -144,7 +145,6 @@
 - [nui3](https://github.com/libnui/nui3) - libnui v3
 - [aJson](https://github.com/interactive-matter/aJson) - aJson is an Arduino library to enable JSON processing with Arduino. It easily enables you to decode, create, manipulate and encode JSON directly from and to data structures.
 - [node-gif](https://github.com/pkrumins/node-gif) - A node.js C++ module for creating GIF images and animated GIFs from RGB or RGBA buffers.
-- [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [liteqr](https://github.com/jverkoey/liteqr) - Lite QR Reader in Objective C ported from zxing
 - [Zlib](https://github.com/truszkowski/Zlib) - compress and decompress based on zlib
 - [ftgles](https://github.com/cdave1/ftgles) - A truetype font rendering library for OpenGL ES on iOS devices (iPad and iPhone)
@@ -357,6 +357,7 @@
 
 ## JavaScript
 
+- [yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [vue-tags-input](https://github.com/JohMun/vue-tags-input) - A tags input component for VueJS
 - [react-tagsinput](https://github.com/olahol/react-tagsinput) - Highly customizable React component for inputing tags.
@@ -378,7 +379,7 @@
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sl](https://github.com/rousan/sl) - :beers: An utility tool to list npm scripts from package.json file
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [popper-core](https://github.com/popperjs/popper-core) - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
+- [floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
@@ -1467,6 +1468,7 @@
 
 ## Rust
 
+- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [evm](https://github.com/rust-blockchain/evm) - Pure Rust implementation of Ethereum Virtual Machine
@@ -1691,6 +1693,8 @@
 
 ## TypeScript
 
+- [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
+- [SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [react-custom-chips](https://github.com/loweisz/react-custom-chips) - Very powerful, lightweight and customizable chips input field 🍟
 - [valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
@@ -1721,7 +1725,7 @@
 - [setup-rust](https://github.com/ATiltedTree/setup-rust) - A action to setup rust at a specific version using rustup.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -1745,7 +1749,7 @@
 - [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [vue-modular-architecture](https://github.com/DarkC0der11/vue-modular-architecture) - null
 - [vega](https://github.com/toshusai/vega) - Browser-based video editing software.
-- [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 (Hangul Font Collection that can be used Commercially with Ads)
+- [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 (Hangul Font Collection that can be used Commercially without Ads)
 
 ## etc
 
