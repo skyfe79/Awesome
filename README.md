@@ -153,6 +153,7 @@
 
 ## CSS
 
+- [gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 
@@ -174,6 +175,7 @@
 
 ## Go
 
+- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
@@ -357,13 +359,17 @@
 
 ## JavaScript
 
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+- [whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
+- [react-trello-board](https://github.com/web-pal/react-trello-board) - Trello like board based on React, Redux, React-dnd
+- [react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 - [yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [vue-tags-input](https://github.com/JohMun/vue-tags-input) - A tags input component for VueJS
 - [react-tagsinput](https://github.com/olahol/react-tagsinput) - Highly customizable React component for inputing tags.
 - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) - :bookmark: Vue.js 2.0 Input Tag Component
 - [tokenfield](https://github.com/KaneCohen/tokenfield) - Input field with tagging/token/chip capabilities written in raw JavaScript.
-- [drei](https://github.com/pmndrs/drei) - 🌭 useful helpers for react-three-fiber
+- [drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [react-three-babel](https://github.com/pmndrs/react-three-babel) - A Babel plugin that automatically builds the extend catalogue of known native Three.js elements
 - [Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
@@ -1468,6 +1474,7 @@
 
 ## Rust
 
+- [polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
@@ -1504,6 +1511,7 @@
 
 ## Swift
 
+- [AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) - iOS 13-compatible backports of commonly used async/await-based system APIs that are only available from iOS 15 by default.
 - [UIPiPDemo](https://github.com/uakihir0/UIPiPDemo) - Demo App for Picture-in-Picture of Arbitrary UIView in iOS
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [SceneKit-SCNLine](https://github.com/maxxfrazer/SceneKit-SCNLine) - Draw a tube or thick line in SceneKit
@@ -1614,7 +1622,7 @@
 - [NSAttributedStringBuilder](https://github.com/ethanhuang13/NSAttributedStringBuilder) - Composing NSAttributedString with SwiftUI-style syntax
 - [FavIcon](https://github.com/leonbreedt/FavIcon) - Swift library to detect icons supported by a website. 
 - [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
-- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
 - [DateHelper](https://github.com/melvitax/DateHelper) - A Swift Date extension helper
 - [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values
 - [Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
@@ -1693,6 +1701,10 @@
 
 ## TypeScript
 
+- [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
+- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0. 
+- [react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [react-custom-chips](https://github.com/loweisz/react-custom-chips) - Very powerful, lightweight and customizable chips input field 🍟
@@ -1753,6 +1765,7 @@
 
 ## etc
 
+- [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
