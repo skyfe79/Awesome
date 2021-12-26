@@ -50,7 +50,7 @@
 
 ## C
 
-- [qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression
+- [qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
@@ -359,6 +359,7 @@
 
 ## JavaScript
 
+- [tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
 - [react-trello-board](https://github.com/web-pal/react-trello-board) - Trello like board based on React, Redux, React-dnd
@@ -385,7 +386,6 @@
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sl](https://github.com/rousan/sl) - :beers: An utility tool to list npm scripts from package.json file
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
@@ -470,7 +470,7 @@
 ## Kotlin
 
 - [Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
-- [Landscapist](https://github.com/skydoves/Landscapist) - 🍂 Jetpack Compose image loading library which can fetch and display network images using Glide, Coil, and Fresco.
+- [Landscapist](https://github.com/skydoves/Landscapist) - 🍂 Jetpack Compose image loading library which fetches and displays network images with Glide, Coil, and Fresco
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
 - [BottomDrawer](https://github.com/HeyAlex/BottomDrawer) - BottomSheet with animations
 - [TedNaverMapClustering](https://github.com/ParkSangGwon/TedNaverMapClustering) - 네이버지도용 클러스터 유틸리티 라이브러리
@@ -1511,6 +1511,7 @@
 
 ## Swift
 
+- [LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
 - [AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) - iOS 13-compatible backports of commonly used async/await-based system APIs that are only available from iOS 15 by default.
 - [UIPiPDemo](https://github.com/uakihir0/UIPiPDemo) - Demo App for Picture-in-Picture of Arbitrary UIView in iOS
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
@@ -1613,7 +1614,7 @@
 - [QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
 - [StickeyHeaderiOS](https://github.com/Sowndharya/StickeyHeaderiOS) - An custom header view implementation in iOS that expands and collapses along with table view scroll
-- [SwiftUI-Hooks](https://github.com/ra1028/SwiftUI-Hooks) - A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
+- [SwiftUI-Hooks](https://github.com/ra1028/SwiftUI-Hooks) - 🪝 A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view with support for custom layouts, preloading, and more.
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [MbSwiftUIFirstResponder](https://github.com/mobilinked/MbSwiftUIFirstResponder) - null
@@ -1701,6 +1702,8 @@
 
 ## TypeScript
 
+- [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
+- [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0. 
@@ -1721,6 +1724,7 @@
 - [design-editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js
 - [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 - [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
