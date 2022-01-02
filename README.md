@@ -1474,7 +1474,7 @@
 
 ## Rust
 
-- [polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python
+- [polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
@@ -1702,6 +1702,7 @@
 
 ## TypeScript
 
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
@@ -1724,7 +1725,7 @@
 - [design-editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js
 - [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
+- [floating-ui](https://github.com/floating-ui/floating-ui) - A powerful toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus and more
 - [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
@@ -1741,7 +1742,7 @@
 - [setup-rust](https://github.com/ATiltedTree/setup-rust) - A action to setup rust at a specific version using rustup.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
