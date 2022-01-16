@@ -50,6 +50,7 @@
 
 ## C
 
+- [MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
 - [qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -1476,6 +1477,9 @@
 
 ## Rust
 
+- [parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1513,6 +1517,10 @@
 
 ## Swift
 
+- [octokit.swift](https://github.com/nerdishbynature/octokit.swift) - A Swift API Client for GitHub and GitHub Enterprise
+- [macocr](https://github.com/ughe/macocr) - macOS OCR CLI for https://developer.apple.com/documentation/vision/vnrecognizetextrequest
+- [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
+- [stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 - [LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
 - [AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) - iOS 13-compatible backports of commonly used async/await-based system APIs that are only available from iOS 15 by default.
 - [UIPiPDemo](https://github.com/uakihir0/UIPiPDemo) - Demo App for Picture-in-Picture of Arbitrary UIView in iOS
@@ -1523,7 +1531,6 @@
 - [swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 - [SwiftProcessing](https://github.com/jjkaufman/SwiftProcessing) - null
-- [MiniSuperApp-fastcampus](https://github.com/nsoojin/MiniSuperApp-fastcampus) - 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진 https://fastcampus.co.kr/dev_red_rsj
 - [ModernRIBs](https://github.com/DevYeom/ModernRIBs) - Uber's RIBs with Combine.
 - [swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM) - Template iOS app using Clean Architecture and MVVM. Includes DIContainer, FlowCoordinator, DTO, Response Caching and one of the views in SwiftUI 
@@ -1704,6 +1711,7 @@
 
 ## TypeScript
 
+- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2021: trends about front-end and Node.js frameworks, build tools, testing, Vue, React... Available in English, Japanese and Spanish.
 - [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
