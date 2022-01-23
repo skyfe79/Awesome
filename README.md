@@ -164,7 +164,7 @@
 
 ## Dockerfile
 
-- [python-black-check](https://github.com/RojerGS/python-black-check) - A customisable GitHub action to check the style of Python code with black.
+- [python-black-check](https://github.com/RodrigoGiraoSerrao/python-black-check) - A customisable GitHub action to check the style of Python code with black.
 
 ## GLSL
 
@@ -360,6 +360,7 @@
 
 ## JavaScript
 
+- [instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
 - [firebase-core-level-1](https://github.com/JaredPotter/firebase-core-level-1) - null
 - [vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
@@ -374,7 +375,6 @@
 - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) - :bookmark: Vue.js 2.0 Input Tag Component
 - [tokenfield](https://github.com/KaneCohen/tokenfield) - Input field with tagging/token/chip capabilities written in raw JavaScript.
 - [drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
-- [react-three-babel](https://github.com/pmndrs/react-three-babel) - A Babel plugin that automatically builds the extend catalogue of known native Three.js elements
 - [Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
 - [vue3-quill](https://github.com/flyween/vue3-quill) - Quill editor for vue3
@@ -1419,6 +1419,7 @@
 
 ## Python
 
+- [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
 - [dart-fss](https://github.com/josw123/dart-fss) - 한국 금융감독원에서 운영하는 다트(Dart) 시스템 크롤링을 위한 라이브러리
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
@@ -1477,6 +1478,7 @@
 
 ## Rust
 
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1517,6 +1519,8 @@
 
 ## Swift
 
+- [Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
+- [type-erasure-playgrounds](https://github.com/bignerdranch/type-erasure-playgrounds) - Code to accompany Swift Symposium Talk - https://www.youtube.com/watch?v=d_FJHBl5ohU
 - [octokit.swift](https://github.com/nerdishbynature/octokit.swift) - A Swift API Client for GitHub and GitHub Enterprise
 - [macocr](https://github.com/ughe/macocr) - macOS OCR CLI for https://developer.apple.com/documentation/vision/vnrecognizetextrequest
 - [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
@@ -1723,6 +1727,7 @@
 - [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [react-custom-chips](https://github.com/loweisz/react-custom-chips) - Very powerful, lightweight and customizable chips input field 🍟
+- [react-three-babel](https://github.com/pmndrs/react-three-babel) - A Babel plugin that automatically builds the extend catalogue of known native Three.js elements
 - [valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
