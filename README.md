@@ -360,6 +360,7 @@
 
 ## JavaScript
 
+- [aisa](https://github.com/jdiemke/aisa) - AISA is a Software 3D Engine written in TypeScript.
 - [instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
 - [firebase-core-level-1](https://github.com/JaredPotter/firebase-core-level-1) - null
 - [vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
@@ -382,7 +383,6 @@
 - [tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - null
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [youtube-metadata-from-url](https://github.com/ezefranca/youtube-metadata-from-url) - Simple module to get a video metadata from url
 - [gh-action-bump-version](https://github.com/maks-stupak/gh-action-bump-version) - GitHub Action for automated npm version bump.
 - [action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
@@ -1226,7 +1226,6 @@
 - [KSHTMLWriter](https://github.com/karelia/KSHTMLWriter) - Small set of classes to simplify XML/HTML generation in Cocoa apps.
 - [KSExtensibleManagedObject](https://github.com/karelia/KSExtensibleManagedObject) - KSExtensibleManagedObject
 - [ScrollViewAnimate](https://github.com/smendrick/ScrollViewAnimate) - Attempt to re-create the 3D style rotational animations seen in Elements & Wired IPad applications.
-- [PTPasscodeViewController](https://github.com/lashad/PTPasscodeViewController) - Passcode view controller for iPhone/iPod.
 - [baker](https://github.com/Simbul/baker) - The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards 
 - [fmdb](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
 - [ShareKit](https://github.com/ideashower/ShareKit) - Drop in sharing features for all iPhone and iPad apps
@@ -1376,7 +1375,6 @@
 - [HelTweetica](https://github.com/luciuskwok/HelTweetica) - Twitter app for iPad that won Best Social App at iPadDevCamp NYC 2010.
 - [iphone-twitter](https://github.com/st3fan/iphone-twitter) - iPhone Twitter Framework
 - [ShowOffPad](https://github.com/schacon/ShowOffPad) - ShowOff Presenter on the iPad
-- [PTConversation](https://github.com/lashad/PTConversation) - SMS style conversation view for iPhone/iPod touch.
 - [bamboo](https://github.com/ryanscott/bamboo) - a lightweight, simple objective-c library implementation of facebook's graph api, for the iPhone.
 - [iPad-Filesystem](https://github.com/AlanQuatermain/iPad-Filesystem) - A simple split-view-based filesystem browser for the iPad. Find out what you can read or write!
 - [SGAREnvironment](https://github.com/simplegeo/SGAREnvironment) - A location-based augmented reality environment for the iPhone.
@@ -1715,6 +1713,7 @@
 
 ## TypeScript
 
+- [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2021: trends about front-end and Node.js frameworks, build tools, testing, Vue, React... Available in English, Japanese and Spanish.
 - [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -1740,6 +1739,7 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [design-editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js
 - [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
@@ -1786,6 +1786,7 @@
 
 ## etc
 
+- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [React-Firebase](https://github.com/iamshaunjp/React-Firebase) - All course files for the Net Ninja React & Firebase course.
 - [Vue-3-Firebase](https://github.com/iamshaunjp/Vue-3-Firebase) - All course files for the Vue 3 & Firebase Udemy course.
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
