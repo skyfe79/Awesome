@@ -176,7 +176,7 @@
 
 ## Go
 
-- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax
+- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
@@ -424,7 +424,7 @@
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
-- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
+- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
 - [simple-octokit](https://github.com/vweevers/simple-octokit) - Preconfigured GitHub API client with GraphQL and REST.
@@ -473,7 +473,7 @@
 ## Kotlin
 
 - [Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
-- [Landscapist](https://github.com/skydoves/Landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco
+- [landscapist](https://github.com/skydoves/landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
 - [BottomDrawer](https://github.com/HeyAlex/BottomDrawer) - BottomSheet with animations
 - [TedNaverMapClustering](https://github.com/ParkSangGwon/TedNaverMapClustering) - 네이버지도용 클러스터 유틸리티 라이브러리
@@ -1476,6 +1476,7 @@
 
 ## Rust
 
+- [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -1737,7 +1738,6 @@
 - [vue-quill](https://github.com/vueup/vue-quill) - Rich Text Editor Component for Vue 3.
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
-- [design-editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js
 - [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
