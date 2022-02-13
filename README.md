@@ -360,6 +360,7 @@
 
 ## JavaScript
 
+- [react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
 - [aisa](https://github.com/jdiemke/aisa) - AISA is a Software 3D Engine written in TypeScript.
 - [instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
 - [firebase-core-level-1](https://github.com/JaredPotter/firebase-core-level-1) - null
@@ -1238,7 +1239,6 @@
 - [GSTwitPicEngine](https://github.com/Gurpartap/GSTwitPicEngine) - Objective C wrapper around TwitPic's OAuth and OAuth Echo API with OAuthConsumer Lib. Deprecated.
 - [TwitterClient](https://github.com/dojoiphone/TwitterClient) - Client Twitter pour Iphone
 - [TweetNow](https://github.com/yuumi3/TweetNow) - 現在の位置情報から近くの駅や登録した場所名を Twitter につぶやく iPhoneアプリ 
-- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [DashApp](https://github.com/jjg/DashApp) - DashApp is an iPad application that allows you to run multiple iPhone Web Apps simultaneously in a Dashboard-like environment.
 - [cheepcheep](https://github.com/lachie/cheepcheep) - my very own twitter client
 - [asi-http-request](https://github.com/pokeb/asi-http-request) - Easy to use CFNetwork wrapper for HTTP requests, Objective-C,  Mac OS X and iPhone
@@ -1423,7 +1423,6 @@
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [tiny_python_projects](https://github.com/kyclark/tiny_python_projects) - Code for Tiny Python Projects (Manning, 2020, ISBN 1617297518). Learning Python through test-driven development of games and puzzles.
@@ -1518,6 +1517,8 @@
 
 ## Swift
 
+- [PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics
+- [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - null
 - [Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [type-erasure-playgrounds](https://github.com/bignerdranch/type-erasure-playgrounds) - Code to accompany Swift Symposium Talk - https://www.youtube.com/watch?v=d_FJHBl5ohU
 - [octokit.swift](https://github.com/nerdishbynature/octokit.swift) - A Swift API Client for GitHub and GitHub Enterprise
@@ -1710,6 +1711,7 @@
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [Programming-iOS-Book-Examples](https://github.com/mattneub/Programming-iOS-Book-Examples) - Downloadable code examples for my books,  "iOS 14 Programming Fundamentals With Swift" (bk1) and "Programming iOS 14" (bk2).
 - [DDMathParser](https://github.com/davedelong/DDMathParser) - String → Number
+- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [TDBadgedCell](https://github.com/tmdvs/TDBadgedCell) - TDBadgedCell is a table view cell class that adds a badge, similar to the badges in Apple's own apps
 
 ## TypeScript
