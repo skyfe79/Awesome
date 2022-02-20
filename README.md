@@ -32,6 +32,7 @@
 - [Rust](#Rust)
 - [SCSS](#SCSS)
 - [Shell](#Shell)
+- [Svelte](#Svelte)
 - [Swift](#Swift)
 - [TypeScript](#TypeScript)
 - [Vim script](#Vim-script)
@@ -176,6 +177,7 @@
 
 ## Go
 
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -1417,6 +1419,7 @@
 
 ## Python
 
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
 - [dart-fss](https://github.com/josw123/dart-fss) - 한국 금융감독원에서 운영하는 다트(Dart) 시스템 크롤링을 위한 라이브러리
@@ -1515,8 +1518,14 @@
 - [android-ffmpeg](https://github.com/guardianproject/android-ffmpeg) - a system for building custom ffmpeg binaries for Android 
 - [spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
 
+## Svelte
+
+- [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
+
 ## Swift
 
+- [AxisSheet](https://github.com/jasudev/AxisSheet) - It is a library that handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode. It supports iOS and macOS.
+- [Swiftlane](https://github.com/onmyway133/Swiftlane) - 🚀 Build utilities in pure Swift
 - [PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics
 - [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - null
 - [Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
@@ -1781,13 +1790,13 @@
 - [vue-confirm-dialog](https://github.com/aslanon/vue-confirm-dialog) - Simple Confirm Dialog verification plugin with Vue.js.
 - [vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue
 - [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker) - Vue2 date range picker
-- [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [vue-modular-architecture](https://github.com/DarkC0der11/vue-modular-architecture) - null
 - [vega](https://github.com/toshusai/vega) - Browser-based video editing software.
 - [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 (Hangul Font Collection that can be used Commercially without Ads)
 
 ## etc
 
+- [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [React-Firebase](https://github.com/iamshaunjp/React-Firebase) - All course files for the Net Ninja React & Firebase course.
 - [Vue-3-Firebase](https://github.com/iamshaunjp/Vue-3-Firebase) - All course files for the Vue 3 & Firebase Udemy course.
