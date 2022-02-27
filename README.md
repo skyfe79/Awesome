@@ -165,7 +165,7 @@
 
 ## Dockerfile
 
-- [python-black-check](https://github.com/RodrigoGiraoSerrao/python-black-check) - A customisable GitHub action to check the style of Python code with black.
+- [python-black-check](https://github.com/rodrigogiraoserrao/python-black-check) - A customisable GitHub action to check the style of Python code with black.
 
 ## GLSL
 
@@ -362,6 +362,8 @@
 
 ## JavaScript
 
+- [Phil](https://github.com/keiranking/Phil) - A crossword maker.
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
 - [aisa](https://github.com/jdiemke/aisa) - AISA is a Software 3D Engine written in TypeScript.
 - [instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
@@ -428,7 +430,7 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
-- [zx](https://github.com/google/zx) - A tool for writing better scripts
+- [zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
 - [simple-octokit](https://github.com/vweevers/simple-octokit) - Preconfigured GitHub API client with GraphQL and REST.
 - [jsengine](https://github.com/cliqz-oss/jsengine) - (deprecated) Javascript runtime for mobile platforms
@@ -1725,6 +1727,7 @@
 
 ## TypeScript
 
+- [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2021: trends about front-end and Node.js frameworks, build tools, testing, Vue, React... Available in English, Japanese and Spanish.
 - [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
