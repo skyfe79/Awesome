@@ -362,6 +362,7 @@
 
 ## JavaScript
 
+- [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [Phil](https://github.com/keiranking/Phil) - A crossword maker.
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
@@ -1456,7 +1457,6 @@
 - [colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 - [pyffmpeg](https://github.com/mhaller/pyffmpeg) - PyFFmpeg - Python FFmpeg wrapper
 - [LUD-Media-Converter](https://github.com/kunaldeo/LUD-Media-Converter) - An easy to use Media Converter for iOS and Android. It produces WebM and MP4 files. Written in Python 3 and PyQt4.
-- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [AirPlayer](https://github.com/hellozimi/AirPlayer) - null
 - [osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -1545,7 +1545,7 @@
 - [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - null
 - [swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
-- [SwiftProcessing](https://github.com/jjkaufman/SwiftProcessing) - null
+- [SwiftProcessing](https://github.com/SwiftProcessing/SwiftProcessing) - null
 - [ModernRIBs](https://github.com/DevYeom/ModernRIBs) - Uber's RIBs with Combine.
 - [swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM) - Template iOS app using Clean Architecture and MVVM. Includes DIContainer, FlowCoordinator, DTO, Response Caching and one of the views in SwiftUI 
@@ -1583,7 +1583,7 @@
 - [InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout) - Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging, NSProxy delegate, Reactive extension, SectionModel & AnimatableSectionModel support
 - [Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - SnackBar provide brief feedback about an operation through a message at the bottom of the screen.
-- [surmagic](https://github.com/gurhub/surmagic) - 🚀 Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! The better way to deal with XCFrameworks for iOS, Mac Catalyst, tvOS, macOS, and watchOS.
+- [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms at one shot!
 - [Gradient-Meshes-with-SceneKit](https://github.com/movingparts-io/Gradient-Meshes-with-SceneKit) - Building Gradient Meshes with SceneKit.
 - [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
@@ -1829,6 +1829,7 @@
 - [onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
 - [code](https://github.com/effectiveobjc/code) - Code for the Effective Objective-C 2.0 book
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) - null
 - [gitignore](https://github.com/skyfe79/gitignore) - A collection of useful .gitignore templates
 - [Free-Sketching](https://github.com/brightredchilli/Free-Sketching) - A project to help me figure out how to save smooth path information to a CALayer and display it on the screen
