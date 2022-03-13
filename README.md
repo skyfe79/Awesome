@@ -1526,6 +1526,7 @@
 
 ## Swift
 
+- [Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [AxisSheet](https://github.com/jasudev/AxisSheet) - It is a library that handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode. It supports iOS and macOS.
 - [Swiftlane](https://github.com/onmyway133/Swiftlane) - 🚀 Build utilities in pure Swift
 - [PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics
