@@ -177,6 +177,7 @@
 
 ## Go
 
+- [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -409,6 +410,7 @@
 - [core-js](https://github.com/zloirock/core-js) - Standard Library
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
 - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - 🍡@quilljs editor component for @vuejs
+- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [react-wasm-gif-maker](https://github.com/fireship-io/react-wasm-gif-maker) - Video to GIF with WASM (FFpeg) & React
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -431,7 +433,7 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
-- [zx](https://github.com/google/zx) - Replace Bash with JavaScript
+- [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
 - [simple-octokit](https://github.com/vweevers/simple-octokit) - Preconfigured GitHub API client with GraphQL and REST.
 - [jsengine](https://github.com/cliqz-oss/jsengine) - (deprecated) Javascript runtime for mobile platforms
@@ -442,7 +444,6 @@
 - [WordPress-Editor-iOS](https://github.com/wordpress-mobile/WordPress-Editor-iOS) - ⛔️ [DEPRECATED] A reusable iOS rich text editor component.
 - [polyline-normals](https://github.com/mattdesl/polyline-normals) - gets miter normals for a 2D polyline
 - [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
 - [gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
 - [MathBox.js](https://github.com/unconed/MathBox.js) - MathBox is a (work in progress) library for making presentation-quality math diagrams in WebGL.
@@ -478,6 +479,9 @@
 
 ## Kotlin
 
+- [swipe](https://github.com/saket/swipe) - Swipe gesture actions for Compose UI
+- [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖  epub2.0 viewer
+- [The-Movie-Database-Android](https://github.com/libliboom/The-Movie-Database-Android) - 🎞🎥📀 Movie database's demo android application with Clean architecture of MVVM.
 - [Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
 - [landscapist](https://github.com/skydoves/landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
@@ -1508,6 +1512,7 @@
 ## SCSS
 
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 
 ## Shell
 
@@ -1522,10 +1527,11 @@
 
 ## Svelte
 
-- [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
+- [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift
 
+- [SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [AxisSheet](https://github.com/jasudev/AxisSheet) - It is a library that handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode. It supports iOS and macOS.
 - [Swiftlane](https://github.com/onmyway133/Swiftlane) - 🚀 Build utilities in pure Swift
@@ -1625,7 +1631,7 @@
 - [SwiftUIDrag](https://github.com/demharusnam/SwiftUIDrag) - A simple, customizable, and intuitive SwiftUI wrapper-view enabling dragging, floating, and/or collapsing for its content. 
 - [CollectionThing](https://github.com/liscio/CollectionThing) - Scroll fast using pure SwiftUI
 - [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - A collection view for SwiftUI
-- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI library that contains 40+ customizable UI components
+- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI library that contains 30+ customizable UI components
 - [ElegantPages](https://github.com/ThasianX/ElegantPages) - The elegant full screen page view missed in SwiftUI
 - [SVEVideoUI](https://github.com/SergioEstevao/SVEVideoUI) - A video component for SwiftUI
 - [fluxus](https://github.com/johnsusek/fluxus) - Flux for SwiftUI, inspired by Vuex
@@ -1728,6 +1734,7 @@
 
 ## TypeScript
 
+- [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2021: trends about front-end and Node.js frameworks, build tools, testing, Vue, React... Available in English, Japanese and Spanish.
@@ -1761,7 +1768,6 @@
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
 - [python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
@@ -1800,6 +1806,7 @@
 
 ## etc
 
+- [iamport-manual](https://github.com/iamport/iamport-manual) - 아임포트(iamport) 결제연동을 위한 매뉴얼입니다.
 - [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [React-Firebase](https://github.com/iamshaunjp/React-Firebase) - All course files for the Net Ninja React & Firebase course.
