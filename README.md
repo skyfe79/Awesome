@@ -363,6 +363,7 @@
 
 ## JavaScript
 
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [Phil](https://github.com/keiranking/Phil) - A crossword maker.
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -1484,6 +1485,7 @@
 
 ## Rust
 
+- [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
@@ -1531,6 +1533,8 @@
 
 ## Swift
 
+- [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
+- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [AxisSheet](https://github.com/jasudev/AxisSheet) - It is a library that handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode. It supports iOS and macOS.
