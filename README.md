@@ -813,7 +813,7 @@
 - [ESAdjustableLabel-Category](https://github.com/edgarschmidt/ESAdjustableLabel-Category) - This category implements some basic methods to modify the dimensions of a given UILabel
 - [FPPopover](https://github.com/alvises/FPPopover) - FPPopover provides an alternative to the native iOS UIPopoverController, adding support for iPhone and additional opportunities to customize the look and feel of the popovers.
 - [EarthView](https://github.com/RossAnderson/EarthView) - 3D Visualization of Earth using Map Tiles for iOS
-- [FSVerticalTabBarController](https://github.com/futuresimple/FSVerticalTabBarController) - Vertical tab bar controller for iOS mimicking UITabBarController look and behavior
+- [FSVerticalTabBarController](https://github.com/zendeskarchive/FSVerticalTabBarController) - Vertical tab bar controller for iOS mimicking UITabBarController look and behavior
 - [PrettyKit](https://github.com/vicpenap/PrettyKit) - PrettyKit for iOS is a small set of new widgets and UIKit subclasses that gives you a deeper UIKit customization. You will be able to change their background color, add gradients, shadows, etc. 
 - [UITableKit](https://github.com/onegray/UITableKit) - iPhone UITableView wrapper 
 - [SYPaginator](https://github.com/soffes/SYPaginator) - Powerful paging scroll views, table view style
@@ -1485,6 +1485,7 @@
 
 ## Rust
 
+- [difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -1753,7 +1754,7 @@
 - [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [react-custom-chips](https://github.com/loweisz/react-custom-chips) - Very powerful, lightweight and customizable chips input field 🍟
-- [react-three-babel](https://github.com/pmndrs/react-three-babel) - A Babel plugin that automatically builds the extend catalogue of known native Three.js elements
+- [react-three-babel](https://github.com/pmndrs/react-three-babel) - 🛍 A Babel plugin that automatically builds the extend catalogue of known native Three.js elements
 - [valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
@@ -1767,7 +1768,7 @@
 - [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
+- [floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
@@ -1818,7 +1819,7 @@
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
