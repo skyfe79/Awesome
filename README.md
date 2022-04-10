@@ -109,6 +109,7 @@
 
 ## C++
 
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -822,7 +823,7 @@
 - [Blob](https://github.com/Birkemose/Blob) - Blob demo
 - [FMMoveTableView](https://github.com/FlorianMielke/FMMoveTableView) - Discontinued: Please use iOS 11's Drag & Drop capability instead.
 - [Drawing](https://github.com/saturngod/Drawing) - free drawing
-- [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - [iOS] Representing analog flip numbers like airport/trainstation displays
+- [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - [iOS] Animated analog flip numbers like airport/train-station displays
 - [LIExposeController](https://github.com/LinkedInAttic/LIExposeController) - Expose style navigation for iOS apps
 - [peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [NPColorPicker](https://github.com/neopixl/NPColorPicker) - HSV Color picker for iOS
@@ -1534,13 +1535,14 @@
 
 ## Swift
 
+- [dskit](https://github.com/imodeveloperlab/dskit) - A design system with a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 - [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
 - [AxisSheet](https://github.com/jasudev/AxisSheet) - It is a library that handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode. It supports iOS and macOS.
 - [Swiftlane](https://github.com/onmyway133/Swiftlane) - 🚀 Build utilities in pure Swift
-- [PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics
+- [PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics in Swift & Metal
 - [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - null
 - [Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [type-erasure-playgrounds](https://github.com/bignerdranch/type-erasure-playgrounds) - Code to accompany Swift Symposium Talk - https://www.youtube.com/watch?v=d_FJHBl5ohU
