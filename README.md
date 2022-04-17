@@ -364,6 +364,7 @@
 
 ## JavaScript
 
+- [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [Phil](https://github.com/keiranking/Phil) - A crossword maker.
@@ -667,7 +668,7 @@
 - [PanelTableView](https://github.com/honcheng/PanelTableView) - Multiple UITableViews in a UIScrollView
 - [DYFloatingHeaderView](https://github.com/dyang/DYFloatingHeaderView) - A Facebook inspired custom Objective-C UIView that floats on top of an underlying UIScrollView
 - [LayerSprites](https://github.com/nicklockwood/LayerSprites) - LayerSprites is a library designed to simplify the use of sprite sheets (image maps containing multiple sub-images) in UIKit applications without using OpenGL or 3rd-party game libraries. Can load sprite sheets in the Coco2D format.
-- [iOS-NBUKit](https://github.com/CyberAgent/iOS-NBUKit) - UIKit and NSFoundation convenience categories and subclasses.
+- [iOS-NBUKit](https://github.com/ca-archived/iOS-NBUKit) - UIKit and NSFoundation convenience categories and subclasses.
 - [SpiralPullToRefresh](https://github.com/kronik/SpiralPullToRefresh) - "Twitter music" like pull-to-refresh controller but a bit more enhanced and flexible.
 - [RRCircularMenu](https://github.com/iartem/RRCircularMenu) - RRCircularMenu
 - [FlipBoardNavigationController](https://github.com/michaelhenry/FlipBoardNavigationController) - This is a new navigation controller inspired by Flipboard.
@@ -1535,6 +1536,8 @@
 
 ## Swift
 
+- [UIKitPlus](https://github.com/MihaelIsaev/UIKitPlus) - 🏰 Declarative UIKit with LivePreview for iOS9+ (best alternative to SwiftUI)
+- [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 - [dskit](https://github.com/imodeveloperlab/dskit) - A design system with a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 - [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
@@ -1652,7 +1655,7 @@
 - [QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
 - [StickeyHeaderiOS](https://github.com/Sowndharya/StickeyHeaderiOS) - An custom header view implementation in iOS that expands and collapses along with table view scroll
-- [SwiftUI-Hooks](https://github.com/ra1028/SwiftUI-Hooks) - 🪝 A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
+- [swiftui-hooks](https://github.com/ra1028/swiftui-hooks) - 🪝 A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view with support for custom layouts, preloading, and more.
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [MbSwiftUIFirstResponder](https://github.com/mobilinked/MbSwiftUIFirstResponder) - null
