@@ -1327,7 +1327,6 @@
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 - [iPhone-Tetris](https://github.com/joshvera/iPhone-Tetris) - A little iPhone tetris game written with cocos2d
 - [Tweeter](https://github.com/pyro2927/Tweeter) - Twitter Framework for the iPhone (or really any Obj-C project)
-- [NWPickerField](https://github.com/scottandrew/NWPickerField) - A combo box like control for the iPhone.
 - [tweet-only-iphone](https://github.com/ashlux/tweet-only-iphone) - null
 - [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh) - A similar control to the pull down to refresh control created by atebits in Tweetie 2.
 - [OBShapedButton](https://github.com/ole/OBShapedButton) - A UIButton subclass that works with for non-rectangular button shapes.
@@ -1429,6 +1428,7 @@
 
 ## Python
 
+- [memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
@@ -1536,6 +1536,8 @@
 
 ## Swift
 
+- [SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
+- [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
 - [UIKitPlus](https://github.com/MihaelIsaev/UIKitPlus) - 🏰 Declarative UIKit with LivePreview for iOS9+ (best alternative to SwiftUI)
 - [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 - [dskit](https://github.com/imodeveloperlab/dskit) - A design system with a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
