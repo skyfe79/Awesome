@@ -364,6 +364,7 @@
 
 ## JavaScript
 
+- [skia-canvas](https://github.com/samizdatco/skia-canvas) - A canvas environment for Node.js
 - [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
@@ -474,6 +475,7 @@
 
 ## Jupyter-Notebook
 
+- [Imaginary-Numbers-Are-Real](https://github.com/stephencwelch/Imaginary-Numbers-Are-Real) - Code To Accompany YouTube Series Imaginary Numbers Are Real
 - [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
@@ -907,7 +909,7 @@
 - [F3BarGauge](https://github.com/ChiefPilot/F3BarGauge) - LED- or LCD-like bar gauge control for iOS
 - [CutomImagePickerController](https://github.com/0x0c/CutomImagePickerController) - can tap-focus with showCameraControls disable
 - [SBTickerView](https://github.com/blommegard/SBTickerView) - An easy to use ticker view with inspiration from Flipboard
-- [SSCheckBoxView](https://github.com/ardalahmet/SSCheckBoxView) - SSCheckBoxView is a check box UI control for iOS apps.
+- [SSCheckBoxView](https://github.com/ahmetardal/SSCheckBoxView) - SSCheckBoxView is a check box UI control for iOS apps.
 - [Paint-App](https://github.com/honcheng/Paint-App) - Custom UIView subclass to enable a drawing overlay in iOS
 - [ViewDeck](https://github.com/ViewDeck/ViewDeck) - An implementation of the sliding menu found in various iOS apps.
 - [TimeScroller](https://github.com/andrewroycarter/TimeScroller) - A UI Element that hovers beside the scroll bar of a UITableView (Mimicking the Path app).
@@ -1536,6 +1538,11 @@
 
 ## Swift
 
+- [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky) - Framework for automatic mock generation. Adds a set of handy methods, simplifying testing. One of the best and most complete solutions, including generics support and much more.
+- [mockingbird](https://github.com/birdrides/mockingbird) - A Swifty mocking framework for Swift and Objective-C.
+- [Cuckoo](https://github.com/Brightify/Cuckoo) - Boilerplate-free mocking framework for Swift!
+- [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift
+- [PanModal](https://github.com/slackhq/PanModal) - An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
 - [SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 - [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
 - [UIKitPlus](https://github.com/MihaelIsaev/UIKitPlus) - 🏰 Declarative UIKit with LivePreview for iOS9+ (best alternative to SwiftUI)
@@ -1746,6 +1753,7 @@
 
 ## TypeScript
 
+- [trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
 - [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
