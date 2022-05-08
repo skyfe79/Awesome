@@ -156,6 +156,7 @@
 
 ## CSS
 
+- [motion-hover-effects](https://github.com/clementroche/motion-hover-effects) - null
 - [gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
@@ -178,6 +179,7 @@
 
 ## Go
 
+- [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
@@ -364,6 +366,11 @@
 
 ## JavaScript
 
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
+- [warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
+- [distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
+- [triangulate-image](https://github.com/snorpey/triangulate-image) - triangulate images with node and in the browser
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [skia-canvas](https://github.com/samizdatco/skia-canvas) - A canvas environment for Node.js
 - [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -1538,6 +1545,7 @@
 
 ## Swift
 
+- [Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky) - Framework for automatic mock generation. Adds a set of handy methods, simplifying testing. One of the best and most complete solutions, including generics support and much more.
 - [mockingbird](https://github.com/birdrides/mockingbird) - A Swifty mocking framework for Swift and Objective-C.
 - [Cuckoo](https://github.com/Brightify/Cuckoo) - Boilerplate-free mocking framework for Swift!
@@ -1753,6 +1761,7 @@
 
 ## TypeScript
 
+- [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
 - [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
