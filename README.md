@@ -368,6 +368,7 @@
 
 ## JavaScript
 
+- [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
 - [material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -376,7 +377,6 @@
 - [triangulate-image](https://github.com/snorpey/triangulate-image) - triangulate images with node and in the browser
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [skia-canvas](https://github.com/samizdatco/skia-canvas) - A canvas environment for Node.js
-- [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [Phil](https://github.com/keiranking/Phil) - A crossword maker.
@@ -431,7 +431,7 @@
 - [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [timeline-editor-react](https://github.com/kevintech/timeline-editor-react) - A timeline like a video editor made using react
 - [videoeditor](https://github.com/kudlav/videoeditor) - Web Based Video Editor Using MLT Framework, Bachelor thesis
 - [react-html5-video-editor](https://github.com/evgenity/react-html5-video-editor) - React / Redux video component with crop. Powers demo video editor at
@@ -835,7 +835,7 @@
 - [Blob](https://github.com/Birkemose/Blob) - Blob demo
 - [FMMoveTableView](https://github.com/FlorianMielke/FMMoveTableView) - Discontinued: Please use iOS 11's Drag & Drop capability instead.
 - [Drawing](https://github.com/saturngod/Drawing) - free drawing
-- [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - [iOS] Animated analog flip numbers like airport/train-station displays
+- [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - [iOS] Animated analog flip numbers like airport/train-station displays (Swift/SwiftUI ready)
 - [LIExposeController](https://github.com/LinkedInAttic/LIExposeController) - Expose style navigation for iOS apps
 - [peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [NPColorPicker](https://github.com/neopixl/NPColorPicker) - HSV Color picker for iOS
@@ -1763,9 +1763,10 @@
 
 ## TypeScript
 
-- [markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system
+- [markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
+- [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -1828,7 +1829,7 @@
 ## Vue
 
 - [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
-- [automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
+- [automa](https://github.com/AutomaApp/automa) - A chrome extension for automating your browser by connecting blocks
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [vue-confirm-dialog](https://github.com/aslanon/vue-confirm-dialog) - Simple Confirm Dialog verification plugin with Vue.js.
