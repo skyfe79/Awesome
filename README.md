@@ -188,7 +188,7 @@
 - [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go and libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
+- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
 - [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
@@ -369,6 +369,7 @@
 
 ## JavaScript
 
+- [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
 - [material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -496,7 +497,6 @@
 
 - [swipe](https://github.com/saket/swipe) - Swipe gesture actions for Compose UI
 - [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖  epub2.0 viewer
-- [The-Movie-Database-Android](https://github.com/libliboom/The-Movie-Database-Android) - 🎞🎥📀 Movie database's demo android application with Clean architecture of MVVM.
 - [Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
 - [landscapist](https://github.com/skydoves/landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
@@ -1452,7 +1452,7 @@
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [tiny_python_projects](https://github.com/kyclark/tiny_python_projects) - Code for Tiny Python Projects (Manning, 2020, ISBN 1617297518). Learning Python through test-driven development of games and puzzles.
 - [pymotw-3](https://github.com/dhellmann/pymotw-3) - null
-- [OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot for TA, arbitrage and social trading with an advanced web interface
+- [OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot using technical analysis based strategy with an advanced web interface
 - [mercy-reader](https://github.com/hex0cter/mercy-reader) - A Python library to extract clean(er), readable text from web pages via Mercury Web Parser.
 - [reader](https://github.com/zyocum/reader) - Extract clean(er), readable text from web pages via Mercury Web Parser.
 - [mercury-parserpy](https://github.com/Girbons/mercury-parserpy) - python api wrapper for https://mercury.postlight.com/web-parser/
@@ -1815,7 +1815,7 @@
 - [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
 - [python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [video-editing-timeline](https://github.com/pansyjs/video-editing-timeline) - Timeline for video editing(为视频编辑而写时间线)
 - [notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 - [rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects 
@@ -1836,6 +1836,7 @@
 
 ## Vue
 
+- [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
 - [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
