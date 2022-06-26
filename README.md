@@ -1550,6 +1550,7 @@
 
 ## Swift
 
+- [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - A Swift Package Plugin for SwiftLint
 - [Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications! 
 - [MBEBaseEffect](https://github.com/metal-by-example/MBEBaseEffect) - A Metal re-implementation of GLKit's GLKBaseEffect
 - [Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
@@ -1641,7 +1642,7 @@
 - [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS/CALayer]
 - [TwoWayBindingUIKit](https://github.com/stevencurtis/TwoWayBindingUIKit) - A compact two way binding library for UIKit
 - [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
-- [Swifter](https://github.com/mattdonnelly/Swifter) - :bird: A Twitter framework for iOS & OS X written in Swift
+- [Swifter](https://github.com/mattdonnelly/Swifter) - [DEPRECATED] :bird: A Twitter framework for iOS & OS X written in Swift
 - [SwipeCell](https://github.com/fatbobman/SwipeCell) - SwipeCell is a SwiftUI library, used to achieve the left and right sliding menu effect similar to the iOS mail app.
 - [swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift
 - [Then](https://github.com/freshOS/Then) - :clapper: Tame async code with battle-tested promises
@@ -1702,7 +1703,7 @@
 - [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
 - [NSWindowStyles](https://github.com/lukakerr/NSWindowStyles) - A showcase of the many different styles of windows possible with NSWindow on macOS
-- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
 - [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 - [Reflection](https://github.com/Zewo/Reflection) - DEPRECATED
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
