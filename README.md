@@ -371,7 +371,7 @@
 
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
-- [material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
@@ -1440,6 +1440,7 @@
 
 ## Python
 
+- [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
@@ -1514,7 +1515,7 @@
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [evm](https://github.com/rust-blockchain/evm) - Pure Rust implementation of Ethereum Virtual Machine
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
+- [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
 - [youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -1550,6 +1551,11 @@
 
 ## Swift
 
+- [swiftui-dockable](https://github.com/getsidetrack/swiftui-dockable) - A SwiftUI component for launching custom picture-in-picture experiences
+- [SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) - A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS
+- [Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
+- [ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple's Vision framework
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - A Swift Package Plugin for SwiftLint
 - [Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications! 
 - [MBEBaseEffect](https://github.com/metal-by-example/MBEBaseEffect) - A Metal re-implementation of GLKit's GLKBaseEffect
@@ -1653,7 +1659,7 @@
 - [Hydra](https://github.com/malcommac/Hydra) - ⚡️ Lightweight full-featured Promises, Async & Await Library in Swift
 - [BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings in Swift
 - [SwiftRichString](https://github.com/malcommac/SwiftRichString) - 👩‍🎨 Elegant Attributed String composition in Swift sauce
-- [TextureSwiftSupport](https://github.com/TextureCommunity/TextureSwiftSupport) - A library that gains Texture(AsyncDisplayKit) more power in Swift.
+- [TextureSwiftSupport](https://github.com/FluidGroup/TextureSwiftSupport) - A library that gains Texture(AsyncDisplayKit) more power in Swift.
 - [collection-view-swiftui](https://github.com/objcio/collection-view-swiftui) - Sample code for Swift Talk episode 168: SwiftUI — Building a Collection View (Part 2)
 - [SwitfUICollectionViewResearch](https://github.com/niepok/SwitfUICollectionViewResearch) - This repo consists of RnD project to create UICollectionView equivalent using SwiftUI
 - [SwiftUI-Server-Driver-UI](https://github.com/AnupAmmanavar/SwiftUI-Server-Driver-UI) - Server Driven UI using the Swifts declarative SwiftUI UI toolkit
@@ -1665,7 +1671,7 @@
 - [SwiftUIDrag](https://github.com/demharusnam/SwiftUIDrag) - A simple, customizable, and intuitive SwiftUI wrapper-view enabling dragging, floating, and/or collapsing for its content. 
 - [CollectionThing](https://github.com/liscio/CollectionThing) - Scroll fast using pure SwiftUI
 - [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - A collection view for SwiftUI
-- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI library that contains 30+ customizable UI components
+- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI package that contains 30+ customizable UI components
 - [ElegantPages](https://github.com/ThasianX/ElegantPages) - The elegant full screen page view missed in SwiftUI
 - [SVEVideoUI](https://github.com/SergioEstevao/SVEVideoUI) - A video component for SwiftUI
 - [fluxus](https://github.com/johnsusek/fluxus) - Flux for SwiftUI, inspired by Vuex
