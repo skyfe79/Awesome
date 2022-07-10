@@ -415,7 +415,6 @@
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
-- [blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
@@ -719,7 +718,6 @@
 - [MSMatrixController](https://github.com/MarcoSero/MSMatrixController) - A component to organize your view controllers in a gesture-based 2D matrix.
 - [IIIThumbFlow](https://github.com/sehone/IIIThumbFlow) - IIIThumbFlow is a simple iOS view component for presenting images in a vertical flow style.
 - [CAAnimation-EasingEquations](https://github.com/bryanoltman/CAAnimation-EasingEquations) - A category on CAAnimation that provides a number of easing equations to add some zazz to your app (with examples!)
-- [MBAlertView](https://github.com/moughxyz/MBAlertView) - [DEPRECATED] A fast block-based alert and HUD library with a simple API.
 - [GIKPopoverBackgroundView](https://github.com/GiK/GIKPopoverBackgroundView) - GIKPopoverBackgroundView is a UIPopoverBackgroundView subclass which shows how to customise the background of a UIPopoverController.
 - [ZGParallelView](https://github.com/zhigang1992/ZGParallelView) - ParallelView For UITableView
 - [SCPageScrubberBar](https://github.com/ohsc/SCPageScrubberBar) - A page scrubber bar like ibooks.
@@ -1551,7 +1549,9 @@
 
 ## Swift
 
-- [swiftui-dockable](https://github.com/getsidetrack/swiftui-dockable) - A SwiftUI component for launching custom picture-in-picture experiences
+- [Swush](https://github.com/qeude/Swush) - 🔔 macOS Application to play with the Apple Push Notification service (APNs).
+- [SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
+- [swiftui-pipify](https://github.com/getsidetrack/swiftui-pipify) - A SwiftUI component for launching custom picture-in-picture experiences
 - [SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) - A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS
 - [Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
 - [ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple's Vision framework
@@ -1818,6 +1818,7 @@
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
+- [blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
@@ -1860,6 +1861,7 @@
 
 ## etc
 
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [iamport-manual](https://github.com/iamport/iamport-manual) - 아임포트(iamport) 결제연동을 위한 매뉴얼입니다.
 - [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
