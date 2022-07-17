@@ -182,6 +182,7 @@
 
 ## Go
 
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -401,6 +402,7 @@
 - [tokenfield](https://github.com/KaneCohen/tokenfield) - Input field with tagging/token/chip capabilities written in raw JavaScript.
 - [drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+- [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
 - [vue3-quill](https://github.com/flyween/vue3-quill) - Quill editor for vue3
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -1499,6 +1501,7 @@
 
 ## Rust
 
+- [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [privaxy](https://github.com/Barre/privaxy) - (work in progress) Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
@@ -1549,6 +1552,7 @@
 
 ## Swift
 
+- [Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 - [Swush](https://github.com/qeude/Swush) - 🔔 macOS Application to play with the Apple Push Notification service (APNs).
 - [SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
 - [swiftui-pipify](https://github.com/getsidetrack/swiftui-pipify) - A SwiftUI component for launching custom picture-in-picture experiences
@@ -1849,7 +1853,6 @@
 
 - [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
-- [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [vue-confirm-dialog](https://github.com/aslanon/vue-confirm-dialog) - Simple Confirm Dialog verification plugin with Vue.js.
