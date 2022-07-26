@@ -2,50 +2,62 @@
 
 
 
-## [Contents](#toc)
+## Contents
 
 - [ActionScript](#ActionScript)
 - [Assembly](#Assembly)
 - [C](#C)
 - [C#](#C#)
 - [C++](#C++)
+- [CSS](#CSS)
+- [Cython](#Cython)
+- [Dockerfile](#Dockerfile)
 - [GLSL](#GLSL)
 - [Gnuplot](#Gnuplot)
 - [Go](#Go)
-- [Groovy](#Groovy)
 - [HTML](#HTML)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
 - [Jupyter Notebook](#Jupyter-Notebook)
 - [Kotlin](#Kotlin)
-- [M](#M)
+- [Metal](#Metal)
 - [Objective-C](#Objective-C)
 - [Objective-C++](#Objective-C++)
 - [PHP](#PHP)
 - [PLpgSQL](#PLpgSQL)
 - [Perl](#Perl)
+- [PowerShell](#PowerShell)
 - [Python](#Python)
 - [Ruby](#Ruby)
 - [Rust](#Rust)
 - [SCSS](#SCSS)
 - [Shell](#Shell)
+- [Svelte](#Svelte)
 - [Swift](#Swift)
 - [TypeScript](#TypeScript)
 - [Vim script](#Vim-script)
+- [Vue](#Vue)
 - [etc](#etc)
 
-## [ActionScript](#toc)
+## ActionScript
 
 - [Flash2Cocos2D](https://github.com/TheDamArmada/Flash2Cocos2D) - Library to import animations made in Flash to Cocos2D
 - [CCAnimate](https://github.com/SevInf/CCAnimate) - Animation Editor for cocos2d
 - [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) - a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats.
 
-## [Assembly](#toc)
+## Assembly
 
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
-## [C](#toc)
+## C
 
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
+- [cloth-simulation-2d](https://github.com/marianpekar/cloth-simulation-2d) - 2D cloth simulation written in C++ with SDL.
+- [MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
+- [qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
+- [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+- [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+- [media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more
@@ -57,7 +69,6 @@
 - [OpenGL](https://github.com/McNopper/OpenGL) - OpenGL 3 and 4 with GLSL
 - [gsoc](https://github.com/slash-dev-null/gsoc) -  An attempt to complete Robert Rudd's GSOC project of 2008 with XBMC
 - [PhotoProcessing](https://github.com/chrisbanes/PhotoProcessing) - A demo of how you can process photos leveraging the ndk.
-- [Android-Video-Player-FFmpeg-and-Bitmap](https://github.com/xorange/Android-Video-Player-FFmpeg-and-Bitmap) - null
 - [Simple-OpenGL-Image-Library](https://github.com/kbranigan/Simple-OpenGL-Image-Library) - Simple image uploader primarily for OpenGL
 - [Android-ImageMagick](https://github.com/lilac/Android-ImageMagick) - ImageMagick library ported to Android
 - [android-ffmpeg-sample](https://github.com/churnlabs/android-ffmpeg-sample) - An actual functioning Android app using ffmpeg through the NDK
@@ -92,14 +103,22 @@
 - [VocalKit](https://github.com/KingOfBrian/VocalKit) - Objective-C shim layer for Speech Recognition
 - [iProxy](https://github.com/epatel/iProxy) - Let's you connect your laptop to the iPhone to surf the web. This fork adds a http server to the app that feeds a .pac file that make  it much easier to configure the first version of iPads.
 
-## [C#](#toc)
+## C#
 
 - [Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
 - [AndHUD](https://github.com/redth-org/AndHUD) - Android Progress HUD and Dialog helpers for Xamarin.Android apps!
 - [P31UnityAddOns](https://github.com/prime31/P31UnityAddOns) - Mostly defunct. Features were added and components broken out in the *Kit repositories.
 
-## [C++](#toc)
+## C++
 
+- [carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+- [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
+- [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+- [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
+- [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [bloom_cpp](https://github.com/duckduckgo/bloom_cpp) - null
 - [FlexLayout](https://github.com/layoutBox/FlexLayout) - FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -133,23 +152,51 @@
 - [nui3](https://github.com/libnui/nui3) - libnui v3
 - [aJson](https://github.com/interactive-matter/aJson) - aJson is an Arduino library to enable JSON processing with Arduino. It easily enables you to decode, create, manipulate and encode JSON directly from and to data structures.
 - [node-gif](https://github.com/pkrumins/node-gif) - A node.js C++ module for creating GIF images and animated GIFs from RGB or RGBA buffers.
-- [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [liteqr](https://github.com/jverkoey/liteqr) - Lite QR Reader in Objective C ported from zxing
 - [Zlib](https://github.com/truszkowski/Zlib) - compress and decompress based on zlib
 - [ftgles](https://github.com/cdave1/ftgles) - A truetype font rendering library for OpenGL ES on iOS devices (iPad and iPhone)
 - [cocoa-linear](https://github.com/brow/cocoa-linear) - Vectors, matrices, quaternions, and eigenstuff for Mac OS X and iPhone
 - [cocoa-viewfinder](https://github.com/brow/cocoa-viewfinder) - Real-time camera rotation tracking for iPhone
 
-## [GLSL](#toc)
+## CSS
+
+- [motion-hover-effects](https://github.com/clementroche/motion-hover-effects) - null
+- [gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
+- [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
+
+## Cython
+
+- [ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
+
+## Dockerfile
+
+- [python-black-check](https://github.com/rodrigogiraoserrao/python-black-check) - A customisable GitHub action to check the style of Python code with black.
+
+## GLSL
 
 - [ShaderKit](https://github.com/twostraws/ShaderKit) - A library of fragment shaders you can use in any SpriteKit project.
 
-## [Gnuplot](#toc)
+## Gnuplot
 
 - [CHDataStructures](https://github.com/quinntaylor/CHDataStructures) - An Objective-C library of data structures, such as deque, heap, linked list, queue, stack, and tree.
 
-## [Go](#toc)
+## Go
 
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+- [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
+- [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go and libvips
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
+- [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
+- [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
+- [youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
+- [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [geopattern](https://github.com/pravj/geopattern) - :triangular_ruler: Create beautiful generative image patterns from a string in golang.
 - [glyph](https://github.com/dbriemann/glyph) - A static site generator utilizing Github issues and pages.
 - [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -162,11 +209,7 @@
 - [egl](https://github.com/remogatto/egl) - Go package for accessing EGL
 - [mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 
-## [Groovy](#toc)
-
-- [gradle-androidannotations-plugin](https://github.com/ealden/gradle-androidannotations-plugin) - AndroidAnnotations plugin for Gradle
-
-## [HTML](#toc)
+## HTML
 
 - [kotlin-resources](https://github.com/kotlinresources/kotlin-resources) - Collaborative list of awesome Kotlin resources.
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -174,10 +217,10 @@
 - [www.html5rocks.com](https://github.com/html5rocks/www.html5rocks.com) - ....a top-notch resource for web developers
 - [iOS-HTMLTextEditor](https://github.com/insanoid/iOS-HTMLTextEditor) - A simple implementation of an HTML Editor using CKEditor in a web view.
 - [OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
-- [CMHTMLView](https://github.com/mureev/CMHTMLView) - CMHTMLView is an UIWebView wrapper to provide easy access to show rich text content (HTML) with native look and feel.
 
-## [Java](#toc)
+## Java
 
+- [CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.
 - [Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android) - This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
 - [GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android) - This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
 - [TedPermission](https://github.com/ParkSangGwon/TedPermission) - Easy check permission library for Android Marshmallow
@@ -326,8 +369,88 @@
 - [Book-Catalogue](https://github.com/eleybourn/Book-Catalogue) - A book cataloging tool for Android phones. 
 - [cocos2d](https://github.com/ZhouWeikuan/cocos2d) - cocos2d for android,  based on cocos2d-android-0.82, and now ported from cocos2d-iphone 0.99.4.  The googlecode address is here: http://code.google.com/p/cocos2d-android-1/ . There are several demos to watch.
 
-## [JavaScript](#toc)
+## JavaScript
 
+- [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
+- [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
+- [material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+- [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
+- [warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
+- [distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
+- [triangulate-image](https://github.com/snorpey/triangulate-image) - triangulate images with node and in the browser
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+- [skia-canvas](https://github.com/samizdatco/skia-canvas) - A canvas environment for Node.js
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
+- [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+- [Phil](https://github.com/keiranking/Phil) - A crossword maker.
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
+- [aisa](https://github.com/jdiemke/aisa) - AISA is a Software 3D Engine written in TypeScript.
+- [instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
+- [firebase-core-level-1](https://github.com/JaredPotter/firebase-core-level-1) - null
+- [vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
+- [tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+- [whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
+- [react-trello-board](https://github.com/web-pal/react-trello-board) - Trello like board based on React, Redux, React-dnd
+- [react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
+- [yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
+- [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
+- [vue-tags-input](https://github.com/JohMun/vue-tags-input) - A tags input component for VueJS
+- [react-tagsinput](https://github.com/olahol/react-tagsinput) - Highly customizable React component for inputing tags.
+- [vue-input-tag](https://github.com/matiastucci/vue-input-tag) - :bookmark: Vue.js 2.0 Input Tag Component
+- [tokenfield](https://github.com/KaneCohen/tokenfield) - Input field with tagging/token/chip capabilities written in raw JavaScript.
+- [drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
+- [Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+- [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+- [codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
+- [vue3-quill](https://github.com/flyween/vue3-quill) - Quill editor for vue3
+- [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - null
+- [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
+- [youtube-metadata-from-url](https://github.com/ezefranca/youtube-metadata-from-url) - Simple module to get a video metadata from url
+- [gh-action-bump-version](https://github.com/maks-stupak/gh-action-bump-version) - GitHub Action for automated npm version bump.
+- [action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
+- [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+- [sl](https://github.com/rousan/sl) - :beers: An utility tool to list npm scripts from package.json file
+- [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
+- [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
+- [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+- [core-js](https://github.com/zloirock/core-js) - Standard Library
+- [vue-video-player](https://github.com/surmon-china/vue-video-player) - @videojs component for @vuejs
+- [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs
+- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
+- [react-wasm-gif-maker](https://github.com/fireship-io/react-wasm-gif-maker) - Video to GIF with WASM (FFpeg) & React
+- [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [twilio-video.js](https://github.com/twilio/twilio-video.js) - Twilio’s Programmable Video JavaScript SDK
+- [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [timeline-editor-react](https://github.com/kevintech/timeline-editor-react) - A timeline like a video editor made using react
+- [videoeditor](https://github.com/kudlav/videoeditor) - Web Based Video Editor Using MLT Framework, Bachelor thesis
+- [react-html5-video-editor](https://github.com/evgenity/react-html5-video-editor) - React / Redux video component with crop. Powers demo video editor at
+- [code](https://github.com/corehtml5canvas/code) - Source code for Core HTML5 Canvas
+- [vue-cli-plugin-chrome-extension-cli](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - use vue plugin easy create chrome extension template 
+- [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
+- [webm-writer-js](https://github.com/thenickdude/webm-writer-js) - JavaScript-based WebM video encoder for Google Chrome
+- [ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
+- [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
+- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
+- [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
 - [simple-octokit](https://github.com/vweevers/simple-octokit) - Preconfigured GitHub API client with GraphQL and REST.
 - [jsengine](https://github.com/cliqz-oss/jsengine) - (deprecated) Javascript runtime for mobile platforms
@@ -338,7 +461,6 @@
 - [WordPress-Editor-iOS](https://github.com/wordpress-mobile/WordPress-Editor-iOS) - ⛔️ [DEPRECATED] A reusable iOS rich text editor component.
 - [polyline-normals](https://github.com/mattdesl/polyline-normals) - gets miter normals for a 2D polyline
 - [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
 - [gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
 - [MathBox.js](https://github.com/unconed/MathBox.js) - MathBox is a (work in progress) library for making presentation-quality math diagrams in WebGL.
@@ -364,14 +486,21 @@
 - [Ext.ux.TouchGridPanel](https://github.com/mitchellsimoens/Ext.ux.TouchGridPanel) - A GridPanel extension based on ExtJS for Sencha Touch
 - [richie](https://github.com/dnewcome/richie) - Richie is a Javascript rich text editor for mobile and desktop browsers
 
-## [Jupyter-Notebook](#toc)
+## Jupyter-Notebook
 
+- [Imaginary-Numbers-Are-Real](https://github.com/stephencwelch/Imaginary-Numbers-Are-Real) - Code To Accompany YouTube Series Imaginary Numbers Are Real
+- [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
+- [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 
-## [Kotlin](#toc)
+## Kotlin
 
+- [swipe](https://github.com/saket/swipe) - Swipe gesture actions for Compose UI
+- [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖  epub2.0 viewer
+- [Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
+- [landscapist](https://github.com/skydoves/landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
 - [BottomDrawer](https://github.com/HeyAlex/BottomDrawer) - BottomSheet with animations
 - [TedNaverMapClustering](https://github.com/ParkSangGwon/TedNaverMapClustering) - 네이버지도용 클러스터 유틸리티 라이브러리
@@ -386,12 +515,14 @@
 - [CircularImageView](https://github.com/lopspower/CircularImageView) - Create circular ImageView in Android in the simplest way possible
 - [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
 
-## [M](#toc)
+## Metal
 
-- [InfColorPicker](https://github.com/InfinitApps/InfColorPicker) - iOS color picker view controller which presents a hue bar and a saturation/brightness box to allow selection of any RGB color.
+- [MSLExamples](https://github.com/satoshi0212/MSLExamples) - Metal Shader Language(MSL) examples.
 
-## [Objective-C](#toc)
+## Objective-C
 
+- [Ejecta](https://github.com/phoboslab/Ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS
+- [promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 - [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
 - [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller for iOS that allows users to crop portions of UIImage objects
@@ -411,7 +542,7 @@
 - [ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) - OSX Moder Look UI
 - [UINavigationItem-Loading](https://github.com/antongaenko/UINavigationItem-Loading) - Simple category to show a loading status in a navigation bar in place of left/right items or title.
 - [FlexSlidingView](https://github.com/hwiesmann/FlexSlidingView) - null
-- [STPopup](https://github.com/kevin0571/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
+- [STPopup](https://github.com/kevin-lyn/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
 - [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView
 - [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
 - [FancyTabBar](https://github.com/marvelapp/FancyTabBar) - An expandable and customisable tabbar for iOS
@@ -449,7 +580,6 @@
 - [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue providing a blurred overlay effect.
 - [AYVibrantButton](https://github.com/a1anyip/AYVibrantButton) - A stylish button with iOS 8 vibrancy effect
 - [chameleon](https://github.com/vicc/chameleon) - Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
-- [onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant animated GIF engine for iOS
 - [OLEContainerScrollView](https://github.com/ole/OLEContainerScrollView) - A UIScrollView subclass that intelligently handles multiple child scroll views and does not interfere with UIKitʼs cell reuse functionality.
 - [FastAnimationWithPOP](https://github.com/WilliamZang/FastAnimationWithPOP) - A very simplifty animation framework. Powerby Facebook POP(https://github.com/facebook/pop). Use 'fast animation' you can add animations without any lines of code.  You can see the DEMO in project DEMO(https://github.com/WilliamZang/FastAnimationWithPopDemo).
@@ -552,7 +682,7 @@
 - [PanelTableView](https://github.com/honcheng/PanelTableView) - Multiple UITableViews in a UIScrollView
 - [DYFloatingHeaderView](https://github.com/dyang/DYFloatingHeaderView) - A Facebook inspired custom Objective-C UIView that floats on top of an underlying UIScrollView
 - [LayerSprites](https://github.com/nicklockwood/LayerSprites) - LayerSprites is a library designed to simplify the use of sprite sheets (image maps containing multiple sub-images) in UIKit applications without using OpenGL or 3rd-party game libraries. Can load sprite sheets in the Coco2D format.
-- [iOS-NBUKit](https://github.com/CyberAgent/iOS-NBUKit) - UIKit and NSFoundation convenience categories and subclasses.
+- [iOS-NBUKit](https://github.com/ca-archived/iOS-NBUKit) - UIKit and NSFoundation convenience categories and subclasses.
 - [SpiralPullToRefresh](https://github.com/kronik/SpiralPullToRefresh) - "Twitter music" like pull-to-refresh controller but a bit more enhanced and flexible.
 - [RRCircularMenu](https://github.com/iartem/RRCircularMenu) - RRCircularMenu
 - [FlipBoardNavigationController](https://github.com/michaelhenry/FlipBoardNavigationController) - This is a new navigation controller inspired by Flipboard.
@@ -577,7 +707,6 @@
 - [SECoreTextView](https://github.com/kishikawakatsumi/SECoreTextView) - SECoreTextView is multi style text view.
 - [Alcatraz](https://github.com/alcatraz/Alcatraz) - Package manager for Xcode
 - [JTObjectMapping](https://github.com/jamztang/JTObjectMapping) - A very simple objective-c framework that maps a JSON response from NSDictionary or NSArray to an NSObject subclass for iOS.
-- [iOSInstalledApps](https://github.com/arg0s/iOSInstalledApps) - Utility functions to fetch installed apps on iOS by a combination of reading running processes & investigating custom URL schemes implemented.
 - [BButton](https://github.com/jessesquires/BButton) - Twitter Bootstrap buttons for iOS
 - [UINavigationBarAdjustableTint](https://github.com/TomThorpe/UINavigationBarAdjustableTint) - A subclass of UINavigationBar that allows you to control the level of tint brightness that is applied to the tintColor
 - [UITableViewZoomController](https://github.com/TomThorpe/UITableViewZoomController) - A Cocoa Touch UITableViewController subclass in Objective C that provides a zoom effect as cells appear for the first time (similar in style to Google+ iPhone app)
@@ -592,7 +721,6 @@
 - [MSMatrixController](https://github.com/MarcoSero/MSMatrixController) - A component to organize your view controllers in a gesture-based 2D matrix.
 - [IIIThumbFlow](https://github.com/sehone/IIIThumbFlow) - IIIThumbFlow is a simple iOS view component for presenting images in a vertical flow style.
 - [CAAnimation-EasingEquations](https://github.com/bryanoltman/CAAnimation-EasingEquations) - A category on CAAnimation that provides a number of easing equations to add some zazz to your app (with examples!)
-- [MBAlertView](https://github.com/mobitar/MBAlertView) - [DEPRECATED] A fast block-based alert and HUD library with a simple API.
 - [GIKPopoverBackgroundView](https://github.com/GiK/GIKPopoverBackgroundView) - GIKPopoverBackgroundView is a UIPopoverBackgroundView subclass which shows how to customise the background of a UIPopoverController.
 - [ZGParallelView](https://github.com/zhigang1992/ZGParallelView) - ParallelView For UITableView
 - [SCPageScrubberBar](https://github.com/ohsc/SCPageScrubberBar) - A page scrubber bar like ibooks.
@@ -632,9 +760,6 @@
 - [SNRMusicKit](https://github.com/indragiek/SNRMusicKit) - All-in-one framework for browsing and playing music from various sources on iOS and OS X
 - [DLCImagePickerController](https://github.com/dmitric/DLCImagePickerController) - ImagePickerController with live filters, radial blur and more. Brought to you by Backspaces.
 - [SKBounceAnimation](https://github.com/khanlou/SKBounceAnimation) - A CAKeyframeAnimation subclass that lets you quickly and easily set a number of bounces, and start and end values, and creates an animation for you.
-- [KOFiles](https://github.com/adamhoracek/KOFiles) - null
-- [KOTree](https://github.com/adamhoracek/KOTree) - null
-- [KOTabs](https://github.com/adamhoracek/KOTabs) - null
 - [KOKeyboard](https://github.com/adamhoracek/KOKeyboard) - null
 - [OrigamiEngine](https://github.com/ap4y/OrigamiEngine) - Lightweight audio engine for iOS and OSX with flac, cue, mp3, m4a, m3u support.
 - [AJNotificationView](https://github.com/ajerez/AJNotificationView) - Notice component for iOS (UNMAINTAINED CODE)
@@ -703,7 +828,7 @@
 - [ESAdjustableLabel-Category](https://github.com/edgarschmidt/ESAdjustableLabel-Category) - This category implements some basic methods to modify the dimensions of a given UILabel
 - [FPPopover](https://github.com/alvises/FPPopover) - FPPopover provides an alternative to the native iOS UIPopoverController, adding support for iPhone and additional opportunities to customize the look and feel of the popovers.
 - [EarthView](https://github.com/RossAnderson/EarthView) - 3D Visualization of Earth using Map Tiles for iOS
-- [FSVerticalTabBarController](https://github.com/futuresimple/FSVerticalTabBarController) - Vertical tab bar controller for iOS mimicking UITabBarController look and behavior
+- [FSVerticalTabBarController](https://github.com/zendeskarchive/FSVerticalTabBarController) - Vertical tab bar controller for iOS mimicking UITabBarController look and behavior
 - [PrettyKit](https://github.com/vicpenap/PrettyKit) - PrettyKit for iOS is a small set of new widgets and UIKit subclasses that gives you a deeper UIKit customization. You will be able to change their background color, add gradients, shadows, etc. 
 - [UITableKit](https://github.com/onegray/UITableKit) - iPhone UITableView wrapper 
 - [SYPaginator](https://github.com/soffes/SYPaginator) - Powerful paging scroll views, table view style
@@ -712,7 +837,7 @@
 - [Blob](https://github.com/Birkemose/Blob) - Blob demo
 - [FMMoveTableView](https://github.com/FlorianMielke/FMMoveTableView) - Discontinued: Please use iOS 11's Drag & Drop capability instead.
 - [Drawing](https://github.com/saturngod/Drawing) - free drawing
-- [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - [iOS] Representing analog flip numbers like airport/trainstation displays
+- [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - [iOS] Animated analog flip numbers like airport/train-station displays (Swift/SwiftUI ready)
 - [LIExposeController](https://github.com/LinkedInAttic/LIExposeController) - Expose style navigation for iOS apps
 - [peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [NPColorPicker](https://github.com/neopixl/NPColorPicker) - HSV Color picker for iOS
@@ -737,7 +862,6 @@
 - [SFContainerViewController](https://github.com/krzysztofzablocki/SFContainerViewController) - UIViewControllers containment predating Apple implementation. Works in both 4.x and 5.x iOS, no memory or hierarchy issues.
 - [AcornCharts-for-iOS](https://github.com/honcheng/AcornCharts-for-iOS) - Fun way to display charts using balls that responds to device tilting 
 - [SoundArt](https://github.com/unixpickle/SoundArt) - Draw sound waves and hear them, iOS only
-- [DataKit](https://github.com/eaigner/DataKit) - DataKit makes it easy to add web backends to your apps!
 - [How-To-Create-a-Rotating-Wheel-Control-with-UIKit](https://github.com/funkyboy/How-To-Create-a-Rotating-Wheel-Control-with-UIKit) - Code for the tutorial "How To Create a Rotating Wheel Control with UIKit" published on raywenderlich.com
 - [Opaque](https://github.com/MassiveHealth/Opaque) - A prototype UI showing how one would implement an app with Clear-like animations & gestures.
 - [LeveyPopListView](https://github.com/levey/LeveyPopListView) - LeveyPopListView is an alternative of UIActionSheet : ) 
@@ -796,7 +920,7 @@
 - [F3BarGauge](https://github.com/ChiefPilot/F3BarGauge) - LED- or LCD-like bar gauge control for iOS
 - [CutomImagePickerController](https://github.com/0x0c/CutomImagePickerController) - can tap-focus with showCameraControls disable
 - [SBTickerView](https://github.com/blommegard/SBTickerView) - An easy to use ticker view with inspiration from Flipboard
-- [SSCheckBoxView](https://github.com/ardalahmet/SSCheckBoxView) - SSCheckBoxView is a check box UI control for iOS apps.
+- [SSCheckBoxView](https://github.com/ahmetardal/SSCheckBoxView) - SSCheckBoxView is a check box UI control for iOS apps.
 - [Paint-App](https://github.com/honcheng/Paint-App) - Custom UIView subclass to enable a drawing overlay in iOS
 - [ViewDeck](https://github.com/ViewDeck/ViewDeck) - An implementation of the sliding menu found in various iOS apps.
 - [TimeScroller](https://github.com/andrewroycarter/TimeScroller) - A UI Element that hovers beside the scroll bar of a UITableView (Mimicking the Path app).
@@ -882,7 +1006,6 @@
 - [CoconutKit](https://github.com/defagos/CoconutKit) - CoconutKit is a productivity framework for iOS, crafted with love and focusing on ease of use
 - [UIView-FlipTransition](https://github.com/sgabello/UIView-FlipTransition) - An Objective-C category on UIView to make Flip transitions between Views
 - [Smooth-Line-View](https://github.com/levinunnink/Smooth-Line-View) - Smooth & fast line drawing from touch inputs for UIViews using Quartz
-- [WebContentView](https://github.com/nicklockwood/WebContentView) - [DEPRECATED]
 - [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView) - [UNMAINTAINED] An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines. Similar to the one Apple uses in the SMS-app. See blog-post for a small screencast.
 - [DDExpandableButton](https://github.com/smartapps-fr/DDExpandableButton) - A single-file iOS 5.0+ class designed to be used like an expandable UIButton ; as seen in the iOS Camera app for the "flash" button.
 - [STableViewController](https://github.com/shiki/STableViewController) - A custom UIViewController with a UITableView which supports "pull to refresh" and "load more"
@@ -914,7 +1037,6 @@
 - [Pholio](https://github.com/bdewey/Pholio) - iPad photo gallery. Available on the App Store.
 - [PhotoAppLink](https://github.com/pocketpixels/PhotoAppLink) - iOS library for connecting photo editing apps
 - [Box2D-Examples](https://github.com/yannickl/Box2D-Examples) - Box2D examples (Ragdoll, Buoyancy, etc.)  for Cocos2D for iPhone
-- [MCSegmentedControl](https://github.com/oettam/MCSegmentedControl) - subclass of UISegmentedControl with custom colors
 - [SerialCommunicationFramework](https://github.com/yusukeSekikawa/SerialCommunicationFramework) - SerialCommunication framework for iOS.iOS version of Android ADK
 - [ios-image-filters](https://github.com/esilverberg/ios-image-filters) - photoshop-style filter interface for UIImage class on iOS to make instagram-style images
 - [BJImageCropper](https://github.com/barrettj/BJImageCropper) - A simple UIView subclass that allows a user to crop an image.  If you use it, I'd love to know!  Twitter: @barrettjacobsen
@@ -945,7 +1067,6 @@
 - [SlidingTabs](https://github.com/MPiccinato/SlidingTabs) - Sliding tabs UI element for iPhone
 - [MTQuadrantControl](https://github.com/domesticcatsoftware/MTQuadrantControl) - A 4-way button disguised as a table cell, as seen in Tweetie 2
 - [leaves](https://github.com/skyfe79/leaves) - An iBooks-like page-turning interface for iPhone and iPad apps using only public APIs.
-- [JPButton](https://github.com/jpoz/JPButton) - null
 - [socialize-sdk-ios](https://github.com/socialize/socialize-sdk-ios) - Socialize SDK for iOS devices. An iOS social sharing SDK for native apps.
 - [iOS-nodechat](https://github.com/honcheng/iOS-nodechat) - iOS chat client for socket.io & node.js backend
 - [MKEntryPanelDemo](https://github.com/MugunthKumar/MKEntryPanelDemo) - Entry Panel UI
@@ -1001,7 +1122,6 @@
 - [RPG](https://github.com/felixmo/RPG) - A simple demo of a game with a tiled map built using the cocos2d engine.
 - [Moving-MKAnnotationView](https://github.com/100grams/Moving-MKAnnotationView) - An implementation of a moving map annotation using iOS MapKit and QuartzCore.  
 - [KKLibrary](https://github.com/kolinkrewinkel/KKLibrary) - iOS Framework.
-- [ColorPicker](https://github.com/Thallius/ColorPicker) - A powerful color picker for all iOs devices
 - [HGPageScrollView](https://github.com/100grams/HGPageScrollView) - UIScrollView for iPhone with horizontal paging like mobile Safari tabs
 - [JJGWebView](https://github.com/geerlingguy/JJGWebView) - UIWebView class and example implementation for iOS Applications
 - [MTZoomWindow](https://github.com/myell0w/MTZoomWindow) - A UIWindow that can be used to zoom in a specific UIView and displays it fullscreen
@@ -1132,7 +1252,6 @@
 - [KSHTMLWriter](https://github.com/karelia/KSHTMLWriter) - Small set of classes to simplify XML/HTML generation in Cocoa apps.
 - [KSExtensibleManagedObject](https://github.com/karelia/KSExtensibleManagedObject) - KSExtensibleManagedObject
 - [ScrollViewAnimate](https://github.com/smendrick/ScrollViewAnimate) - Attempt to re-create the 3D style rotational animations seen in Elements & Wired IPad applications.
-- [PTPasscodeViewController](https://github.com/lashad/PTPasscodeViewController) - Passcode view controller for iPhone/iPod.
 - [baker](https://github.com/Simbul/baker) - The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards 
 - [fmdb](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
 - [ShareKit](https://github.com/ideashower/ShareKit) - Drop in sharing features for all iPhone and iPad apps
@@ -1141,12 +1260,10 @@
 - [AFCache](https://github.com/artifacts/AFCache) - AFCache is an HTTP cache for iOS and OSX seeking towards full RFC2616 compliance
 - [KVO-Notification-Manager](https://github.com/schwa/KVO-Notification-Manager) - KVOBlockNotificationCenter is a set of source code for using blocks with Cocoa's Key Value Observing (KVO).  Originally inspired by Mike Ash's "KVO Done Right" blog post and code: http://www.mikeash.com/?page=pyblog/key-value-observing-done-right.html   See http://toxicsoftware.com/kvoblocks/ for more information.
 - [MyAVControllerDemo](https://github.com/benlodotcom/MyAVControllerDemo) - A little sample showing how to access directly the datas of the camera in iOS
-- [Smart-Alert-View](https://github.com/Constantine-Fry/Smart-Alert-View) - Smart Alert View allow to put any view in a UIAlertView. 
 - [OARequestHeader](https://github.com/Gurpartap/OARequestHeader) - A quickie to generate OAuth headers when using OAuthConsumer library in Mac and iPhone apps.
 - [GSTwitPicEngine](https://github.com/Gurpartap/GSTwitPicEngine) - Objective C wrapper around TwitPic's OAuth and OAuth Echo API with OAuthConsumer Lib. Deprecated.
 - [TwitterClient](https://github.com/dojoiphone/TwitterClient) - Client Twitter pour Iphone
 - [TweetNow](https://github.com/yuumi3/TweetNow) - 現在の位置情報から近くの駅や登録した場所名を Twitter につぶやく iPhoneアプリ 
-- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [DashApp](https://github.com/jjg/DashApp) - DashApp is an iPad application that allows you to run multiple iPhone Web Apps simultaneously in a Dashboard-like environment.
 - [cheepcheep](https://github.com/lachie/cheepcheep) - my very own twitter client
 - [asi-http-request](https://github.com/pokeb/asi-http-request) - Easy to use CFNetwork wrapper for HTTP requests, Objective-C,  Mac OS X and iPhone
@@ -1223,7 +1340,6 @@
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 - [iPhone-Tetris](https://github.com/joshvera/iPhone-Tetris) - A little iPhone tetris game written with cocos2d
 - [Tweeter](https://github.com/pyro2927/Tweeter) - Twitter Framework for the iPhone (or really any Obj-C project)
-- [NWPickerField](https://github.com/scottandrew/NWPickerField) - A combo box like control for the iPhone.
 - [tweet-only-iphone](https://github.com/ashlux/tweet-only-iphone) - null
 - [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh) - A similar control to the pull down to refresh control created by atebits in Tweetie 2.
 - [OBShapedButton](https://github.com/ole/OBShapedButton) - A UIButton subclass that works with for non-rectangular button shapes.
@@ -1283,7 +1399,6 @@
 - [HelTweetica](https://github.com/luciuskwok/HelTweetica) - Twitter app for iPad that won Best Social App at iPadDevCamp NYC 2010.
 - [iphone-twitter](https://github.com/st3fan/iphone-twitter) - iPhone Twitter Framework
 - [ShowOffPad](https://github.com/schacon/ShowOffPad) - ShowOff Presenter on the iPad
-- [PTConversation](https://github.com/lashad/PTConversation) - SMS style conversation view for iPhone/iPod touch.
 - [bamboo](https://github.com/ryanscott/bamboo) - a lightweight, simple objective-c library implementation of facebook's graph api, for the iPhone.
 - [iPad-Filesystem](https://github.com/AlanQuatermain/iPad-Filesystem) - A simple split-view-based filesystem browser for the iPad. Find out what you can read or write!
 - [SGAREnvironment](https://github.com/simplegeo/SGAREnvironment) - A location-based augmented reality environment for the iPhone.
@@ -1301,46 +1416,77 @@
 - [TICoreDataUtilities](https://github.com/timisted/TICoreDataUtilities) - Utilities to make Core Data applications as free of template code (and as painless) as possible
 - [big5app](https://github.com/holtwick/big5app) - Enhanced UIWebView browser with e.g. camera support via Javascript
 
-## [Objective-C++](#toc)
+## Objective-C++
 
 - [UICoreTextView](https://github.com/giladno/UICoreTextView) - Easy to use UIView which supports rendering using CoreText
 - [AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit) - Smooth asynchronous user interfaces for iOS apps.
 - [textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 
-## [PHP](#toc)
+## PHP
 
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 - [fuzzy-record](https://github.com/pokeb/fuzzy-record) - PHP Active Record implementation with a Rails-like API
 
-## [PLpgSQL](#toc)
+## PLpgSQL
 
 - [Chats](https://github.com/acani/Chats) - Open-Source Messaging App
 
-## [Perl](#toc)
+## Perl
 
 - [ffmpeg-ios-compile](https://github.com/xiewei-wayne/ffmpeg-ios-compile) - How to compile ffmpeg v1.0 libs for iOS.
-- [IMDB-Tools](https://github.com/fmorgner/IMDB-Tools) - IMDB Tools is a collection of some scripts to fetch Information from the Internet Movie DataBase (IMDB)
 
-## [Python](#toc)
+## PowerShell
 
+- [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+
+## Python
+
+- [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
+- [memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
+- [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
+- [dart-fss](https://github.com/josw123/dart-fss) - 한국 금융감독원에서 운영하는 다트(Dart) 시스템 크롤링을 위한 라이브러리
+- [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
+- [huey](https://github.com/coleifer/huey) - a little task queue for python
+- [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
+- [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [tiny_python_projects](https://github.com/kyclark/tiny_python_projects) - Code for Tiny Python Projects (Manning, 2020, ISBN 1617297518). Learning Python through test-driven development of games and puzzles.
+- [pymotw-3](https://github.com/dhellmann/pymotw-3) - null
+- [OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot using technical analysis based strategy with an advanced web interface
+- [mercy-reader](https://github.com/hex0cter/mercy-reader) - A Python library to extract clean(er), readable text from web pages via Mercury Web Parser.
+- [reader](https://github.com/zyocum/reader) - Extract clean(er), readable text from web pages via Mercury Web Parser.
+- [mercury-parserpy](https://github.com/Girbons/mercury-parserpy) - python api wrapper for https://mercury.postlight.com/web-parser/
+- [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+- [stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
+- [awesome-ml-demos-with-ios](https://github.com/tucan9389/awesome-ml-demos-with-ios) - The challenge projects for Inferencing machine learning models on iOS
+- [auto-caption](https://github.com/aguang-xyz/auto-caption) - Automatic captioning for movies.
+- [auto-subtitle](https://github.com/harikrishnantb/auto-subtitle) - Command-line utility for auto-generating subtitles for any video file
+- [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) - Visit PixelLib's official documentation  https://pixellib.readthedocs.io/en/latest/
+- [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+- [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
+- [Bezier.py](https://github.com/torresjrjr/Bezier.py) - ➰ Create Bezier curves in Python [Mirror]
+- [Defity](https://github.com/hongquan/Defity) - Speedy library to detect file type from initial part of file content
+- [black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [peps](https://github.com/python/peps) - Python Enhancement Proposals
+- [cpython](https://github.com/python/cpython) - The Python programming language
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [OpenDartReader](https://github.com/FinanceData/OpenDartReader) - Open DART Reader
 - [libchromiumcontent](https://github.com/izhengzhixian/libchromiumcontent) - null
 - [colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 - [pyffmpeg](https://github.com/mhaller/pyffmpeg) - PyFFmpeg - Python FFmpeg wrapper
 - [LUD-Media-Converter](https://github.com/kunaldeo/LUD-Media-Converter) - An easy to use Media Converter for iOS and Android. It produces WebM and MP4 files. Written in Python 3 and PyQt4.
-- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [AirPlayer](https://github.com/hellozimi/AirPlayer) - null
 - [osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
-- [iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework) - An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [Wendy](https://github.com/tinybird/Wendy) - Simple Appstore sales report bot
 - [PyAPNs](https://github.com/djacobs/PyAPNs) - Python library for interacting with the Apple Push Notification service (APNs)
 - [pyapns](https://github.com/samuraisam/pyapns) - An APNS provider with multi-app support.
-- [cocosCairo](https://github.com/jeremyflores/cocosCairo) - A port of cocos2d for iPhone to PyGTK and PyCairo for use in the Sugar Desktop Environment and the OLPC platform.
 
-## [Ruby](#toc)
+## Ruby
 
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [FFmpeg-iOS](https://github.com/chrisballinger/FFmpeg-iOS) - FFmpeg static libraries compiled for iOS
 - [streamio-ffmpeg](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful ruby ffmpeg wrapper for reading metadata and transcoding movies
@@ -1354,18 +1500,46 @@
 - [octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 - [apn_on_rails](https://github.com/PRX/apn_on_rails) - Apple Push Notifications on Rails
 
-## [Rust](#toc)
+## Rust
 
+- [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
+- [privaxy](https://github.com/Barre/privaxy) - (work in progress) Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
+- [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
+- [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
+- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
+- [evm](https://github.com/rust-blockchain/evm) - Pure Rust implementation of Ethereum Virtual Machine
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
+- [youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
+- [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
+- [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
 - [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 
-## [SCSS](#toc)
+## SCSS
 
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 
-## [Shell](#toc)
+## Shell
 
+- [n](https://github.com/tj/n) - Node version management
+- [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [webrtc-build-scripts](https://github.com/pristineio/webrtc-build-scripts) - A set of build scripts useful for building WebRTC libraries for Android and iOS.
 - [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 - [ffmpeg-android](https://github.com/WritingMinds/ffmpeg-android) - FFmpeg for Android compiled with x264, libass, fontconfig, freetype, fribidi and lame (Supports Android 4.1+)
@@ -1373,8 +1547,87 @@
 - [android-ffmpeg](https://github.com/guardianproject/android-ffmpeg) - a system for building custom ffmpeg binaries for Android 
 - [spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
 
-## [Swift](#toc)
+## Svelte
 
+- [daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+
+## Swift
+
+- [Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+- [Swush](https://github.com/qeude/Swush) - 🔔 macOS Application to play with the Apple Push Notification service (APNs).
+- [SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
+- [swiftui-pipify](https://github.com/getsidetrack/swiftui-pipify) - A SwiftUI component for launching custom picture-in-picture experiences
+- [SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) - A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS
+- [Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
+- [ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple's Vision framework
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
+- [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - A Swift Package Plugin for SwiftLint
+- [Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications! 
+- [MBEBaseEffect](https://github.com/metal-by-example/MBEBaseEffect) - A Metal re-implementation of GLKit's GLKBaseEffect
+- [Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
+- [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky) - Framework for automatic mock generation. Adds a set of handy methods, simplifying testing. One of the best and most complete solutions, including generics support and much more.
+- [mockingbird](https://github.com/birdrides/mockingbird) - A Swifty mocking framework for Swift and Objective-C.
+- [Cuckoo](https://github.com/Brightify/Cuckoo) - Boilerplate-free mocking framework for Swift!
+- [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift
+- [PanModal](https://github.com/slackhq/PanModal) - An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
+- [SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
+- [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
+- [UIKitPlus](https://github.com/MihaelIsaev/UIKitPlus) - 🏰 Declarative UIKit with LivePreview for iOS9+ (best alternative to SwiftUI)
+- [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
+- [dskit](https://github.com/imodeveloperlab/dskit) - A design system with a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
+- [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
+- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+- [SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
+- [Docs](https://github.com/SwiftOnTap/Docs) - Complete SwiftUI Docs with Examples
+- [AxisSheet](https://github.com/jasudev/AxisSheet) - It is a library that handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode. It supports iOS and macOS.
+- [Swiftlane](https://github.com/onmyway133/Swiftlane) - 🚀 Build utilities in pure Swift
+- [PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics in Swift & Metal
+- [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - null
+- [Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
+- [type-erasure-playgrounds](https://github.com/bignerdranch/type-erasure-playgrounds) - Code to accompany Swift Symposium Talk - https://www.youtube.com/watch?v=d_FJHBl5ohU
+- [octokit.swift](https://github.com/nerdishbynature/octokit.swift) - A Swift API Client for GitHub and GitHub Enterprise
+- [macocr](https://github.com/ughe/macocr) - macOS OCR CLI for https://developer.apple.com/documentation/vision/vnrecognizetextrequest
+- [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
+- [stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
+- [LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
+- [AsyncCompatibilityKit](https://github.com/JohnSundell/AsyncCompatibilityKit) - iOS 13-compatible backports of commonly used async/await-based system APIs that are only available from iOS 15 by default.
+- [UIPiPDemo](https://github.com/uakihir0/UIPiPDemo) - Demo App for Picture-in-Picture of Arbitrary UIView in iOS
+- [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
+- [SceneKit-SCNLine](https://github.com/maxxfrazer/SceneKit-SCNLine) - Draw a tube or thick line in SceneKit
+- [ImpressionKit](https://github.com/623637646/ImpressionKit) - A tool to detect impression events for UIView (exposure of UIView) in iOS. SwiftUI supported.
+- [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - null
+- [swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
+- [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
+- [SwiftProcessing](https://github.com/SwiftProcessing/SwiftProcessing) - null
+- [ModernRIBs](https://github.com/DevYeom/ModernRIBs) - Uber's RIBs with Combine.
+- [swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
+- [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM) - Template iOS app using Clean Architecture and MVVM. Includes DIContainer, FlowCoordinator, DTO, Response Caching and one of the views in SwiftUI 
+- [LicensePlist](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications
+- [AR_100Days](https://github.com/satoshi0212/AR_100Days) - null
+- [DeviceCameraMonitorSample](https://github.com/satoshi0212/DeviceCameraMonitorSample) - null
+- [BlueSocket](https://github.com/Kitura/BlueSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, and Linux.
+- [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+- [xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
+- [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - A Swift Package to easily play YouTube videos 📺
+- [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project
+- [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - The easy way to use sockets on Apple platforms
+- [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
+- [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
+- [SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
+- [BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers
+- [SwiftDomainParser](https://github.com/Dashlane/SwiftDomainParser) - A Full Swift Lightweight Framework that uses the Public Suffix list to Parse URLs 
+- [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework
+- [collection-view-compositional-layout-demo](https://github.com/Lickability/collection-view-compositional-layout-demo) - An exploration of the iOS 13 API UICollectionViewCompositionalLayout
+- [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - 📏 A set of advanced compositional layouts for UICollectionView with examples [Swift 5.3, iOS 13].
+- [CompositionalLayoutDSL](https://github.com/faberNovel/CompositionalLayoutDSL) - CompositionalLayoutDSL, library to simplify the creation of UICollectionViewCompositionalLayout. It wraps the UIKit API and makes the code shorter and easier to read.
+- [FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS
+- [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
+- [BottomSheet](https://github.com/gaetanomatonti/BottomSheet) - A BottomSheet component made with UIKit. Completely written in Swift 🧡
+- [BottomSheet](https://github.com/finn-no/BottomSheet) - Custom modal presentation style for thumb-friendly interactive views
+- [CompositionalDiffablePlayground.ios](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios) - Examples showing Compositional Layout, Diffable Data Sources and more!
+- [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
+- [Animo](https://github.com/eure/Animo) - Bring life to CALayers with SpriteKit-like animation builders
+- [tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
 - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
 - [PopMenu](https://github.com/CaliCastle/PopMenu) - A fully customizable popup style menu for iOS 😎
@@ -1382,7 +1635,7 @@
 - [InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout) - Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging, NSProxy delegate, Reactive extension, SectionModel & AnimatableSectionModel support
 - [Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - SnackBar provide brief feedback about an operation through a message at the bottom of the screen.
-- [surmagic](https://github.com/gurhub/surmagic) - 🚀 Create XCFrameworks with ease! A Command Line Tool to create XCFrameworks for multiple platforms at one shot! The better way to deal with XCFrameworks for iOS, Mac Catalyst, tvOS, macOS, and watchOS.
+- [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms at one shot!
 - [Gradient-Meshes-with-SceneKit](https://github.com/movingparts-io/Gradient-Meshes-with-SceneKit) - Building Gradient Meshes with SceneKit.
 - [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
@@ -1400,7 +1653,7 @@
 - [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS/CALayer]
 - [TwoWayBindingUIKit](https://github.com/stevencurtis/TwoWayBindingUIKit) - A compact two way binding library for UIKit
 - [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
-- [Swifter](https://github.com/mattdonnelly/Swifter) - :bird: A Twitter framework for iOS & OS X written in Swift
+- [Swifter](https://github.com/mattdonnelly/Swifter) - [DEPRECATED] :bird: A Twitter framework for iOS & OS X written in Swift
 - [SwipeCell](https://github.com/fatbobman/SwipeCell) - SwipeCell is a SwiftUI library, used to achieve the left and right sliding menu effect similar to the iOS mail app.
 - [swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift
 - [Then](https://github.com/freshOS/Then) - :clapper: Tame async code with battle-tested promises
@@ -1411,7 +1664,7 @@
 - [Hydra](https://github.com/malcommac/Hydra) - ⚡️ Lightweight full-featured Promises, Async & Await Library in Swift
 - [BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings in Swift
 - [SwiftRichString](https://github.com/malcommac/SwiftRichString) - 👩‍🎨 Elegant Attributed String composition in Swift sauce
-- [TextureSwiftSupport](https://github.com/TextureCommunity/TextureSwiftSupport) - A library that gains Texture(AsyncDisplayKit) more power in Swift.
+- [TextureSwiftSupport](https://github.com/FluidGroup/TextureSwiftSupport) - A library that gains Texture(AsyncDisplayKit) more power in Swift.
 - [collection-view-swiftui](https://github.com/objcio/collection-view-swiftui) - Sample code for Swift Talk episode 168: SwiftUI — Building a Collection View (Part 2)
 - [SwitfUICollectionViewResearch](https://github.com/niepok/SwitfUICollectionViewResearch) - This repo consists of RnD project to create UICollectionView equivalent using SwiftUI
 - [SwiftUI-Server-Driver-UI](https://github.com/AnupAmmanavar/SwiftUI-Server-Driver-UI) - Server Driven UI using the Swifts declarative SwiftUI UI toolkit
@@ -1423,7 +1676,7 @@
 - [SwiftUIDrag](https://github.com/demharusnam/SwiftUIDrag) - A simple, customizable, and intuitive SwiftUI wrapper-view enabling dragging, floating, and/or collapsing for its content. 
 - [CollectionThing](https://github.com/liscio/CollectionThing) - Scroll fast using pure SwiftUI
 - [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - A collection view for SwiftUI
-- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI framework that contains 40+ customizable UI components
+- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI package that contains 30+ customizable UI components
 - [ElegantPages](https://github.com/ThasianX/ElegantPages) - The elegant full screen page view missed in SwiftUI
 - [SVEVideoUI](https://github.com/SergioEstevao/SVEVideoUI) - A video component for SwiftUI
 - [fluxus](https://github.com/johnsusek/fluxus) - Flux for SwiftUI, inspired by Vuex
@@ -1437,7 +1690,7 @@
 - [QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
 - [StickeyHeaderiOS](https://github.com/Sowndharya/StickeyHeaderiOS) - An custom header view implementation in iOS that expands and collapses along with table view scroll
-- [SwiftUI-Hooks](https://github.com/ra1028/SwiftUI-Hooks) - A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
+- [swiftui-hooks](https://github.com/ra1028/swiftui-hooks) - 🪝 A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view with support for custom layouts, preloading, and more.
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [MbSwiftUIFirstResponder](https://github.com/mobilinked/MbSwiftUIFirstResponder) - null
@@ -1446,10 +1699,10 @@
 - [NSAttributedStringBuilder](https://github.com/ethanhuang13/NSAttributedStringBuilder) - Composing NSAttributedString with SwiftUI-style syntax
 - [FavIcon](https://github.com/leonbreedt/FavIcon) - Swift library to detect icons supported by a website. 
 - [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
-- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
 - [DateHelper](https://github.com/melvitax/DateHelper) - A Swift Date extension helper
 - [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values
-- [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults
+- [Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [PartialSheet](https://github.com/AndreaMiotto/PartialSheet) - A SwiftUI Partial Sheet fully customizable with dynamic height
 - [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [NavigationStack](https://github.com/indieSoftware/NavigationStack) - An alternative to SwiftUI's navigation with greater flexibility and custom transition animation support.
@@ -1461,7 +1714,7 @@
 - [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
 - [NSWindowStyles](https://github.com/lukakerr/NSWindowStyles) - A showcase of the many different styles of windows possible with NSWindow on macOS
-- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
 - [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 - [Reflection](https://github.com/Zewo/Reflection) - DEPRECATED
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
@@ -1521,23 +1774,113 @@
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [Programming-iOS-Book-Examples](https://github.com/mattneub/Programming-iOS-Book-Examples) - Downloadable code examples for my books,  "iOS 14 Programming Fundamentals With Swift" (bk1) and "Programming iOS 14" (bk2).
 - [DDMathParser](https://github.com/davedelong/DDMathParser) - String → Number
+- [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [TDBadgedCell](https://github.com/tmdvs/TDBadgedCell) - TDBadgedCell is a table view cell class that adds a badge, similar to the badges in Apple's own apps
 
-## [TypeScript](#toc)
+## TypeScript
 
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [polymorphic-react-component](https://github.com/ohansemmanuel/polymorphic-react-component) - Companion repo for my build a polymorphic React component class
+- [plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+- [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
+- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+- [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
+- [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
+- [trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
+- [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+- [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
+- [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2021: trends about front-end and Node.js frameworks, build tools, testing, Vue, React... Available in English, Japanese and Spanish.
+- [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
+- [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
+- [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
+- [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
+- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0. 
+- [react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
+- [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
+- [SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
+- [react-custom-chips](https://github.com/loweisz/react-custom-chips) - Very powerful, lightweight and customizable chips input field 🍟
+- [react-three-babel](https://github.com/pmndrs/react-three-babel) - 🛍 A Babel plugin that automatically builds the extend catalogue of known native Three.js elements
+- [valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
+- [use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
+- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+- [use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
+- [jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [vue-quill](https://github.com/vueup/vue-quill) - Rich Text Editor Component for Vue 3.
+- [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
+- [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
+- [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
+- [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
+- [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
+- [blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
+- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
+- [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
+- [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
+- [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
+- [python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
+- [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+- [video-editing-timeline](https://github.com/pansyjs/video-editing-timeline) - Timeline for video editing(为视频编辑而写时间线)
+- [notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
+- [rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects 
+- [setup-rust](https://github.com/ATiltedTree/setup-rust) - A action to setup rust at a specific version using rustup.
+- [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
+- [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
-- [adblocker](https://github.com/cliqz-oss/adblocker) - Efficient embeddable adblocker library
+- [adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 
-## [Vim-script](#toc)
+## Vim-script
 
 - [Trinity](https://github.com/wenlongche/Trinity) - A (G)Vim plugin which build the trinity of Source Explorer, TagList and NERD tree to be an IDE for software development.
 
-## [etc](#toc)
+## Vue
 
+- [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
+- [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
+- [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
+- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
+- [vue-confirm-dialog](https://github.com/aslanon/vue-confirm-dialog) - Simple Confirm Dialog verification plugin with Vue.js.
+- [vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue
+- [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker) - Vue2 date range picker
+- [vue-modular-architecture](https://github.com/DarkC0der11/vue-modular-architecture) - null
+- [vega](https://github.com/toshusai/vega) - Browser-based video editing software.
+- [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 (Hangul Font Collection that can be used Commercially without Ads)
+
+## etc
+
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+- [iamport-manual](https://github.com/iamport/iamport-manual) - 아임포트(iamport) 결제연동을 위한 매뉴얼입니다.
+- [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
+- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+- [React-Firebase](https://github.com/iamshaunjp/React-Firebase) - All course files for the Net Ninja React & Firebase course.
+- [Vue-3-Firebase](https://github.com/iamshaunjp/Vue-3-Firebase) - All course files for the Vue 3 & Firebase Udemy course.
+- [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
+- [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
+- [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+- [awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
+- [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [EZPods](https://github.com/thellimist/EZPods) - Easy CocoaPods checklist and tutorial
 - [StackViewLayout](https://github.com/layoutBox/StackViewLayout) - Coming soon!
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -1551,8 +1894,10 @@
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
 - [BlurredSegues](https://github.com/edwurtle/BlurredSegues) - Modal Blurred Segue (and unwind segue) for iOS, full project to demo EDWBlurredSegue and EDWBlurredUnwindSegue
+- [onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
 - [code](https://github.com/effectiveobjc/code) - Code for the Effective Objective-C 2.0 book
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [AFIncrementalStore](https://github.com/AFNetworking/AFIncrementalStore) - null
 - [gitignore](https://github.com/skyfe79/gitignore) - A collection of useful .gitignore templates
 - [Free-Sketching](https://github.com/brightredchilli/Free-Sketching) - A project to help me figure out how to save smooth path information to a CALayer and display it on the screen
