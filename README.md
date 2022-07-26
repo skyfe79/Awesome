@@ -1553,6 +1553,8 @@
 
 ## Swift
 
+- [Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
+- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
 - [Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 - [Swush](https://github.com/qeude/Swush) - 🔔 macOS Application to play with the Apple Push Notification service (APNs).
 - [SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
