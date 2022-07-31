@@ -53,7 +53,6 @@
 
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [cloth-simulation-2d](https://github.com/marianpekar/cloth-simulation-2d) - 2D cloth simulation written in C++ with SDL.
-- [MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
 - [qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -114,6 +113,7 @@
 - [carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+- [MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
 - [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -187,7 +187,7 @@
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go and libvips
+- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go with libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
@@ -492,7 +492,7 @@
 - [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
-- [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
+- [FinanceDataReader](https://github.com/financedata-org/FinanceDataReader) - Financial data reader
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 
 ## Kotlin
@@ -1553,6 +1553,10 @@
 
 ## Swift
 
+- [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
+- [WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showcasing different types of Widgets created with SwiftUI and WidgetKit.
+- [KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS video player
+- [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile Video Player implementation for iOS, macOS, and tvOS
 - [Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
 - [Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
@@ -1781,6 +1785,7 @@
 
 ## TypeScript
 
+- [etro](https://github.com/etro-js/etro) - A typescript video-editing framework for the browser and Node
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [polymorphic-react-component](https://github.com/ohansemmanuel/polymorphic-react-component) - Companion repo for my build a polymorphic React component class
