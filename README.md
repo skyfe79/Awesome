@@ -117,7 +117,6 @@
 - [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [bloom_cpp](https://github.com/duckduckgo/bloom_cpp) - null
 - [FlexLayout](https://github.com/layoutBox/FlexLayout) - FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
@@ -380,7 +379,6 @@
 - [distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
 - [triangulate-image](https://github.com/snorpey/triangulate-image) - triangulate images with node and in the browser
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
-- [skia-canvas](https://github.com/samizdatco/skia-canvas) - A canvas environment for Node.js
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [Phil](https://github.com/keiranking/Phil) - A crossword maker.
@@ -403,7 +401,6 @@
 - [tokenfield](https://github.com/KaneCohen/tokenfield) - Input field with tagging/token/chip capabilities written in raw JavaScript.
 - [drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
-- [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
 - [vue3-quill](https://github.com/flyween/vue3-quill) - Quill editor for vue3
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -425,7 +422,6 @@
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [core-js](https://github.com/zloirock/core-js) - Standard Library
-- [vue-video-player](https://github.com/surmon-china/vue-video-player) - @videojs component for @vuejs
 - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [react-wasm-gif-maker](https://github.com/fireship-io/react-wasm-gif-maker) - Video to GIF with WASM (FFpeg) & React
@@ -440,6 +436,7 @@
 - [videoeditor](https://github.com/kudlav/videoeditor) - Web Based Video Editor Using MLT Framework, Bachelor thesis
 - [react-html5-video-editor](https://github.com/evgenity/react-html5-video-editor) - React / Redux video component with crop. Powers demo video editor at
 - [code](https://github.com/corehtml5canvas/code) - Source code for Core HTML5 Canvas
+- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [vue-cli-plugin-chrome-extension-cli](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - use vue plugin easy create chrome extension template 
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
@@ -588,7 +585,6 @@
 - [DBCamera](https://github.com/danielebogo/DBCamera) - DBCamera is a simple custom camera with AVFoundation
 - [PKMultipartInputStream](https://github.com/pyke369/PKMultipartInputStream) - An NSInputStream subclass suitable for building multipart/form-data HTTP requests bodies in MacOSX/iOS applications.
 - [TLYShyNavBar](https://github.com/telly/TLYShyNavBar) - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!
-- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 - [AFViewShaker](https://github.com/ArtFeel/AFViewShaker) - null
 - [YOLOKit](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes
 - [RaptureXML](https://github.com/ZaBlanc/RaptureXML) - A simple, sensible, block-based XML API for iOS and Mac development.
@@ -936,7 +932,7 @@
 - [TouchOpenGL](https://github.com/skyfe79/TouchOpenGL) - null
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS
 - [SVStatusHUD](https://github.com/samvermette/SVStatusHUD) - a copycat of the HUD shown on orientation and volume change in iOS.
-- [sprite-additions](https://github.com/r3econ/sprite-additions) - UIImage Category for handling sprite sheets
+- [sprite-additions](https://github.com/r3econ/sprite-additions) - Useful UIImage category for handling sprite sheets. This add-on smoothes the way of extracting images from a sprite sheet (texture atlas).
 - [GMGridView](https://github.com/rantav/GMGridView) - A performant Grid-View for iOS (iPhone/iPad) that allows sorting of views with gestures (the user can move the items with his finger to sort them) and pinching/rotating/panning gestures allow the user to play with the view and toggle from the cellview to a fullsize display.
 - [CoreTextWrapper](https://github.com/evifree/CoreTextWrapper) - An Objective-C wrapper around Core Text for creating multi-column text and loading custom fonts
 - [FlashToCocos2D](https://github.com/TheDamArmada/FlashToCocos2D) - Library to import Flash animations to Cocos2D iOS projects
@@ -1504,6 +1500,7 @@
 
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [privaxy](https://github.com/Barre/privaxy) - (work in progress) Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
+- [skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
@@ -1553,6 +1550,7 @@
 
 ## Swift
 
+- [XCoordinator](https://github.com/QuickBirdEng/XCoordinator) - 🎌 Powerful navigation library for iOS based on the coordinator pattern
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showcasing different types of Widgets created with SwiftUI and WidgetKit.
 - [KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS video player
@@ -1641,7 +1639,7 @@
 - [InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout) - Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging, NSProxy delegate, Reactive extension, SectionModel & AnimatableSectionModel support
 - [Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - SnackBar provide brief feedback about an operation through a message at the bottom of the screen.
-- [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms at one shot!
+- [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
 - [Gradient-Meshes-with-SceneKit](https://github.com/movingparts-io/Gradient-Meshes-with-SceneKit) - Building Gradient Meshes with SceneKit.
 - [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps
 - [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
@@ -1775,6 +1773,7 @@
 - [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
 - [ICViewPager](https://github.com/iltercengiz/ICViewPager) - null
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
+- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 - [FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at fullstackedu.com
 - [SevenSwitch](https://github.com/bvogelzang/SevenSwitch) - iOS7 style drop in replacement for UISwitch
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
@@ -1834,6 +1833,7 @@
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [videojs-player](https://github.com/surmon-china/videojs-player) - @videojs component for @vuejs and React.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
 - [python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
@@ -1861,6 +1861,7 @@
 
 - [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
+- [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [vue-confirm-dialog](https://github.com/aslanon/vue-confirm-dialog) - Simple Confirm Dialog verification plugin with Vue.js.
