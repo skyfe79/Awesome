@@ -422,7 +422,7 @@
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [core-js](https://github.com/zloirock/core-js) - Standard Library
-- [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs
+- [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2)
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [react-wasm-gif-maker](https://github.com/fireship-io/react-wasm-gif-maker) - Video to GIF with WASM (FFpeg) & React
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -1433,7 +1433,7 @@
 
 ## PowerShell
 
-- [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+- [runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## Python
 
@@ -1443,7 +1443,7 @@
 - [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
 - [dart-fss](https://github.com/josw123/dart-fss) - 한국 금융감독원에서 운영하는 다트(Dart) 시스템 크롤링을 위한 라이브러리
-- [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
+- [pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
@@ -1550,6 +1550,11 @@
 
 ## Swift
 
+- [proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps
+- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+- [Pow](https://github.com/movingparts-io/Pow) - Delightful Transitions for SwiftUI
+- [InterposeKit](https://github.com/steipete/InterposeKit) - A modern library to swizzle elegantly in Swift.
 - [XCoordinator](https://github.com/QuickBirdEng/XCoordinator) - 🎌 Powerful navigation library for iOS based on the coordinator pattern
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showcasing different types of Widgets created with SwiftUI and WidgetKit.
@@ -1833,7 +1838,7 @@
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [videojs-player](https://github.com/surmon-china/videojs-player) - @videojs component for @vuejs and React.
+- [videojs-player](https://github.com/surmon-china/videojs-player) - @videojs player component for @vuejs(3) and React.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
 - [python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
