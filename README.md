@@ -210,6 +210,7 @@
 
 ## HTML
 
+- [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [kotlin-resources](https://github.com/kotlinresources/kotlin-resources) - Collaborative list of awesome Kotlin resources.
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
@@ -1440,7 +1441,7 @@
 
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
 - [dart-fss](https://github.com/josw123/dart-fss) - 한국 금융감독원에서 운영하는 다트(Dart) 시스템 크롤링을 위한 라이브러리
@@ -1536,6 +1537,7 @@
 
 ## Shell
 
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [n](https://github.com/tj/n) - Node version management
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [webrtc-build-scripts](https://github.com/pristineio/webrtc-build-scripts) - A set of build scripts useful for building WebRTC libraries for Android and iOS.
@@ -1551,6 +1553,12 @@
 
 ## Swift
 
+- [SoulverTextKit](https://github.com/soulverteam/SoulverTextKit) - Turn your standard NSTextView or UITextView into a Soulver-like notepad calculator.
+- [SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
+- [SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
+- [phyllotaxis](https://github.com/Viktorianec/phyllotaxis) - Phyllotaxis on Swift UI
+- [RecoilSwift](https://github.com/hollyoops/RecoilSwift) - A New, Functional, Modern Reactive State Management Library for Swift and SwiftUI (The iOS implementation of Recoil)
+- [SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications
 - [proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
@@ -1865,7 +1873,6 @@
 
 ## Vue
 
-- [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
 - [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
@@ -1874,7 +1881,7 @@
 - [vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue
 - [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker) - Vue2 date range picker
 - [vue-modular-architecture](https://github.com/DarkC0der11/vue-modular-architecture) - null
-- [vega](https://github.com/toshusai/vega) - Browser-based video editing software.
+- [Vega](https://github.com/toshusai/Vega) - Browser-based video editing software.
 - [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 (Hangul Font Collection that can be used Commercially without Ads)
 
 ## etc
