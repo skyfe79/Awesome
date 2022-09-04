@@ -374,7 +374,7 @@
 - [Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
-- [material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+- [material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
@@ -1553,7 +1553,8 @@
 
 ## Swift
 
-- [SoulverTextKit](https://github.com/soulverteam/SoulverTextKit) - Turn your standard NSTextView or UITextView into a Soulver-like notepad calculator.
+- [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces
+- [SoulverTextKit](https://github.com/soulverteam/SoulverTextKit) - Turn your standard NSTextView or UITextView into a Soulver-like notepad calculator
 - [SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
 - [SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
 - [phyllotaxis](https://github.com/Viktorianec/phyllotaxis) - Phyllotaxis on Swift UI
