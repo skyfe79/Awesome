@@ -110,6 +110,7 @@
 
 ## C++
 
+- [srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -407,7 +408,6 @@
 - [vue3-quill](https://github.com/flyween/vue3-quill) - Quill editor for vue3
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - null
-- [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [youtube-metadata-from-url](https://github.com/ezefranca/youtube-metadata-from-url) - Simple module to get a video metadata from url
 - [gh-action-bump-version](https://github.com/maks-stupak/gh-action-bump-version) - GitHub Action for automated npm version bump.
 - [action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
@@ -447,7 +447,7 @@
 - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
+- [parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
@@ -1507,7 +1507,7 @@
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+- [lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
@@ -1553,6 +1553,8 @@
 
 ## Swift
 
+- [ios-stack-kit](https://github.com/gymshark/ios-stack-kit) - The power of SwiftUI with UIKit
+- [whats-new-in-swift-5-7](https://github.com/twostraws/whats-new-in-swift-5-7) - null
 - [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces
 - [SoulverTextKit](https://github.com/soulverteam/SoulverTextKit) - Turn your standard NSTextView or UITextView into a Soulver-like notepad calculator
 - [SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
@@ -1837,6 +1839,7 @@
 - [vue-quill](https://github.com/vueup/vue-quill) - Rich Text Editor Component for Vue 3.
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
