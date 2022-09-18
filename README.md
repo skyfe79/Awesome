@@ -372,6 +372,7 @@
 
 ## JavaScript
 
+- [verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
 - [Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
@@ -1553,6 +1554,11 @@
 
 ## Swift
 
+- [DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode
+- [AuroraView](https://github.com/OskarGroth/AuroraView) - null
+- [Stores](https://github.com/omaralbeik/Stores) - Typed key-value storage solution to store Codable types in various persistence layers with few lines of code!
+- [Motion](https://github.com/b3ll/Motion) - Animation engine for gesturally-driven user interfaces, animations, and interactions on iOS, macOS, and tvOS.
+- [AsyncExtensions](https://github.com/sideeffect-io/AsyncExtensions) - AsyncExtensions aims to mimic Swift Combine operators for async sequences.
 - [ios-stack-kit](https://github.com/gymshark/ios-stack-kit) - The power of SwiftUI with UIKit
 - [whats-new-in-swift-5-7](https://github.com/twostraws/whats-new-in-swift-5-7) - null
 - [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces
@@ -1801,7 +1807,7 @@
 
 ## TypeScript
 
-- [etro](https://github.com/etro-js/etro) - A typescript video-editing framework for the browser and Node
+- [etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser and Node
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [polymorphic-react-component](https://github.com/ohansemmanuel/polymorphic-react-component) - Companion repo for my build a polymorphic React component class
@@ -1863,7 +1869,7 @@
 - [setup-rust](https://github.com/ATiltedTree/setup-rust) - A action to setup rust at a specific version using rustup.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -1890,6 +1896,7 @@
 
 ## etc
 
+- [How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [iamport-manual](https://github.com/iamport/iamport-manual) - 아임포트(iamport) 결제연동을 위한 매뉴얼입니다.
 - [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
@@ -1904,7 +1911,7 @@
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
-- [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [EZPods](https://github.com/thellimist/EZPods) - Easy CocoaPods checklist and tutorial
 - [StackViewLayout](https://github.com/layoutBox/StackViewLayout) - Coming soon!
