@@ -372,6 +372,7 @@
 
 ## JavaScript
 
+- [secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
 - [Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
@@ -1554,6 +1555,7 @@
 
 ## Swift
 
+- [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
 - [DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode
 - [AuroraView](https://github.com/OskarGroth/AuroraView) - null
 - [Stores](https://github.com/omaralbeik/Stores) - Typed key-value storage solution to store Codable types in various persistence layers with few lines of code!
