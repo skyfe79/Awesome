@@ -139,7 +139,7 @@
 - [avTranscoder](https://github.com/avTranscoder/avTranscoder) - C++ API for LibAV / FFMpeg
 - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 - [android-image-filter](https://github.com/ragnraok/android-image-filter) - some android image filters
-- [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架
+- [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
 - [super-animation-samples](https://github.com/raymondlu/super-animation-samples) - A New Animation Solution based on SWF for Cocos2d Game Engine
 - [MonkSVG](https://github.com/lukelutman/MonkSVG) - SVG parsing framework in C++
 - [Tiny-Wings-Remake-on-Android](https://github.com/diwu/Tiny-Wings-Remake-on-Android) - A Remake of Tiny Wings on Android powered by Cocos2d-X
@@ -376,6 +376,9 @@
 
 ## JavaScript
 
+- [filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
+- [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+- [react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views) - A React component for swipeable views. :snowflake:
 - [gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
 - [lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
@@ -1565,6 +1568,7 @@
 
 ## Swift
 
+- [GSPlayer](https://github.com/wxxsw/GSPlayer) - ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层
 - [Prism](https://github.com/aheze/Prism) - A lightweight 3D renderer for SwiftUI.
 - [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
 - [DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode
@@ -1820,6 +1824,13 @@
 
 ## TypeScript
 
+- [NamorvTech](https://github.com/travisvroman/NamorvTech) - NamorvTech Game Engine (Created during the TypeScript Game Engine Tutorial)
+- [layerhub-io](https://github.com/layerhub-io/layerhub-io) - Layerhub Open Source SDK for creating design editors
+- [react-design-editor](https://github.com/layerhub-io/react-design-editor) - Image, Presentation and Video editor. React design editor using fabric.js. Canva clone
+- [tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
+- [react-pager](https://github.com/CrowdLinker/react-pager) - simple react pager component w/ gestures
+- [react-page-controller](https://github.com/bmcmahen/react-page-controller) - horizontal, swipeable gesture views for react
+- [urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation
 - [etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser and Node
@@ -1911,6 +1922,7 @@
 
 ## etc
 
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [fe-news](https://github.com/naver/fe-news) - FE 기술 소식 큐레이션 뉴스레터
 - [How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
