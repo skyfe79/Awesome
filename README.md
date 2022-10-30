@@ -113,7 +113,7 @@
 
 ## C++
 
-- [srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
+- [srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 - [carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -376,6 +376,9 @@
 
 ## JavaScript
 
+- [remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
+- [react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
+- [react-sticky-box](https://github.com/codecks-io/react-sticky-box) - Sticky boxes for contents of all sizes
 - [OwlCarousel2](https://github.com/OwlCarousel2/OwlCarousel2) - DEPRECATED jQuery Responsive Carousel.
 - [filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
@@ -387,7 +390,7 @@
 - [Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
-- [material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
@@ -1516,6 +1519,7 @@
 
 ## Rust
 
+- [turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
@@ -1591,7 +1595,7 @@
 - [proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-- [Pow](https://github.com/movingparts-io/Pow) - Surprise and Delight for SwiftUI
+- [Pow](https://github.com/movingparts-io/Pow) - Delightful SwiftUI effects for your app
 - [InterposeKit](https://github.com/steipete/InterposeKit) - A modern library to swizzle elegantly in Swift.
 - [XCoordinator](https://github.com/QuickBirdEng/XCoordinator) - 🎌 Powerful navigation library for iOS based on the coordinator pattern
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
@@ -1768,7 +1772,6 @@
 - [whats-new-in-swift-4-2](https://github.com/ole/whats-new-in-swift-4-2) - An Xcode playground demonstrating the new features in in Swift 4.2.
 - [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 - [EasyAnchor](https://github.com/onmyway133/EasyAnchor) - ⚓️ Declarative, extensible, powerful Auto Layout
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces"
 - [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
 - [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍♂️
@@ -1796,7 +1799,7 @@
 - [DynamicBlurView](https://github.com/KyoheiG3/DynamicBlurView) - DynamicBlurView is a dynamic and high performance UIView subclass for Blur.
 - [GSLabel](https://github.com/GyazSquare/GSLabel) - GSLabel has been deprecated in favor of InsetLabel
 - [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures
-- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+- [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [LTInfiniteScrollView-Swift](https://github.com/ltebean/LTInfiniteScrollView-Swift) - Paged scrollview allowing easily applying animation(Swift 3)
 - [reactive-recipes](https://github.com/tailec/reactive-recipes) - null
 - [UITableViewRxQuiz](https://github.com/yannickloriot/UITableViewRxQuiz) - Demo application to illustrate the use of RxSwift with the UITableView
@@ -1826,6 +1829,8 @@
 
 ## TypeScript
 
+- [react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
+- [reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - [planby](https://github.com/karolkozer/planby) - null
 - [NamorvTech](https://github.com/travisvroman/NamorvTech) - NamorvTech Game Engine (Created during the TypeScript Game Engine Tutorial)
 - [layerhub-io](https://github.com/layerhub-io/layerhub-io) - Layerhub Open Source SDK for creating design editors
@@ -1912,6 +1917,7 @@
 
 ## Vue
 
+- [Penzil](https://github.com/jacopocolo/Penzil) - A web application to sketch in 3d made in three.js and Vue
 - [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
 - [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
@@ -1947,6 +1953,7 @@
 - [StackViewLayout](https://github.com/layoutBox/StackViewLayout) - Coming soon!
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) - :japanese_castle: Better ways to structure iOS apps
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [iOS_ML](https://github.com/alexsosn/iOS_ML) - List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
@@ -1954,7 +1961,7 @@
 - [awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-- [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
+- [objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
 - [BlurredSegues](https://github.com/edwurtle/BlurredSegues) - Modal Blurred Segue (and unwind segue) for iOS, full project to demo EDWBlurredSegue and EDWBlurredUnwindSegue
 - [onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
