@@ -191,7 +191,7 @@
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go with libvips
+- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go and libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
@@ -1829,6 +1829,7 @@
 
 ## TypeScript
 
+- [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram 
 - [react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
 - [reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - [planby](https://github.com/karolkozer/planby) - null
