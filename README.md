@@ -377,6 +377,9 @@
 
 ## JavaScript
 
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
+- [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+- [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) - Sticky boxes for contents of all sizes
@@ -1610,7 +1613,7 @@
 - [SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
 - [swiftui-pipify](https://github.com/getsidetrack/swiftui-pipify) - A SwiftUI component for launching custom picture-in-picture experiences
 - [SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) - A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS
-- [Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
+- [Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple's Vision framework
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - A Swift Package Plugin for SwiftLint
@@ -1840,7 +1843,7 @@
 - [tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [react-pager](https://github.com/CrowdLinker/react-pager) - simple react pager component w/ gestures
 - [react-page-controller](https://github.com/bmcmahen/react-page-controller) - horizontal, swipeable gesture views for react
-- [urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+- [urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation
 - [etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser and Node
