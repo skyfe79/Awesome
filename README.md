@@ -107,6 +107,7 @@
 
 ## C#
 
+- [TableCloth](https://github.com/yourtablecloth/TableCloth) - 식탁보 프로젝트
 - [Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
 - [AndHUD](https://github.com/redth-org/AndHUD) - Android Progress HUD and Dialog helpers for Xamarin.Android apps!
 - [P31UnityAddOns](https://github.com/prime31/P31UnityAddOns) - Mostly defunct. Features were added and components broken out in the *Kit repositories.
@@ -194,7 +195,7 @@
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go and libvips
+- [imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
@@ -379,6 +380,7 @@
 
 ## JavaScript
 
+- [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
@@ -589,7 +591,6 @@
 - [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
 - [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) - Code examples for the new features of iOS 8.
 - [GreatReader](https://github.com/semweb/GreatReader) - A "great" PDF reader for iOS. Available on the App Store. 
-- [BMYScrollableNavigationBar](https://github.com/beamly/BMYScrollableNavigationBar) - null
 - [iTunes-Table-Header](https://github.com/jonbrown21/iTunes-Table-Header) - A collection of subclasses and classes to make any table view look like that in the iTunes program. Includes custom row alternating colors and highlight colors.
 - [VBFJellyView](https://github.com/victorBaro/VBFJellyView) - VBFJellyView is a custom view made out using UIKit Dynamics and with a very funny effect when adding behaviours to it.
 - [kickflip-ios-sdk](https://github.com/Kickflip/kickflip-ios-sdk) - Kickflip iOS SDK
@@ -669,7 +670,6 @@
 - [AJProgressPanel](https://github.com/ajerez/AJProgressPanel) - Animated progress panel (UNMAINTAINED CODE)
 - [DAScratchPad](https://github.com/dblapps/DAScratchPad) - null
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
-- [OBDragDrop](https://github.com/Oblong/OBDragDrop) - OBDragDrop is a self-contained iOS drag and drop library that depends only on UIKit.
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 - [Shift](https://github.com/wess/Shift) - Super simple category for NSObject that adds a tiny state machine.
 - [iOS-6-Advanced-Cookbook](https://github.com/erica/iOS-6-Advanced-Cookbook) - Recipes for working with the advanced features of iOS 6
@@ -1464,6 +1464,7 @@
 
 ## Python
 
+- [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1579,6 +1580,7 @@
 
 ## Swift
 
+- [ScreenshotPreventing-iOS](https://github.com/yoxisem544/ScreenshotPreventing-iOS) - Prevent screenshot or screenrecording on iOS devices
 - [SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [SwiftDraw](https://github.com/swhitty/SwiftDraw) - A Swift library and command-line tool for drawing and converting SVG images.
 - [GSPlayer](https://github.com/wxxsw/GSPlayer) - ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层
@@ -1835,6 +1837,7 @@
 
 ## TypeScript
 
+- [react-compare-slider](https://github.com/nerdyman/react-compare-slider) - A slider component to compare any two React components in landscape or portrait orientation. It supports custom images, videos... and everything else.
 - [remotion-transition-series](https://github.com/marcusstenbeck/remotion-transition-series) - Remotion Series component with transitions
 - [simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram 
@@ -1901,7 +1904,7 @@
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [videojs-player](https://github.com/surmon-china/videojs-player) - @videojs player component for @vuejs(3) and React.
-- [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
+- [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
 - [python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
