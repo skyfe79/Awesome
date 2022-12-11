@@ -405,6 +405,7 @@
 - [distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
 - [triangulate-image](https://github.com/snorpey/triangulate-image) - triangulate images with node and in the browser
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+- [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [Phil](https://github.com/keiranking/Phil) - A crossword maker.
@@ -1351,7 +1352,6 @@
 - [Controls](https://github.com/joericioppo/Controls) - Demo app of the custom controls used in ColorDev
 - [EKG](https://github.com/epatel/EKG) - Small iPhone project showing an EKG curve drawn in OpenGLES
 - [OpenFlow](https://github.com/thefaj/OpenFlow) - CoverFlow API replacement for the iPhone
-- [AppReviews](https://github.com/gambcl/AppReviews) - AppStore reviews scraper for the iPhone and iPod touch
 - [ABContactHelper](https://github.com/erica/ABContactHelper) - Objective-C Address Book wrapper
 - [TextEditPlus](https://github.com/jjgod/TextEditPlus) - An enhanced version of TextEdit in Mac OS X, features encoding detection, etc.
 - [AuthenticationController](https://github.com/dennisreimann/AuthenticationController) - The code for my recipe in the upcoming iPhone Recipes book
@@ -1837,6 +1837,8 @@
 
 ## TypeScript
 
+- [remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [react-compare-slider](https://github.com/nerdyman/react-compare-slider) - A slider component to compare any two React components in landscape or portrait orientation. It supports custom images, videos... and everything else.
 - [remotion-transition-series](https://github.com/marcusstenbeck/remotion-transition-series) - Remotion Series component with transitions
 - [simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
@@ -1864,7 +1866,6 @@
 - [markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
-- [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -1920,7 +1921,7 @@
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
-- [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
+- [editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 
 ## Vim-script
