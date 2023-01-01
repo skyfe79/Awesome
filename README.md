@@ -52,6 +52,7 @@
 
 ## C
 
+- [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -417,7 +418,7 @@
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
 - [aisa](https://github.com/jdiemke/aisa) - AISA is a Software 3D Engine written in TypeScript.
 - [instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
-- [firebase-core-level-1](https://github.com/JaredPotter/firebase-core-level-1) - null
+- [firebase-core-with-react](https://github.com/JaredPotter/firebase-core-with-react) - null
 - [vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -1531,7 +1532,7 @@
 
 ## Rust
 
-- [comprehensive-rust](https://github.com/google/comprehensive-rust) - null
+- [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
