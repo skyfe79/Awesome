@@ -62,6 +62,7 @@
 - [pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [cloth-simulation-2d](https://github.com/marianpekar/cloth-simulation-2d) - 2D cloth simulation written in C++ with SDL.
+- [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -179,7 +180,7 @@
 
 ## Cython
 
-- [ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
+- [ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 
 ## Dockerfile
 
@@ -198,7 +199,7 @@
 - [cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -227,6 +228,7 @@
 ## HTML
 
 - [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [kotlin-resources](https://github.com/kotlinresources/kotlin-resources) - Collaborative list of awesome Kotlin resources.
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -460,7 +462,6 @@
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -539,6 +540,7 @@
 
 ## Kotlin
 
+- [draggable-menu](https://github.com/dokar3/draggable-menu) - A fluid draggable menu in Jetpack Compose
 - [swipe](https://github.com/saket/swipe) - Swipe gesture actions for Compose UI
 - [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖  epub2.0 viewer
 - [Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
@@ -1553,14 +1555,13 @@
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
-- [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
+- [polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
@@ -1714,7 +1715,7 @@
 - [PopMenu](https://github.com/CaliCastle/PopMenu) - A fully customizable popup style menu for iOS 😎
 - [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 - [InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout) - Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging, NSProxy delegate, Reactive extension, SectionModel & AnimatableSectionModel support
-- [Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
+- [Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 - [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - SnackBar provide brief feedback about an operation through a message at the bottom of the screen.
 - [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
 - [Gradient-Meshes-with-SceneKit](https://github.com/movingparts-io/Gradient-Meshes-with-SceneKit) - Building Gradient Meshes with SceneKit.
@@ -1859,6 +1860,8 @@
 
 ## TypeScript
 
+- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [binary-parser](https://github.com/keichi/binary-parser) - A blazing-fast declarative parser builder for binary data
 - [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
