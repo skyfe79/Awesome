@@ -62,7 +62,6 @@
 - [pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [cloth-simulation-2d](https://github.com/marianpekar/cloth-simulation-2d) - 2D cloth simulation written in C++ with SDL.
-- [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -1555,6 +1554,7 @@
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 - [skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
+- [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -1860,6 +1860,7 @@
 
 ## TypeScript
 
+- [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [binary-parser](https://github.com/keichi/binary-parser) - A blazing-fast declarative parser builder for binary data
 - [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
