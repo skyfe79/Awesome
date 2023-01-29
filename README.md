@@ -226,6 +226,9 @@
 
 ## HTML
 
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
+- [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
@@ -529,7 +532,6 @@
 
 ## Jupyter-Notebook
 
-- [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [Imaginary-Numbers-Are-Real](https://github.com/stephencwelch/Imaginary-Numbers-Are-Real) - Code To Accompany YouTube Series Imaginary Numbers Are Real
 - [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -1485,6 +1487,7 @@
 ## Python
 
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
+- [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
@@ -1860,6 +1863,7 @@
 
 ## TypeScript
 
+- [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [binary-parser](https://github.com/keichi/binary-parser) - A blazing-fast declarative parser builder for binary data
@@ -1979,6 +1983,7 @@
 
 ## etc
 
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [fe-news](https://github.com/naver/fe-news) - FE 기술 소식 큐레이션 뉴스레터
 - [How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
