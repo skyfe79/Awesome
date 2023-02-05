@@ -392,6 +392,8 @@
 
 ## JavaScript
 
+- [alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
+- [blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 - [fabricPublisherTools](https://github.com/mtrudw/fabricPublisherTools) - Extensions for fabricjs to add better layout capabilities
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
@@ -408,13 +410,11 @@
 - [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [react-sticky-box](https://github.com/codecks-io/react-sticky-box) - Sticky boxes for contents of all sizes
 - [OwlCarousel2](https://github.com/OwlCarousel2/OwlCarousel2) - DEPRECATED jQuery Responsive Carousel.
 - [filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views) - A React component for swipeable views. :snowflake:
 - [gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
-- [lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
 - [Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
@@ -1551,6 +1551,7 @@
 
 ## Rust
 
+- [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
@@ -1863,6 +1864,7 @@
 
 ## TypeScript
 
+- [motion-canvas](https://github.com/motion-canvas/motion-canvas) - Web-based tool for creating animations programmatically
 - [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
@@ -1884,6 +1886,7 @@
 - [simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram 
 - [react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
+- [react-sticky-box](https://github.com/codecks-io/react-sticky-box) - Sticky boxes for contents of all sizes
 - [reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - [planby](https://github.com/karolkozer/planby) - null
 - [NamorvTech](https://github.com/travisvroman/NamorvTech) - NamorvTech Game Engine (Created during the TypeScript Game Engine Tutorial)
@@ -1894,6 +1897,7 @@
 - [react-page-controller](https://github.com/bmcmahen/react-page-controller) - horizontal, swipeable gesture views for react
 - [urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
+- [lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation
 - [etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -2014,7 +2018,7 @@
 - [awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-- [objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
+- [objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide) - A style guide that outlines the coding conventions for Kodeco
 - [BlurredSegues](https://github.com/edwurtle/BlurredSegues) - Modal Blurred Segue (and unwind segue) for iOS, full project to demo EDWBlurredSegue and EDWBlurredUnwindSegue
 - [onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
