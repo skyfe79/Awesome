@@ -307,7 +307,7 @@
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way...
 - [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) - [DEPRECATED] Android floating action button
 - [material-menu](https://github.com/balysv/material-menu) - Animations for Android L drawer, back, dismiss and check icons
-- [NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects) - Nifty Modal Dialog Effects
+- [NiftyDialogEffects](https://github.com/litao0621/NiftyDialogEffects) - Nifty Modal Dialog Effects
 - [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 - [sugar](https://github.com/chennaione/sugar) - Insanely easy way to work with Android Database.  
 - [Android-Validator](https://github.com/throrin19/Android-Validator) - Form Validator Library for Android
@@ -1496,7 +1496,7 @@
 - [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
 - [dart-fss](https://github.com/josw123/dart-fss) - 한국 금융감독원에서 운영하는 다트(Dart) 시스템 크롤링을 위한 라이브러리
-- [pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
@@ -1864,6 +1864,9 @@
 
 ## TypeScript
 
+- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
+- [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
+- [clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [stackflow](https://github.com/daangn/stackflow) - Mobile-first stack navigator framework with composable plugin system
 - [motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
