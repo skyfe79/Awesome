@@ -635,7 +635,7 @@
 - [BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox) - iOS Checkboxes inspired by Google's Paper Material Design.
 - [AHKActionSheet](https://github.com/fastred/AHKActionSheet) - An alternative to the UIActionSheet inspired by the Spotify app.
 - [DBCamera](https://github.com/danielebogo/DBCamera) - DBCamera is a simple custom camera with AVFoundation
-- [PKMultipartInputStream](https://github.com/pyke369/PKMultipartInputStream) - An NSInputStream subclass suitable for building multipart/form-data HTTP requests bodies in MacOSX/iOS applications.
+- [PKMultipartInputStream](https://github.com/pyke369/PKMultipartInputStream) - an NSInputStream subclass suitable for building multipart/form-data http requests bodies in MacOSX/iOS applications.
 - [TLYShyNavBar](https://github.com/telly/TLYShyNavBar) - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!
 - [AFViewShaker](https://github.com/ArtFeel/AFViewShaker) - null
 - [YOLOKit](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes
@@ -1867,6 +1867,7 @@
 
 ## TypeScript
 
+- [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
 - [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
@@ -1885,10 +1886,10 @@
 - [react-color](https://github.com/uiwjs/react-color) - 🎨 Is a tiny color picker widget component for React apps.
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript. 
 - [signals](https://github.com/preactjs/signals) - Manage state with style in every framework
-- [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Pure React Carousel Component
+- [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with easily customizable UI and behavior to fit your brand and site.
 - [trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [react-compare-slider](https://github.com/nerdyman/react-compare-slider) - A slider component to compare any two React components in landscape or portrait orientation. It supports custom images, videos... and everything else.
 - [remotion-transition-series](https://github.com/marcusstenbeck/remotion-transition-series) - Remotion Series component with transitions
 - [simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
@@ -1995,6 +1996,7 @@
 
 ## etc
 
+- [awesome_xstate](https://github.com/darrylhebbes/awesome_xstate) - Everything awesome about XState
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [fe-news](https://github.com/naver/fe-news) - FE 기술 소식 큐레이션 뉴스레터
