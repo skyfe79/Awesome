@@ -21,6 +21,7 @@
 - [JavaScript](#JavaScript)
 - [Jupyter Notebook](#Jupyter-Notebook)
 - [Kotlin](#Kotlin)
+- [Mako](#Mako)
 - [Markdown](#Markdown)
 - [Metal](#Metal)
 - [Objective-C](#Objective-C)
@@ -57,6 +58,7 @@
 
 ## C
 
+- [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
@@ -394,6 +396,7 @@
 
 ## JavaScript
 
+- [taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js.
 - [alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 - [blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 - [fabricPublisherTools](https://github.com/mtrudw/fabricPublisherTools) - Extensions for fabricjs to add better layout capabilities
@@ -562,6 +565,10 @@
 - [CircularImageView](https://github.com/lopspower/CircularImageView) - Create circular ImageView in Android in the simplest way possible
 - [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
 
+## Mako
+
+- [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
+
 ## Markdown
 
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
@@ -572,6 +579,7 @@
 
 ## Objective-C
 
+- [Brushes](https://github.com/sprang/Brushes) - Painting app for the iPhone and iPad.
 - [Ejecta](https://github.com/phoboslab/Ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS
 - [promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 - [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
@@ -1546,7 +1554,7 @@
 - [cocoapods](https://github.com/alloy/cocoapods) - [!] THIS REPO HAS BEEN MOVED
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
 - [sstoolkit](https://github.com/soffes/sstoolkit) - A collection of well-documented iOS classes for making life easier
-- [Apns4r](https://github.com/thegeekbird/Apns4r) - Lib to communicate with Apple push notification services and make own APNs provider
+- [Apns4r](https://github.com/ponomarevlm/Apns4r) - Lib to communicate with Apple push notification services and make own APNs provider
 - [APNS](https://github.com/jpoz/APNS) - An Apple Push Notification Service gem
 - [app_store](https://github.com/jerodsanto/app_store) - A simple Ruby module to fetch app information from Apple's App Store.
 - [app_store](https://github.com/jakimowicz/app_store) - TODO: one-line summary of your gem
@@ -1612,6 +1620,7 @@
 
 ## Swift
 
+- [YoutubeKit](https://github.com/rinov/YoutubeKit) - YoutubeKit is a video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app
 - [ScreenshotPreventing-iOS](https://github.com/yoxisem544/ScreenshotPreventing-iOS) - Prevent screenshot or screenrecording on iOS devices
 - [SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [SwiftDraw](https://github.com/swhitty/SwiftDraw) - A Swift library and command-line tool for drawing and converting SVG images.
@@ -1868,6 +1877,7 @@
 
 ## TypeScript
 
+- [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
