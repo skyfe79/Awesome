@@ -58,6 +58,7 @@
 
 ## C
 
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -396,6 +397,7 @@
 
 ## JavaScript
 
+- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js.
 - [alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 - [blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
@@ -1877,6 +1879,9 @@
 
 ## TypeScript
 
+- [gatsby-casper](https://github.com/scttcper/gatsby-casper) - A Casper blog starter for Gatsby
+- [openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open-source ChatGPT UI.
 - [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
@@ -1922,7 +1927,7 @@
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation
 - [etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [polymorphic-react-component](https://github.com/ohansemmanuel/polymorphic-react-component) - Companion repo for my build a polymorphic React component class
 - [plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
