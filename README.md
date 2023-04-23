@@ -398,6 +398,8 @@
 
 ## JavaScript
 
+- [GPT-Summarizer](https://github.com/beshavardmh/GPT-Summarizer) - A Chrome extension that utilizes ChatGPT to provide a summarized version of web articles, as well as useful options to facilitate content understanding.
+- [readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [gatsby-starter-glass](https://github.com/yinkakun/gatsby-starter-glass) - A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI
 - [parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB, FormatJS, Raneto, hapijs/code, webpack-flow, docusaurus, release-it, ts-loader, json-server, reactfire, bunyan, husky, react-easy-state, react-snap, chakra-ui, carbon, alfresco, repolinter, Assemble, Verb, and thousands of other projects.
@@ -549,7 +551,7 @@
 - [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [FinanceDataReader](https://github.com/financedata-org/FinanceDataReader) - Financial data reader
-- [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
+- [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷
 
 ## Kotlin
 
@@ -1503,6 +1505,7 @@
 
 ## Python
 
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - null
 - [langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1577,7 +1580,7 @@
 
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
-- [pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
+- [pgrx](https://github.com/tcdi/pgrx) - Build Postgres Extensions with Rust!
 - [turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
@@ -1638,7 +1641,7 @@
 - [SwiftDraw](https://github.com/swhitty/SwiftDraw) - A Swift library and command-line tool for drawing and converting SVG images.
 - [GSPlayer](https://github.com/wxxsw/GSPlayer) - ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层
 - [Prism](https://github.com/aheze/Prism) - A lightweight 3D renderer for SwiftUI.
-- [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
+- [XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
 - [DeckUI](https://github.com/joshdholtz/DeckUI) - Swift DSL for writing slide decks in Xcode
 - [AuroraView](https://github.com/OskarGroth/AuroraView) - null
 - [Stores](https://github.com/omaralbeik/Stores) - Typed key-value storage solution to store Codable types in various persistence layers with few lines of code!
@@ -1719,7 +1722,7 @@
 - [DeviceCameraMonitorSample](https://github.com/satoshi0212/DeviceCameraMonitorSample) - null
 - [BlueSocket](https://github.com/Kitura/BlueSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, and Linux.
 - [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
-- [xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
+- [xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - A Swift Package to easily play YouTube videos 📺
 - [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project
 - [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - The easy way to use sockets on Apple platforms
@@ -1889,6 +1892,7 @@
 
 ## TypeScript
 
+- [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀Modern desktop app template with shadcn/ui, Tauri 2, Next.js 13, Tailwind.
 - [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gptbrushes](https://github.com/aKzenT/gptbrushes) - null
