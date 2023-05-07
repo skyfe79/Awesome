@@ -398,6 +398,7 @@
 
 ## JavaScript
 
+- [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [GPT-Summarizer](https://github.com/beshavardmh/GPT-Summarizer) - A Chrome extension that utilizes ChatGPT to provide a summarized version of web articles, as well as useful options to facilitate content understanding.
@@ -546,6 +547,7 @@
 
 ## Jupyter-Notebook
 
+- [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [Imaginary-Numbers-Are-Real](https://github.com/stephencwelch/Imaginary-Numbers-Are-Real) - Code To Accompany YouTube Series Imaginary Numbers Are Real
@@ -1121,7 +1123,7 @@
 - [KIF](https://github.com/kif-framework/KIF) - Keep It Functional - An iOS Functional Testing Framework
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 - [cocos2d-iphone-extensions](https://github.com/cocos2d/cocos2d-iphone-extensions) - 3rd party extensions for cocos2d-iphone
-- [ShaderManager](https://github.com/TwoLivesLeft/ShaderManager) - A very simple OpenGL ES shader manager for Objective-C
+- [ShaderManager](https://github.com/simsaens/ShaderManager) - A very simple OpenGL ES shader manager for Objective-C
 - [DCActionButtonsController](https://github.com/domesticcatsoftware/DCActionButtonsController) - Provides an easy way to make popovers with styled action buttons (buttons provided by Jeff LaMarche)
 - [LRSlidingTableViewCell](https://github.com/lukeredpath/LRSlidingTableViewCell) - A simple implementation of sliding table cells, ala Twitter for iPhone
 - [SVSegmentedControl](https://github.com/samvermette/SVSegmentedControl) - A UISwitch-like segmented control for your iOS app.
@@ -1509,7 +1511,6 @@
 
 - [IF](https://github.com/deep-floyd/IF) - null
 - [encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
-- [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - null
 - [langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -1738,7 +1739,7 @@
 - [SwiftDomainParser](https://github.com/Dashlane/SwiftDomainParser) - A Full Swift Lightweight Framework that uses the Public Suffix list to Parse URLs 
 - [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework
 - [collection-view-compositional-layout-demo](https://github.com/Lickability/collection-view-compositional-layout-demo) - An exploration of the iOS 13 API UICollectionViewCompositionalLayout
-- [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - 📏 A set of advanced compositional layouts for UICollectionView with examples [Swift 5.3, iOS 13].
+- [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - 📏Advanced compositional layouts for UICollectionView with examples [Swift 5.3, iOS 13+].
 - [CompositionalLayoutDSL](https://github.com/faberNovel/CompositionalLayoutDSL) - CompositionalLayoutDSL, library to simplify the creation of UICollectionViewCompositionalLayout. It wraps the UIKit API and makes the code shorter and easier to read.
 - [FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS
 - [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
@@ -1898,6 +1899,7 @@
 
 ## TypeScript
 
+- [knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [editable](https://github.com/editablejs/editable) - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.
 - [mantine-contextmenu](https://github.com/icflorescu/mantine-contextmenu) - A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support.
 - [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - A table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, row context menus, dark theme, and more.
@@ -1905,7 +1907,6 @@
 - [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gptbrushes](https://github.com/aKzenT/gptbrushes) - null
-- [cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [gatsby-casper](https://github.com/scttcper/gatsby-casper) - A Casper blog starter for Gatsby
 - [openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
@@ -1992,7 +1993,7 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -2042,6 +2043,7 @@
 ## etc
 
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
+- [cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [awesome_xstate](https://github.com/darrylhebbes/awesome_xstate) - Everything awesome about XState
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
