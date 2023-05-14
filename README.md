@@ -6,7 +6,6 @@
 
 - [ActionScript](#ActionScript)
 - [Assembly](#Assembly)
-- [Astro](#Astro)
 - [C](#C)
 - [C#](#C#)
 - [C++](#C++)
@@ -51,10 +50,6 @@
 ## Assembly
 
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
-## Astro
-
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## C
 
@@ -123,9 +118,10 @@
 
 ## C++
 
+- [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [mini_chromium](https://github.com/chromium/mini_chromium) - A small collection of useful low-level (“base”) routines from Chromium
-- [srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH and GB28181.
+- [srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
 - [carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -436,7 +432,6 @@
 - [Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
-- [material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
@@ -1515,7 +1510,6 @@
 - [babyagi](https://github.com/yoheinakajima/babyagi) - null
 - [langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1622,7 +1616,7 @@
 ## SCSS
 
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 
 ## Shell
 
@@ -1739,7 +1733,7 @@
 - [SwiftDomainParser](https://github.com/Dashlane/SwiftDomainParser) - A Full Swift Lightweight Framework that uses the Public Suffix list to Parse URLs 
 - [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework
 - [collection-view-compositional-layout-demo](https://github.com/Lickability/collection-view-compositional-layout-demo) - An exploration of the iOS 13 API UICollectionViewCompositionalLayout
-- [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - 📏Advanced compositional layouts for UICollectionView with examples [Swift 5.3, iOS 13+].
+- [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - 📏 Advanced compositional layouts for UICollectionView [iOS 13+].
 - [CompositionalLayoutDSL](https://github.com/faberNovel/CompositionalLayoutDSL) - CompositionalLayoutDSL, library to simplify the creation of UICollectionViewCompositionalLayout. It wraps the UIKit API and makes the code shorter and easier to read.
 - [FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS
 - [FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
@@ -1754,7 +1748,7 @@
 - [PopMenu](https://github.com/CaliCastle/PopMenu) - A fully customizable popup style menu for iOS 😎
 - [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 - [InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout) - Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging, NSProxy delegate, Reactive extension, SectionModel & AnimatableSectionModel support
-- [Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
+- [Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
 - [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - SnackBar provide brief feedback about an operation through a message at the bottom of the screen.
 - [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
 - [Gradient-Meshes-with-SceneKit](https://github.com/movingparts-io/Gradient-Meshes-with-SceneKit) - Building Gradient Meshes with SceneKit.
@@ -1899,7 +1893,7 @@
 
 ## TypeScript
 
-- [knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
+- [knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [editable](https://github.com/editablejs/editable) - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.
 - [mantine-contextmenu](https://github.com/icflorescu/mantine-contextmenu) - A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support.
 - [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - A table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, row context menus, dark theme, and more.
@@ -1962,6 +1956,7 @@
 - [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
@@ -2016,6 +2011,7 @@
 - [setup-rust](https://github.com/ATiltedTree/setup-rust) - A action to setup rust at a specific version using rustup.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
