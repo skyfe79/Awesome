@@ -53,6 +53,7 @@
 
 ## C
 
+- [axle](https://github.com/codyd51/axle) - a UNIX-like kernel + userspace
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
@@ -394,6 +395,7 @@
 
 ## JavaScript
 
+- [sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
@@ -497,7 +499,6 @@
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [vue-cli-plugin-chrome-extension-cli](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - use vue plugin easy create chrome extension template 
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-- [wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [webm-writer-js](https://github.com/thenickdude/webm-writer-js) - JavaScript-based WebM video encoder for Google Chrome
 - [ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
 - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
@@ -1504,6 +1505,7 @@
 
 ## Python
 
+- [langchain-hub](https://github.com/hwchase17/langchain-hub) - null
 - [IF](https://github.com/deep-floyd/IF) - null
 - [encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -1578,6 +1580,7 @@
 
 ## Rust
 
+- [wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - [rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
@@ -1615,6 +1618,7 @@
 
 ## SCSS
 
+- [just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 
@@ -1655,7 +1659,7 @@
 - [SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
 - [SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
 - [phyllotaxis](https://github.com/Viktorianec/phyllotaxis) - Phyllotaxis on Swift UI
-- [RecoilSwift](https://github.com/hollyoops/RecoilSwift) - A New, Functional, Modern Reactive State Management Library for Swift and SwiftUI (The iOS implementation of Recoil)
+- [RecoilSwift](https://github.com/hollyoops/RecoilSwift) - A New, Functional, Modern Reactive State Management Library for UIKit and SwiftUI (The iOS implementation of Recoil)
 - [SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications
 - [proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
@@ -1893,13 +1897,16 @@
 
 ## TypeScript
 
+- [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
+- [langchainjs](https://github.com/hwchase17/langchainjs) - null
+- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
 - [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web
 - [Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 - [knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [editable](https://github.com/editablejs/editable) - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.
 - [mantine-contextmenu](https://github.com/icflorescu/mantine-contextmenu) - A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support.
 - [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - A table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, row context menus, dark theme, and more.
-- [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀Modern desktop app template with shadcn/ui, Tauri 2, Next.js 13, Tailwind.
+- [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with shadcn/ui, Tauri 2, Next.js 13, Tailwind.
 - [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gptbrushes](https://github.com/aKzenT/gptbrushes) - null
@@ -2007,6 +2014,7 @@
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [video-editing-timeline](https://github.com/pansyjs/video-editing-timeline) - Timeline for video editing(为视频编辑而写时间线)
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player JS library
 - [Vega](https://github.com/toshusai/Vega) - open source video editor
 - [notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 - [rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects 
