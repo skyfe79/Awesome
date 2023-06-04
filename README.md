@@ -53,6 +53,7 @@
 
 ## C
 
+- [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [axle](https://github.com/codyd51/axle) - a UNIX-like kernel + userspace
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
@@ -244,6 +245,7 @@
 
 ## Java
 
+- [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.
 - [Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android) - This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
 - [GPUVideo-android](https://github.com/MasayukiSuda/GPUVideo-android) - This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.
@@ -395,6 +397,7 @@
 
 ## JavaScript
 
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -1296,7 +1299,7 @@
 - [FontLabel](https://github.com/willryanuk/FontLabel) - A project that includes a module for drawing arbitrary .ttf fonts for iPhone.
 - [chromium-tabs](https://github.com/rsms/chromium-tabs) - [historical] Chromium tabs for cocoa applications (project no longer maintained)
 - [Event](https://github.com/rumpl/Event) - Iphone simulator calendar management application.
-- [KPWebViewInterceptor](https://github.com/danwartnaby/KPWebViewInterceptor) - KPWebViewInterceptor - a mechanism of transparently invoking Objective-C ViewControllers from Javascript running within a UIWebView.
+- [KPWebViewInterceptor](https://github.com/knowledgeisporridge/KPWebViewInterceptor) - KPWebViewInterceptor - a mechanism of transparently invoking Objective-C ViewControllers from Javascript running within a UIWebView.
 - [DDSocialClient](https://github.com/ddeville/DDSocialClient) - A handy library that makes access to social media clients easy.
 - [AmxMobile.IPhone.SixBookmarks-1.1](https://github.com/mbrit/AmxMobile.IPhone.SixBookmarks-1.1) - Six Bookmarks implementation for iOS
 - [PDColoredProgressview](https://github.com/pascalw/PDColoredProgressview) - A UIProgressview subclass with support for setting a tint color instead of the boring default blue.
@@ -1580,6 +1583,7 @@
 
 ## Rust
 
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - [rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
@@ -1897,9 +1901,10 @@
 
 ## TypeScript
 
+- [quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [langchainjs](https://github.com/hwchase17/langchainjs) - null
-- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
+- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL
 - [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web
 - [Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 - [knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
@@ -2014,7 +2019,7 @@
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [video-editing-timeline](https://github.com/pansyjs/video-editing-timeline) - Timeline for video editing(为视频编辑而写时间线)
-- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player JS library
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [Vega](https://github.com/toshusai/Vega) - open source video editor
 - [notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 - [rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects 
