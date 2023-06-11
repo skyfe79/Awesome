@@ -6,6 +6,7 @@
 
 - [ActionScript](#ActionScript)
 - [Assembly](#Assembly)
+- [Blade](#Blade)
 - [C](#C)
 - [C#](#C#)
 - [C++](#C++)
@@ -51,10 +52,14 @@
 
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
+## Blade
+
+- [OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
+
 ## C
 
 - [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
-- [axle](https://github.com/codyd51/axle) - a UNIX-like kernel + userspace
+- [axle](https://github.com/codyd51/axle) - a message-passing kernel + userspace
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
@@ -200,7 +205,7 @@
 - [cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 - [ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1535,7 +1540,7 @@
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [tiny_python_projects](https://github.com/kyclark/tiny_python_projects) - Code for Tiny Python Projects (Manning, 2020, ISBN 1617297518). Learning Python through test-driven development of games and puzzles.
 - [pymotw-3](https://github.com/dhellmann/pymotw-3) - null
-- [OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot using technical analysis based strategy with an advanced web interface
+- [OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 - [mercy-reader](https://github.com/hex0cter/mercy-reader) - A Python library to extract clean(er), readable text from web pages via Mercury Web Parser.
 - [reader](https://github.com/zyocum/reader) - Extract clean(er), readable text from web pages via Mercury Web Parser.
 - [mercury-parserpy](https://github.com/Girbons/mercury-parserpy) - python api wrapper for https://mercury.postlight.com/web-parser/
@@ -1583,8 +1588,9 @@
 
 ## Rust
 
+- [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+- [wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
@@ -1901,6 +1907,9 @@
 
 ## TypeScript
 
+- [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
+- [TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
+- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [langchainjs](https://github.com/hwchase17/langchainjs) - null
@@ -1909,9 +1918,9 @@
 - [Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 - [knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [editable](https://github.com/editablejs/editable) - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.
-- [mantine-contextmenu](https://github.com/icflorescu/mantine-contextmenu) - A lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support.
-- [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - A table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, row context menus, dark theme, and more.
-- [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with shadcn/ui, Tauri 2, Next.js 13, Tailwind.
+- [mantine-contextmenu](https://github.com/icflorescu/mantine-contextmenu) - The lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support.
+- [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - The table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, context menus, nesting, Gmail-style batch row selection, dark theme, and more.
+- [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with Tauri and shadcn/ui.
 - [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gptbrushes](https://github.com/aKzenT/gptbrushes) - null
