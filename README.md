@@ -21,6 +21,7 @@
 - [JavaScript](#JavaScript)
 - [Jupyter Notebook](#Jupyter-Notebook)
 - [Kotlin](#Kotlin)
+- [MDX](#MDX)
 - [Mako](#Mako)
 - [Markdown](#Markdown)
 - [Metal](#Metal)
@@ -581,6 +582,10 @@
 - [android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [CircularImageView](https://github.com/lopspower/CircularImageView) - Create circular ImageView in Android in the simplest way possible
 - [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
+
+## MDX
+
+- [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 
 ## Mako
 
@@ -1651,10 +1656,12 @@
 
 ## Swift
 
+- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.  
 - [swift-request](https://github.com/ailtonvivaz/swift-request) - null
 - [ColorWell](https://github.com/jordanbaird/ColorWell) - A versatile alternative to NSColorWell for Cocoa and ColorPicker for SwiftUI.
 - [MagnificationLoupe](https://github.com/jtrivedi/MagnificationLoupe) - null
 - [swift-cross-ui](https://github.com/stackotter/swift-cross-ui) - A cross-platform SwiftUI-like UI framework built on Gtk4.
+- [Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
 - [YoutubeKit](https://github.com/rinov/YoutubeKit) - YoutubeKit is a video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app
 - [ScreenshotPreventing-iOS](https://github.com/yoxisem544/ScreenshotPreventing-iOS) - Prevent screenshot or screenrecording on iOS devices
 - [SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
@@ -1916,7 +1923,7 @@
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
+- [quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [langchainjs](https://github.com/hwchase17/langchainjs) - null
@@ -1939,13 +1946,12 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
-- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
+- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
 - [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [stackflow](https://github.com/daangn/stackflow) - 🧱 Mobile-first stack navigator framework with composable plugin system
 - [motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
-- [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [binary-parser](https://github.com/keichi/binary-parser) - A blazing-fast declarative parser builder for binary data
 - [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
@@ -2069,7 +2075,6 @@
 
 ## etc
 
-- [Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [awesome_xstate](https://github.com/darrylhebbes/awesome_xstate) - Everything awesome about XState
