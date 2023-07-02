@@ -21,7 +21,6 @@
 - [JavaScript](#JavaScript)
 - [Jupyter Notebook](#Jupyter-Notebook)
 - [Kotlin](#Kotlin)
-- [MDX](#MDX)
 - [Mako](#Mako)
 - [Markdown](#Markdown)
 - [Metal](#Metal)
@@ -153,7 +152,7 @@
 - [ofxUI](https://github.com/rezaali/ofxUI) - [DEPRECATED] UI Addon for openFrameworks
 - [arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
 - [avTranscoder](https://github.com/avTranscoder/avTranscoder) - C++ API for LibAV / FFMpeg
-- [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+- [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.
 - [android-image-filter](https://github.com/ragnraok/android-image-filter) - some android image filters
 - [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
 - [super-animation-samples](https://github.com/raymondlu/super-animation-samples) - A New Animation Solution based on SWF for Cocos2d Game Engine
@@ -582,10 +581,6 @@
 - [android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [CircularImageView](https://github.com/lopspower/CircularImageView) - Create circular ImageView in Android in the simplest way possible
 - [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
-
-## MDX
-
-- [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 
 ## Mako
 
@@ -1611,7 +1606,7 @@
 - [lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+- [polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
@@ -1838,7 +1833,7 @@
 - [EasyStash](https://github.com/onmyway133/EasyStash) - 🗳Easy data persistence in Swift
 - [NSAttributedStringBuilder](https://github.com/ethanhuang13/NSAttributedStringBuilder) - Composing NSAttributedString with SwiftUI-style syntax
 - [FavIcon](https://github.com/leonbreedt/FavIcon) - Swift library to detect icons supported by a website. 
-- [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
+- [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
 - [DateHelper](https://github.com/melvitax/DateHelper) - A Swift Date extension helper
 - [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values
@@ -1919,15 +1914,16 @@
 
 ## TypeScript
 
+- [novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 
+- [quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [langchainjs](https://github.com/hwchase17/langchainjs) - null
-- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL
+- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web
 - [Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 - [knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
@@ -1952,6 +1948,7 @@
 - [stackflow](https://github.com/daangn/stackflow) - 🧱 Mobile-first stack navigator framework with composable plugin system
 - [motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
+- [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [binary-parser](https://github.com/keichi/binary-parser) - A blazing-fast declarative parser builder for binary data
 - [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
