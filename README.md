@@ -1084,7 +1084,7 @@
 - [CoconutKit](https://github.com/defagos/CoconutKit) - CoconutKit is a productivity framework for iOS, crafted with love and focusing on ease of use
 - [UIView-FlipTransition](https://github.com/sgabello/UIView-FlipTransition) - An Objective-C category on UIView to make Flip transitions between Views
 - [Smooth-Line-View](https://github.com/levinunnink/Smooth-Line-View) - Smooth & fast line drawing from touch inputs for UIViews using Quartz
-- [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView) - [UNMAINTAINED] An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines. Similar to the one Apple uses in the SMS-app. See blog-post for a small screencast.
+- [GrowingTextView](https://github.com/hanspinckaers/GrowingTextView) - [UNMAINTAINED] An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines. Similar to the one Apple uses in the SMS-app. See blog-post for a small screencast.
 - [DDExpandableButton](https://github.com/smartapps-fr/DDExpandableButton) - A single-file iOS 5.0+ class designed to be used like an expandable UIButton ; as seen in the iOS Camera app for the "flash" button.
 - [STableViewController](https://github.com/shiki/STableViewController) - A custom UIViewController with a UITableView which supports "pull to refresh" and "load more"
 - [CPAnimationSequence](https://github.com/yangmeyer/CPAnimationSequence) - Describe multi-step UIView animation sequences declaratively.
@@ -1658,6 +1658,7 @@
 
 ## Swift
 
+- [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.  
 - [swift-request](https://github.com/ailtonvivaz/swift-request) - null
 - [ColorWell](https://github.com/jordanbaird/ColorWell) - A versatile alternative to NSColorWell for Cocoa and ColorPicker for SwiftUI.
@@ -1937,7 +1938,7 @@
 - [editable](https://github.com/editablejs/editable) - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.
 - [mantine-contextmenu](https://github.com/icflorescu/mantine-contextmenu) - The lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support.
 - [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - The table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, context menus, nesting, Gmail-style batch row selection, dark theme, and more.
-- [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with Tauri and shadcn/ui.
+- [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui.
 - [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gptbrushes](https://github.com/aKzenT/gptbrushes) - null
