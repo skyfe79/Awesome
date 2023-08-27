@@ -412,6 +412,8 @@
 
 ## JavaScript
 
+- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -1185,7 +1187,7 @@
 - [CCBox2D](https://github.com/axcho/CCBox2D) - a cocos2d-flavored wrapper for Box2D
 - [cocoa-websocket](https://github.com/honcheng/cocoa-websocket) - a WebSocket class for Cocoa, based on AsyncSocket and code from Esad Hajdarevic
 - [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS
-- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [MHLazyTableImages](https://github.com/hollance/MHLazyTableImages) - This project is now deprecated.
 - [ReorderingTableViewController](https://github.com/shusta/ReorderingTableViewController) - Drag and drop UITableView rows.
 - [CCTransitionHelper](https://github.com/shu223/CCTransitionHelper) - cocos2d transition helper
@@ -2041,6 +2043,7 @@
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
 - [videojs-player](https://github.com/surmon-china/videojs-player) - @videojs player component for @vuejs(3) and React.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [aws-ssm-send-command](https://github.com/peterkimzz/aws-ssm-send-command) - Github Actions for using AWS SSM Send-Command
@@ -2098,7 +2101,6 @@
 - [Vue-3-Firebase](https://github.com/iamshaunjp/Vue-3-Firebase) - All course files for the Vue 3 & Firebase Udemy course.
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
