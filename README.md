@@ -22,6 +22,7 @@
 - [JavaScript](#JavaScript)
 - [Jupyter Notebook](#Jupyter-Notebook)
 - [Kotlin](#Kotlin)
+- [MDX](#MDX)
 - [Mako](#Mako)
 - [Markdown](#Markdown)
 - [Metal](#Metal)
@@ -64,7 +65,7 @@
 - [axle](https://github.com/codyd51/axle) - a message-passing kernel + userspace
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
-- [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
+- [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -590,6 +591,10 @@
 - [android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [CircularImageView](https://github.com/lopspower/CircularImageView) - Create circular ImageView in Android in the simplest way possible
 - [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
+
+## MDX
+
+- [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 
 ## Mako
 
@@ -1846,7 +1851,7 @@
 - [EasyStash](https://github.com/onmyway133/EasyStash) - 🗳Easy data persistence in Swift
 - [NSAttributedStringBuilder](https://github.com/ethanhuang13/NSAttributedStringBuilder) - Composing NSAttributedString with SwiftUI-style syntax
 - [FavIcon](https://github.com/leonbreedt/FavIcon) - Swift library to detect icons supported by a website. 
-- [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
+- [swiftui-introspect](https://github.com/siteline/swiftui-introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [DateHelper](https://github.com/melvitax/DateHelper) - A Swift Date extension helper
 - [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values
@@ -1934,7 +1939,7 @@
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
-- [sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
+- [sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [langchainjs](https://github.com/hwchase17/langchainjs) - null
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web
@@ -1951,7 +1956,6 @@
 - [gatsby-casper](https://github.com/scttcper/gatsby-casper) - A Casper blog starter for Gatsby
 - [openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
-- [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
