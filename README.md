@@ -42,7 +42,9 @@
 - [TypeScript](#TypeScript)
 - [Vim script](#Vim-script)
 - [Vue](#Vue)
+- [Zig](#Zig)
 - [etc](#etc)
+- [reStructuredText](#reStructuredText)
 
 ## ActionScript
 
@@ -413,6 +415,7 @@
 
 ## JavaScript
 
+- [gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
@@ -563,13 +566,14 @@
 ## Jupyter-Notebook
 
 - [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [Imaginary-Numbers-Are-Real](https://github.com/stephencwelch/Imaginary-Numbers-Are-Real) - Code To Accompany YouTube Series Imaginary Numbers Are Real
 - [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [FinanceDataReader](https://github.com/financedata-org/FinanceDataReader) - Financial data reader
-- [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷
+- [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 
 ## Kotlin
 
@@ -1532,7 +1536,6 @@
 - [langchain-hub](https://github.com/hwchase17/langchain-hub) - null
 - [IF](https://github.com/deep-floyd/IF) - null
 - [encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - null
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1571,7 +1574,6 @@
 - [Bezier.py](https://github.com/torresjrjr/Bezier.py) - ➰ Create Bezier curves in Python [Mirror]
 - [Defity](https://github.com/hongquan/Defity) - Speedy library to detect file type from initial part of file content
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1715,7 +1717,7 @@
 - [SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) - A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS
 - [Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple's Vision framework
-- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
 - [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - A Swift Package Plugin for SwiftLint
 - [Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications! 
 - [MBEBaseEffect](https://github.com/metal-by-example/MBEBaseEffect) - A Metal re-implementation of GLKit's GLKBaseEffect
@@ -1940,12 +1942,12 @@
 - [quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [langchainjs](https://github.com/hwchase17/langchainjs) - null
+- [langchainjs](https://github.com/langchain-ai/langchainjs) - null
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web
 - [Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 - [knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
-- [editable](https://github.com/editablejs/editable) - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.
+- [editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
 - [mantine-contextmenu](https://github.com/icflorescu/mantine-contextmenu) - The lightweight yet customizable context-menu for your Mantine applications, with a succinct API and dark-theme support.
 - [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - The table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, context menus, nesting, Gmail-style batch row selection, dark theme, and more.
 - [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
@@ -2086,6 +2088,14 @@
 - [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker) - Vue2 date range picker
 - [vue-modular-architecture](https://github.com/DarkC0der11/vue-modular-architecture) - null
 - [naen-nae](https://github.com/naen-nae/naen-nae) - 광고 없이 상업적으로 이용할 수 있는 한글 폰트 모음 (Hangul Font Collection that can be used Commercially without Ads)
+
+## Zig
+
+- [bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## reStructuredText
+
+- [peps](https://github.com/python/peps) - Python Enhancement Proposals
 
 ## etc
 
