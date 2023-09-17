@@ -132,7 +132,7 @@
 ## C++
 
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [mini_chromium](https://github.com/chromium/mini_chromium) - A small collection of useful low-level (“base”) routines from Chromium
 - [srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
@@ -566,13 +566,12 @@
 ## Jupyter-Notebook
 
 - [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [Imaginary-Numbers-Are-Real](https://github.com/stephencwelch/Imaginary-Numbers-Are-Real) - Code To Accompany YouTube Series Imaginary Numbers Are Real
 - [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
-- [FinanceDataReader](https://github.com/financedata-org/FinanceDataReader) - Financial data reader
+- [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 
 ## Kotlin
@@ -1536,6 +1535,7 @@
 - [langchain-hub](https://github.com/hwchase17/langchain-hub) - null
 - [IF](https://github.com/deep-floyd/IF) - null
 - [encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - null
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
