@@ -68,7 +68,7 @@
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-- [libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [cloth-simulation-2d](https://github.com/marianpekar/cloth-simulation-2d) - 2D cloth simulation written in C++ with SDL.
@@ -424,6 +424,7 @@
 - [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [GPT-Summarizer](https://github.com/beshavardmh/GPT-Summarizer) - A Chrome extension that utilizes ChatGPT to provide a summarized version of web articles, as well as useful options to facilitate content understanding.
 - [readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [gatsby-starter-glass](https://github.com/yinkakun/gatsby-starter-glass) - A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI
 - [parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB, FormatJS, Raneto, hapijs/code, webpack-flow, docusaurus, release-it, ts-loader, json-server, reactfire, bunyan, husky, react-easy-state, react-snap, chakra-ui, carbon, alfresco, repolinter, Assemble, Verb, and thousands of other projects.
@@ -648,7 +649,6 @@
 - [SDVersion](https://github.com/sebyddd/SDVersion) - :iphone: Lightweight Cocoa library for detecting the running device's model and screen size.
 - [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions) - [iOS] Beautiful colors from uiGradients
 - [RKSwipeCards](https://github.com/cwRichardKim/RKSwipeCards) - The basics of a swipeable card interface inspired by Tinder
-- [TGCameraViewController](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
 - [Shapes](https://github.com/DenTelezhkin/Shapes) - Framework for drawing and animating shaped views on iOS
 - [iOS-blur](https://github.com/JagCesar/iOS-blur) - Blur a UIView
 - [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
@@ -1535,7 +1535,6 @@
 - [langchain-hub](https://github.com/hwchase17/langchain-hub) - null
 - [IF](https://github.com/deep-floyd/IF) - null
 - [encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - null
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1670,7 +1669,6 @@
 ## Swift
 
 - [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.  
 - [swift-request](https://github.com/ailtonvivaz/swift-request) - null
 - [ColorWell](https://github.com/jordanbaird/ColorWell) - A versatile alternative to NSColorWell for Cocoa and ColorPicker for SwiftUI.
@@ -1961,7 +1959,7 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
-- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
+- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [stackflow](https://github.com/daangn/stackflow) - 🧱 Mobile-first stack navigator framework with composable plugin system
@@ -2100,6 +2098,7 @@
 ## etc
 
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+- [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [awesome_xstate](https://github.com/darrylhebbes/awesome_xstate) - Everything awesome about XState
