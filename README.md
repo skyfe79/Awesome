@@ -1547,7 +1547,7 @@
 - [yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
-- [memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
@@ -1835,7 +1835,7 @@
 - [SVEVideoUI](https://github.com/SergioEstevao/SVEVideoUI) - A video component for SwiftUI
 - [fluxus](https://github.com/johnsusek/fluxus) - Flux for SwiftUI, inspired by Vuex
 - [SwiftUIDragDrop](https://github.com/brunogb/SwiftUIDragDrop) - SwiftUI support for drag and drop on iOS
-- [LNPopupUI](https://github.com/LeoNatan/LNPopupUI) - A SwiftUI-friendly API for the LNPopupController framework
+- [LNPopupUI](https://github.com/LeoNatan/LNPopupUI) - A SwiftUI library for presenting views as popups, much like the Apple Music and Podcasts apps.
 - [Parchment](https://github.com/rechsteiner/Parchment) - A paging view with a highly customizable menu ✨
 - [SwiftUIKitView](https://github.com/AvdLee/SwiftUIKitView) - Easily use UIKit views in your SwiftUI applications. Create Xcode Previews for UIView elements
 - [Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI
@@ -1923,7 +1923,7 @@
 - [ICViewPager](https://github.com/iltercengiz/ICViewPager) - null
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
-- [FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at fullstackedu.com
+- [FlappySwift](https://github.com/newlinedotco/FlappySwift) - swift implementation of flappy bird. More at fullstackedu.com
 - [SevenSwitch](https://github.com/bvogelzang/SevenSwitch) - iOS7 style drop in replacement for UISwitch
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.
 - [Programming-iOS-Book-Examples](https://github.com/mattneub/Programming-iOS-Book-Examples) - Downloadable code examples for my books,  "iOS 14 Programming Fundamentals With Swift" (bk1) and "Programming iOS 14" (bk2).
