@@ -1055,7 +1055,7 @@
 - [JBKenBurns](https://github.com/jberlana/JBKenBurns) - Ken Burns effect for iOS. The feature enables a widely used technique of embedding still photographs in motion pictures, displayed with slow zooming and panning effects, and fading transitions between frames.
 - [BezierText](https://github.com/apendley/BezierText) - move the characters of a CCLabelBMFont linearly along a pre-sampled bezier path
 - [iosrangeslider](https://github.com/mobilehub/iosrangeslider) - Source code for the iOS Range Slider series by Mal Curtis at BuildMobile
-- [TweetBotTabBar](https://github.com/lpasquini/TweetBotTabBar) - Custom Tab Bar imitating TweetBot's tab bar.
+- [TweetBotTabBar](https://github.com/leonardopasquini-infocorp/TweetBotTabBar) - Custom Tab Bar imitating TweetBot's tab bar.
 - [LKBadgeView](https://github.com/lakesoft/LKBadgeView) - Custom badge view
 - [JSGCDDispatcher](https://github.com/jdewind/JSGCDDispatcher) - A small Objective-C wrapper around GCD
 - [SMHeadedList](https://github.com/stuartjmoore/SMHeadedList) - Create a list with a header section like Game Center on iOS 5
@@ -1532,6 +1532,7 @@
 
 ## Python
 
+- [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [langchain-hub](https://github.com/hwchase17/langchain-hub) - null
 - [IF](https://github.com/deep-floyd/IF) - null
@@ -1868,7 +1869,7 @@
 - [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19
 - [NSWindowStyles](https://github.com/lukakerr/NSWindowStyles) - A showcase of the many different styles of windows possible with NSWindow on macOS
-- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
+- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP for iOS, macOS and tvOS.
 - [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 - [Reflection](https://github.com/Zewo/Reflection) - DEPRECATED
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
@@ -2102,7 +2103,7 @@
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
-- [cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [awesome_xstate](https://github.com/darrylhebbes/awesome_xstate) - Everything awesome about XState
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
