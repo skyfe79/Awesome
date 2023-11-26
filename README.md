@@ -63,6 +63,7 @@
 
 ## C
 
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [axle](https://github.com/codyd51/axle) - a message-passing kernel + userspace
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -425,7 +426,7 @@
 - [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [GPT-Summarizer](https://github.com/beshavardmh/GPT-Summarizer) - A Chrome extension that utilizes ChatGPT to provide a summarized version of web articles, as well as useful options to facilitate content understanding.
 - [readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [gatsby-starter-glass](https://github.com/yinkakun/gatsby-starter-glass) - A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI
 - [parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB, FormatJS, Raneto, hapijs/code, webpack-flow, docusaurus, release-it, ts-loader, json-server, reactfire, bunyan, husky, react-easy-state, react-snap, chakra-ui, carbon, alfresco, repolinter, Assemble, Verb, and thousands of other projects.
@@ -579,6 +580,7 @@
 
 ## Kotlin
 
+- [circuit](https://github.com/slackhq/circuit) - ⚡️ A Compose-driven architecture for Kotlin and Android applications.
 - [draggable-menu](https://github.com/dokar3/draggable-menu) - A fluid draggable menu in Jetpack Compose
 - [swipe](https://github.com/saket/swipe) - Swipe gesture actions for Compose UI
 - [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖  epub2.0 viewer
@@ -612,6 +614,7 @@
 
 ## Metal
 
+- [Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI.
 - [MSLExamples](https://github.com/satoshi0212/MSLExamples) - Metal Shader Language(MSL) examples.
 
 ## Objective-C
@@ -1125,7 +1128,7 @@
 - [TDAnimEngine](https://github.com/TheDamArmada/TDAnimEngine) - Export Maya characters and animations to Cocos2D
 - [iOS-OpenGLES-Stuff](https://github.com/mmathias01/iOS-OpenGLES-Stuff) - Various scripts, utils, and code examples for OpenGL ES programming for iOS
 - [MKTickerViewDemo](https://github.com/MugunthKumar/MKTickerViewDemo) - A drop-in control for creating stock tickers in your app
-- [CKBezierPath](https://github.com/wmalloc/CKBezierPath) - BezierPath object that can be used on both MacOSX and iOS
+- [CKBezierPath](https://github.com/wmcrimson/CKBezierPath) - BezierPath object that can be used on both MacOSX and iOS
 - [Pholio](https://github.com/bdewey/Pholio) - iPad photo gallery. Available on the App Store.
 - [PhotoAppLink](https://github.com/pocketpixels/PhotoAppLink) - iOS library for connecting photo editing apps
 - [Box2D-Examples](https://github.com/yannickl/Box2D-Examples) - Box2D examples (Ragdoll, Buoyancy, etc.)  for Cocos2D for iPhone
@@ -1609,7 +1612,7 @@
 ## Rust
 
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
-- [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
@@ -1631,7 +1634,7 @@
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
-- [evm](https://github.com/rust-blockchain/evm) - Pure Rust implementation of Ethereum Virtual Machine
+- [evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
 - [youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -1946,7 +1949,7 @@
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [quivr](https://github.com/StanGirard/quivr) -  🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs 
+- [quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [langchainjs](https://github.com/langchain-ai/langchainjs) - null
