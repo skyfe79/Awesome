@@ -512,7 +512,7 @@
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [react-wasm-gif-maker](https://github.com/fireship-io/react-wasm-gif-maker) - Video to GIF with WASM (FFpeg) & React
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [twilio-video.js](https://github.com/twilio/twilio-video.js) - Twilio’s Programmable Video JavaScript SDK
 - [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -1676,6 +1676,11 @@
 
 ## Swift
 
+- [photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui) - 🎨 An image editor using SwifUI & muukii/Pixel
+- [Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
+- [STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
+- [BezierKit](https://github.com/hfutrell/BezierKit) - Bezier curves and paths in Swift for building vector applications
+- [swift-spyable](https://github.com/Matejkob/swift-spyable) - Swift macro that simplifies and automates the process of creating spies for testing
 - [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.  
 - [swift-request](https://github.com/ailtonvivaz/swift-request) - null
@@ -1707,7 +1712,7 @@
 - [proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-- [Pow](https://github.com/movingparts-io/Pow) - Delightful SwiftUI effects for your app
+- [Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 - [InterposeKit](https://github.com/steipete/InterposeKit) - A modern library to swizzle elegantly in Swift.
 - [XCoordinator](https://github.com/QuickBirdEng/XCoordinator) - 🎌 Powerful navigation library for iOS based on the coordinator pattern
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
@@ -1723,7 +1728,7 @@
 - [SwiftUIBackports](https://github.com/shaps80/SwiftUIBackports) - A collection of SwiftUI backports for iOS, macOS, tvOS and watchOS
 - [Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [ocrit](https://github.com/insidegui/ocrit) - Simple command-line utility for performing OCR using Apple's Vision framework
-- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [SwiftLintPlugin](https://github.com/lukepistrol/SwiftLintPlugin) - A Swift Package Plugin for SwiftLint
 - [Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications! 
 - [MBEBaseEffect](https://github.com/metal-by-example/MBEBaseEffect) - A Metal re-implementation of GLKit's GLKBaseEffect
@@ -1772,7 +1777,7 @@
 - [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 - [xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - A Swift Package to easily play YouTube videos 📺
-- [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project
+- [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 - [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - The easy way to use sockets on Apple platforms
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
@@ -1837,7 +1842,7 @@
 - [SwiftUIDrag](https://github.com/demharusnam/SwiftUIDrag) - A simple, customizable, and intuitive SwiftUI wrapper-view enabling dragging, floating, and/or collapsing for its content. 
 - [CollectionThing](https://github.com/liscio/CollectionThing) - Scroll fast using pure SwiftUI
 - [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - A collection view for SwiftUI
-- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI package that contains 30+ customizable UI components
+- [VComponents](https://github.com/VakhoKontridze/VComponents) - VComponents is a SwiftUI collection that contains reusable UI components
 - [ElegantPages](https://github.com/ThasianX/ElegantPages) - The elegant full screen page view missed in SwiftUI
 - [SVEVideoUI](https://github.com/SergioEstevao/SVEVideoUI) - A video component for SwiftUI
 - [fluxus](https://github.com/johnsusek/fluxus) - Flux for SwiftUI, inspired by Vuex
@@ -1949,7 +1954,7 @@
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs
+- [quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT.
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [langchainjs](https://github.com/langchain-ai/langchainjs) - null
@@ -2109,6 +2114,7 @@
 
 ## etc
 
+- [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
 - [examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
