@@ -1552,7 +1552,7 @@
 - [yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
-- [memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)
@@ -1676,6 +1676,7 @@
 
 ## Swift
 
+- [MetalVideoProcess](https://github.com/wangrenzhu/MetalVideoProcess) - MetalVideoProcess is a High-Performance video effects processing framework. It's base on GPUImage3 Metal, support asynchronous and multithread processing.
 - [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui) - 🎨 An image editor using SwifUI & muukii/Pixel
 - [Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
@@ -1974,7 +1975,7 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [gatsby-casper](https://github.com/scttcper/gatsby-casper) - A Casper blog starter for Gatsby
 - [openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
