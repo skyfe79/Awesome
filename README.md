@@ -529,7 +529,7 @@
 - [ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Blog](https://github.com/superbderrick/Blog) - Derrick Personal Blog && portfolio site
 - [simple-octokit](https://github.com/vweevers/simple-octokit) - Preconfigured GitHub API client with GraphQL and REST.
@@ -1676,6 +1676,9 @@
 
 ## Swift
 
+- [SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - 🎤 The easiest way to transcribe audio in Swift
+- [GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file
+- [Waveform](https://github.com/pixlwave/Waveform) - An interactive audio waveform made with SwiftUI.
 - [MetalVideoProcess](https://github.com/wangrenzhu/MetalVideoProcess) - MetalVideoProcess is a High-Performance video effects processing framework. It's base on GPUImage3 Metal, support asynchronous and multithread processing.
 - [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui) - 🎨 An image editor using SwifUI & muukii/Pixel
