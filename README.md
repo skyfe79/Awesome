@@ -1642,7 +1642,7 @@
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
@@ -1676,6 +1676,8 @@
 
 ## Swift
 
+- [SwiftfulUI](https://github.com/SwiftfulThinking/SwiftfulUI) - A collection of reusable SwiftUI components.
+- [swift-perception](https://github.com/pointfreeco/swift-perception) - Observable tools, backported.
 - [SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - 🎤 The easiest way to transcribe audio in Swift
 - [GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file
 - [Waveform](https://github.com/pixlwave/Waveform) - An interactive audio waveform made with SwiftUI.
@@ -1950,6 +1952,7 @@
 
 ## TypeScript
 
+- [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms a pleasure!
@@ -1960,7 +1963,7 @@
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation 
+- [quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [langchainjs](https://github.com/langchain-ai/langchainjs) - null
@@ -1978,7 +1981,7 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [gatsby-casper](https://github.com/scttcper/gatsby-casper) - A Casper blog starter for Gatsby
 - [openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
@@ -2057,10 +2060,10 @@
 - [zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [vue-quill](https://github.com/vueup/vue-quill) - Rich Text Editor Component for Vue 3.
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
-- [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
