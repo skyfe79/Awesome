@@ -6,6 +6,7 @@
 
 - [ActionScript](#ActionScript)
 - [Assembly](#Assembly)
+- [Astro](#Astro)
 - [Blade](#Blade)
 - [C](#C)
 - [C#](#C#)
@@ -56,6 +57,10 @@
 ## Assembly
 
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
+## Astro
+
+- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 
 ## Blade
 
@@ -610,7 +615,7 @@
 
 ## Markdown
 
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Metal
 
@@ -1048,7 +1053,7 @@
 - [sscatalog](https://github.com/soffes/sscatalog) - Deprecated demo of SSToolkit
 - [SDURLCache](https://github.com/steipete/SDURLCache) - URLCache subclass with on-disk cache support on iPhone/iPad. Forked for speed!
 - [ecma-utils](https://github.com/dirmich/ecma-utils) - Many usefull classes for iPhone applications
-- [Loop2d](https://github.com/HaseebYousaf/Loop2d) - A simplified and easy to use LUA wrapper around cocos2d for iPhone.
+- [Loop2d](https://github.com/haseebyf/Loop2d) - A simplified and easy to use LUA wrapper around cocos2d for iPhone.
 - [BJRangeSliderWithProgress](https://github.com/barrettj/BJRangeSliderWithProgress) - A "progress bar" that also allows you to select a range.  I use it to indicate progress of recording audio, represent trimming it, and then playing back only the selected range.
 - [GMGridView](https://github.com/gmoledina/GMGridView) - A performant Grid-View for iOS (iPhone/iPad) that allows sorting of views with gestures (the user can move the items with his finger to sort them) and pinching/rotating/panning gestures allow the user to play with the view and toggle from the cellview to a fullsize display.
 - [UISS](https://github.com/robertwijas/UISS) - UIAppearance Stylesheets
@@ -2038,7 +2043,6 @@
 - [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
-- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
