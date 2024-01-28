@@ -7,7 +7,6 @@
 - [ActionScript](#ActionScript)
 - [Assembly](#Assembly)
 - [Astro](#Astro)
-- [Blade](#Blade)
 - [C](#C)
 - [C#](#C#)
 - [C++](#C++)
@@ -62,13 +61,8 @@
 
 - [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 
-## Blade
-
-- [OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
-
 ## C
 
-- [llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [axle](https://github.com/codyd51/axle) - a message-passing kernel + userspace
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -137,6 +131,7 @@
 
 ## C++
 
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
@@ -230,7 +225,7 @@
 - [imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
+- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
 - [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
@@ -383,7 +378,7 @@
 - [android-styled-dialogs](https://github.com/avast/android-styled-dialogs) - Backport of Material dialogs with easy-to-use API based on DialogFragment
 - [android-selector-chapek](https://github.com/inmite/android-selector-chapek) - Android Studio plugin which automatically generates drawable selectors from appropriately named resources.
 - [android-WrappingSlidingPane](https://github.com/BurntBrunch/android-WrappingSlidingPane) - A fork from SlidingPaneLayout that wraps its width to that of the pane view.
-- [android-archetypes](https://github.com/akquinet/android-archetypes) - Maven Archetypes for Android development
+- [android-archetypes](https://github.com/techatspree/android-archetypes) - Maven Archetypes for Android development
 - [jna](https://github.com/java-native-access/jna) - Java Native Access
 - [android_packages_apps_Email](https://github.com/CyanogenMod/android_packages_apps_Email) - Android Email Application
 - [NewQuickAction3D](https://github.com/lorensiuswlt/NewQuickAction3D) - Gallery3D like quickaction
@@ -425,6 +420,7 @@
 - [gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -608,6 +604,7 @@
 ## MDX
 
 - [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
 ## Mako
 
@@ -1616,6 +1613,7 @@
 
 ## Rust
 
+- [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -1681,12 +1679,15 @@
 
 ## Swift
 
+- [generative-ai-swift](https://github.com/google/generative-ai-swift) - Google AI SDK for Swift
+- [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine
+- [tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [SwiftfulUI](https://github.com/SwiftfulThinking/SwiftfulUI) - A collection of reusable SwiftUI components.
 - [swift-perception](https://github.com/pointfreeco/swift-perception) - Observable tools, backported.
 - [SwiftWhisper](https://github.com/exPHAT/SwiftWhisper) - 🎤 The easiest way to transcribe audio in Swift
 - [GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file
 - [Waveform](https://github.com/pixlwave/Waveform) - An interactive audio waveform made with SwiftUI.
-- [MetalVideoProcess](https://github.com/wangrenzhu/MetalVideoProcess) - MetalVideoProcess is a High-Performance video effects processing framework. It's base on GPUImage3 Metal, support asynchronous and multithread processing.
+- [MetalVideoProcess](https://github.com/GhostZephyr/MetalVideoProcess) - MetalVideoProcess is a High-Performance video effects processing framework. It's base on GPUImage3 Metal, support asynchronous and multithread processing.
 - [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui) - 🎨 An image editor using SwifUI & muukii/Pixel
 - [Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
@@ -2029,7 +2030,6 @@
 - [lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation
 - [etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [polymorphic-react-component](https://github.com/ohansemmanuel/polymorphic-react-component) - Companion repo for my build a polymorphic React component class
 - [plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -2067,7 +2067,7 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
