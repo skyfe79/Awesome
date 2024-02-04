@@ -48,7 +48,6 @@
 
 ## ActionScript
 
-- [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [Flash2Cocos2D](https://github.com/TheDamArmada/Flash2Cocos2D) - Library to import animations made in Flash to Cocos2D
 - [CCAnimate](https://github.com/SevInf/CCAnimate) - Animation Editor for cocos2d
 - [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) - a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats.
@@ -246,6 +245,7 @@
 
 ## HTML
 
+- [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 - [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌
 - [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
@@ -264,6 +264,7 @@
 
 ## Java
 
+- [pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.
 - [Mp4Composer-android](https://github.com/MasayukiSuda/Mp4Composer-android) - This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.
@@ -1544,7 +1545,7 @@
 - [IF](https://github.com/deep-floyd/IF) - null
 - [encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - null
-- [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
@@ -1618,7 +1619,7 @@
 - [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
-- [rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
+- [rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
@@ -1649,6 +1650,7 @@
 - [sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
+- [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
 - [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 
@@ -1972,7 +1974,7 @@
 - [quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
 - [sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [langchainjs](https://github.com/langchain-ai/langchainjs) - null
+- [langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web
 - [Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
@@ -2067,7 +2069,7 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -2127,7 +2129,6 @@
 
 ## etc
 
-- [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
 - [examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
