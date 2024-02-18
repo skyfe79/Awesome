@@ -63,7 +63,7 @@
 ## C
 
 - [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
-- [axle](https://github.com/codyd51/axle) - a message-passing kernel + userspace
+- [axle](https://github.com/codyd51/axle) - Message-passing kernel + userspace
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
@@ -145,7 +145,6 @@
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [bloom_cpp](https://github.com/duckduckgo/bloom_cpp) - null
-- [FlexLayout](https://github.com/layoutBox/FlexLayout) - FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor) - ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
@@ -1682,7 +1681,7 @@
 
 - [Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure
 - [mtlswift](https://github.com/s1ddok/mtlswift) - Metal shader Swift encoding code generator
-- [WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for iOS and macOS
+- [WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon
 - [generative-ai-swift](https://github.com/google/generative-ai-swift) - Google AI SDK for Swift
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine
 - [tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
@@ -1734,7 +1733,7 @@
 - [XCoordinator](https://github.com/QuickBirdEng/XCoordinator) - 🎌 Powerful navigation library for iOS based on the coordinator pattern
 - [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
 - [WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
-- [KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS/visionOS video player
+- [KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
 - [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile Video Player implementation for iOS, macOS, and tvOS
 - [Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
@@ -1834,6 +1833,7 @@
 - [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.
 - [Carbon](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
 - [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS/CALayer]
+- [FlexLayout](https://github.com/layoutBox/FlexLayout) - FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
 - [TwoWayBindingUIKit](https://github.com/stevencurtis/TwoWayBindingUIKit) - A compact two way binding library for UIKit
 - [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 - [Swifter](https://github.com/mattdonnelly/Swifter) - [DEPRECATED] :bird: A Twitter framework for iOS & OS X written in Swift
@@ -1963,9 +1963,9 @@
 ## TypeScript
 
 - [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
-- [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms a pleasure!
+- [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
 - [novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -2026,7 +2026,7 @@
 - [planby](https://github.com/karolkozer/planby) - null
 - [NamorvTech](https://github.com/travisvroman/NamorvTech) - NamorvTech Game Engine (Created during the TypeScript Game Engine Tutorial)
 - [layerhub-io](https://github.com/layerhub-io/layerhub-io) - Layerhub Open Source SDK for creating design editors
-- [tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+- [tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [react-pager](https://github.com/CrowdLinker/react-pager) - simple react pager component w/ gestures
 - [react-page-controller](https://github.com/bmcmahen/react-page-controller) - horizontal, swipeable gesture views for react
 - [urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
@@ -2132,6 +2132,7 @@
 
 ## etc
 
+- [WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
