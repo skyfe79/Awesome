@@ -130,7 +130,7 @@
 
 ## C++
 
-- [llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
@@ -1537,6 +1537,7 @@
 
 ## Python
 
+- [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [langchain-hub](https://github.com/hwchase17/langchain-hub) - null
@@ -1612,12 +1613,13 @@
 
 ## Rust
 
+- [floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
-- [rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+- [rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
@@ -1679,6 +1681,8 @@
 
 ## Swift
 
+- [notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
+- [AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients
 - [Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure
 - [mtlswift](https://github.com/s1ddok/mtlswift) - Metal shader Swift encoding code generator
 - [WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon
@@ -1692,7 +1696,7 @@
 - [Waveform](https://github.com/pixlwave/Waveform) - An interactive audio waveform made with SwiftUI.
 - [MetalVideoProcess](https://github.com/GhostZephyr/MetalVideoProcess) - MetalVideoProcess is a High-Performance video effects processing framework. It's base on GPUImage3 Metal, support asynchronous and multithread processing.
 - [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-- [photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui) - 🎨 An image editor using SwifUI & muukii/Pixel
+- [photo-editor-luts-swiftui](https://github.com/khanhuitse05/photo-editor-luts-swiftui) - 🎨 An image editor using SwifUI & muukii/Pixel
 - [Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
 - [STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
 - [BezierKit](https://github.com/hfutrell/BezierKit) - Bezier curves and paths in Swift for building vector applications
@@ -1963,7 +1967,7 @@
 ## TypeScript
 
 - [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -2193,7 +2197,7 @@
 - [MoveAroundBy](https://github.com/jusayou/MoveAroundBy) - MoveAroundBy - cocos2d for iPhone custom action
 - [pagecontrol](https://github.com/augustjoki/pagecontrol) - UIPageControl subclass with custom images
 - [XcodePHP](https://github.com/enormego/XcodePHP) - Better PHP support for Xcode.  Full auto-complete macros, keywords, the works.
-- [Pixen](https://github.com/Pixen/Pixen) - Pixel art editor for Mac OS X
+- [Pixen](https://github.com/Pixen/Pixen) - Pixel art editor for macOS and iOS
 - [gogotwitter](https://github.com/jimpick/gogotwitter) - GogoTwitter, clone of TwitterFon
 - [toddledatabase](https://github.com/mootoh/toddledatabase) - SQLite wrapper library for iPhone development
 - [iphonestripview](https://github.com/akosma/iphonestripview) - Sample project using a UIKit-based strip component, like those featured in the LinkedIn and Facebook applications.
