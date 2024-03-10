@@ -1829,7 +1829,7 @@
 - [Promise](https://github.com/khanlou/Promise) - A Promise library for Swift, based partially on Javascript's A+ spec
 - [CGLayout](https://github.com/k-o-d-e-n/CGLayout) - Powerful autolayout framework, that can manage UIView(NSView), CALayer and not rendered views. Not Apple Autolayout wrapper. Provides placeholders. Linux support.
 - [BrowserServicesKit](https://github.com/duckduckgo/BrowserServicesKit) - null
-- [focus-ios](https://github.com/mozilla-mobile/focus-ios) - Firefox Focus for iOS
+- [focus-ios](https://github.com/mozilla-mobile/focus-ios) - ⚠️ Firefox Focus (iOS) has moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-ios
 - [RadiumBrowser](https://github.com/SlayterDev/RadiumBrowser) - iOS Tabbed Web Browser with user editable extensions and ad blocking
 - [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [Runtime](https://github.com/wickwirew/Runtime) - A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
@@ -1967,7 +1967,7 @@
 ## TypeScript
 
 - [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -1995,7 +1995,7 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [gatsby-casper](https://github.com/scttcper/gatsby-casper) - A Casper blog starter for Gatsby
 - [openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
