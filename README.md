@@ -252,7 +252,6 @@
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
-- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [kotlin-resources](https://github.com/kotlinresources/kotlin-resources) - Collaborative list of awesome Kotlin resources.
@@ -416,6 +415,7 @@
 
 ## JavaScript
 
+- [examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 - [tshy](https://github.com/isaacs/tshy) - null
 - [gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -2084,6 +2084,7 @@
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
@@ -2137,7 +2138,6 @@
 ## etc
 
 - [WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-- [examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
