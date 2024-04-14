@@ -1682,6 +1682,8 @@
 
 ## Swift
 
+- [ios_privacy_manifest_scanner](https://github.com/techinpark/ios_privacy_manifest_scanner) - scan your Xcode Swift project for required reason API usage
+- [presentations](https://github.com/mbrandonw/presentations) - Lots of my presentations.
 - [notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
 - [AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients
 - [Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure
@@ -1967,6 +1969,7 @@
 
 ## TypeScript
 
+- [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
 - [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
@@ -2001,7 +2004,7 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
-- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
+- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [stackflow](https://github.com/daangn/stackflow) - 🧱 Mobile-first stack navigator framework with composable plugin system
@@ -2164,7 +2167,7 @@
 - [awesome-tuist](https://github.com/tuist/awesome-tuist) - A community-driven collection of Tuist related posts, plugins, talks, and much more.
 - [EZPods](https://github.com/thellimist/EZPods) - Easy CocoaPods checklist and tutorial
 - [StackViewLayout](https://github.com/layoutBox/StackViewLayout) - Coming soon!
-- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) - :japanese_castle: Better ways to structure iOS apps
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
