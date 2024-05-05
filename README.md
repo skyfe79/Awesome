@@ -11,6 +11,7 @@
 - [C#](#C#)
 - [C++](#C++)
 - [CSS](#CSS)
+- [Clojure](#Clojure)
 - [CoffeeScript](#CoffeeScript)
 - [Cython](#Cython)
 - [Dockerfile](#Dockerfile)
@@ -189,6 +190,10 @@
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 
+## Clojure
+
+- [penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
 ## CoffeeScript
 
 - [epub-gen](https://github.com/cyrilis/epub-gen) - Generate EPUB books from HTML with simple API in Node.js.
@@ -304,7 +309,6 @@
 - [ColorTrackView](https://github.com/hongyangAndroid/ColorTrackView) - 字体或者图片可以逐渐染色和逐渐褪色的动画效果
 - [android-gesture-detectors](https://github.com/Almeros/android-gesture-detectors) - Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector
 - [android-pluginmgr](https://github.com/houkx/android-pluginmgr) - apk plug apkplug apk load
-- [Effects-Pro](https://github.com/yaa110/Effects-Pro) - An easy-to-use Android application to apply filters to images
 - [BabushkaText](https://github.com/hboregio/BabushkaText) - A simpler way to style your TextViews
 - [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
 - [Shimmer-android](https://github.com/romainpiel/Shimmer-android) - (DEPRECATED) An Android TextView with a shimmering effect
@@ -1539,6 +1543,7 @@
 
 ## Python
 
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -1621,7 +1626,7 @@
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+- [wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1666,6 +1671,7 @@
 
 ## Shell
 
+- [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [n](https://github.com/tj/n) - Node version management
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1684,6 +1690,7 @@
 
 ## Swift
 
+- [ios-app](https://github.com/ivpn/ios-app) - Official IVPN iOS app
 - [ios_privacy_manifest_scanner](https://github.com/techinpark/ios_privacy_manifest_scanner) - scan your Xcode Swift project for required reason API usage
 - [presentations](https://github.com/mbrandonw/presentations) - Lots of my presentations.
 - [notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
@@ -1819,7 +1826,7 @@
 - [CompositionalDiffablePlayground.ios](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios) - Examples showing Compositional Layout, Diffable Data Sources and more!
 - [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 - [Animo](https://github.com/eure/Animo) - Bring life to CALayers with SpriteKit-like animation builders
-- [tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
+- [tuist](https://github.com/tuist/tuist) - A Swifty toolchain to build better Apple apps, faster
 - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
 - [PopMenu](https://github.com/CaliCastle/PopMenu) - A fully customizable popup style menu for iOS 😎
@@ -1971,6 +1978,7 @@
 
 ## TypeScript
 
+- [web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
