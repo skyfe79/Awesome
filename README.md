@@ -24,6 +24,7 @@
 - [Jupyter Notebook](#Jupyter-Notebook)
 - [Kotlin](#Kotlin)
 - [MDX](#MDX)
+- [Makefile](#Makefile)
 - [Mako](#Mako)
 - [Markdown](#Markdown)
 - [Metal](#Metal)
@@ -216,6 +217,7 @@
 
 ## Go
 
+- [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
@@ -420,6 +422,7 @@
 
 ## JavaScript
 
+- [markdowndown](https://github.com/asadm/markdowndown) - null
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 - [tshy](https://github.com/isaacs/tshy) - null
@@ -575,6 +578,7 @@
 
 ## Jupyter-Notebook
 
+- [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 - [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
@@ -610,6 +614,10 @@
 
 - [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+
+## Makefile
+
+- [PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 
 ## Mako
 
@@ -1543,6 +1551,7 @@
 
 ## Python
 
+- [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
@@ -1581,7 +1590,6 @@
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [awesome-ml-demos-with-ios](https://github.com/tucan9389/awesome-ml-demos-with-ios) - The challenge projects for Inferencing machine learning models on iOS
-- [auto-caption](https://github.com/aguang-xyz/auto-caption) - Automatic captioning for movies.
 - [auto-subtitle](https://github.com/harikrishnantb/auto-subtitle) - Command-line utility for auto-generating subtitles for any video file
 - [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) - Visit PixelLib's official documentation  https://pixellib.readthedocs.io/en/latest/
 - [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
@@ -1690,6 +1698,7 @@
 
 ## Swift
 
+- [anytype-swift](https://github.com/anyproto/anytype-swift) - Official Anytype client for iOS
 - [ios-app](https://github.com/ivpn/ios-app) - Official IVPN iOS app
 - [ios_privacy_manifest_scanner](https://github.com/techinpark/ios_privacy_manifest_scanner) - scan your Xcode Swift project for required reason API usage
 - [presentations](https://github.com/mbrandonw/presentations) - Lots of my presentations.
@@ -1978,6 +1987,7 @@
 
 ## TypeScript
 
+- [markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data.
 - [web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
