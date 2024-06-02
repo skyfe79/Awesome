@@ -218,6 +218,7 @@
 
 ## Go
 
+- [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -424,6 +425,7 @@
 
 ## JavaScript
 
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [markdowndown](https://github.com/asadm/markdowndown) - null
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
@@ -677,8 +679,8 @@
 - [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - ⛔️**DEPRECATED** ⛔️ A drop-in UIViewController subclass with a growing text input view and other useful messaging features
 - [SCViewShaker](https://github.com/rFlex/SCViewShaker) - A highly configurable UIView category for shaking a view with various shaking styles
 - [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
-- [GreatReader](https://github.com/semweb/GreatReader) - A "great" PDF reader for iOS. Available on the App Store. 
 - [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) - Code examples for the new features of iOS 8.
+- [GreatReader](https://github.com/semweb/GreatReader) - A "great" PDF reader for iOS. Available on the App Store. 
 - [iTunes-Table-Header](https://github.com/jonbrown21/iTunes-Table-Header) - A collection of subclasses and classes to make any table view look like that in the iTunes program. Includes custom row alternating colors and highlight colors.
 - [VBFJellyView](https://github.com/victorBaro/VBFJellyView) - VBFJellyView is a custom view made out using UIKit Dynamics and with a very funny effect when adding behaviours to it.
 - [kickflip-ios-sdk](https://github.com/Kickflip/kickflip-ios-sdk) - Kickflip iOS SDK
@@ -1991,6 +1993,8 @@
 
 ## TypeScript
 
+- [bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+- [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
 - [athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
 - [markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data.
@@ -2003,7 +2007,7 @@
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+- [nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
 - [novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
