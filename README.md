@@ -1556,6 +1556,7 @@
 
 ## Python
 
+- [supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
@@ -1564,7 +1565,7 @@
 - [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
-- [quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+- [quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Efficient retrieval augmented generation framework
 - [langchain-hub](https://github.com/hwchase17/langchain-hub) - null
 - [IF](https://github.com/deep-floyd/IF) - null
 - [encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
@@ -1715,7 +1716,7 @@
 - [AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients
 - [Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure
 - [mtlswift](https://github.com/s1ddok/mtlswift) - Metal shader Swift encoding code generator
-- [WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon
+- [WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Inference of Whisper Speech Recognition Models for Apple Silicon
 - [generative-ai-swift](https://github.com/google-gemini/generative-ai-swift) - Google AI SDK for Swift
 - [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) - High performance GIF engine
 - [tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
@@ -1996,6 +1997,7 @@
 
 ## TypeScript
 
+- [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
@@ -2045,7 +2047,7 @@
 - [react-vfx](https://github.com/fand/react-vfx) - WebGL effects for React elements
 - [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
-- [clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+- [clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [stackflow](https://github.com/daangn/stackflow) - 🧱 Mobile-first stack navigator framework with composable plugin system
 - [motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
