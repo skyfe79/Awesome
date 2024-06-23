@@ -136,7 +136,7 @@
 - [igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [mini_chromium](https://github.com/chromium/mini_chromium) - A small collection of useful low-level (“base”) routines from Chromium
 - [srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
@@ -147,7 +147,7 @@
 - [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [bloom_cpp](https://github.com/duckduckgo/bloom_cpp) - null
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
@@ -426,6 +426,7 @@
 
 ## JavaScript
 
+- [react-native-trimmer](https://github.com/repodio/react-native-trimmer) - An audio trimmer built for react native
 - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [markdowndown](https://github.com/asadm/markdowndown) - null
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
@@ -1708,6 +1709,7 @@
 
 ## Swift
 
+- [MeshBuddy](https://github.com/insidegui/MeshBuddy) - Simple SwiftUI MeshGradient editor
 - [anytype-swift](https://github.com/anyproto/anytype-swift) - Official Anytype client for iOS
 - [ios-app](https://github.com/ivpn/ios-app) - Official IVPN iOS app
 - [ios_privacy_manifest_scanner](https://github.com/techinpark/ios_privacy_manifest_scanner) - scan your Xcode Swift project for required reason API usage
@@ -1997,11 +1999,12 @@
 
 ## TypeScript
 
+- [tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
-- [effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
+- [effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
