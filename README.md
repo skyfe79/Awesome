@@ -1561,7 +1561,7 @@
 - [supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
@@ -2001,6 +2001,8 @@
 
 ## TypeScript
 
+- [turing-frontend-test](https://github.com/taehee-sp/turing-frontend-test) - null
+- [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
