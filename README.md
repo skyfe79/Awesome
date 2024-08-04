@@ -432,7 +432,6 @@
 
 ## JavaScript
 
-- [studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [react-native-trimmer](https://github.com/repodio/react-native-trimmer) - An audio trimmer built for react native
 - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [markdowndown](https://github.com/asadm/markdowndown) - null
@@ -1614,7 +1613,7 @@
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [OpenDartReader](https://github.com/FinanceData/OpenDartReader) - Open DART Reader
 - [libchromiumcontent](https://github.com/izhengzhixian/libchromiumcontent) - null
 - [colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
@@ -1737,7 +1736,7 @@
 - [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [photo-editor-luts-swiftui](https://github.com/khanhuitse05/photo-editor-luts-swiftui) - 🎨 An image editor using SwifUI & muukii/Pixel
 - [Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
-- [STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable macOS text view component (TextKit2), with line numbers and more. NSTextView replacement.
+- [STTextView](https://github.com/krzyzanowskim/STTextView) - Performant and reusable text view component (TextKit 2), with line numbers and more. UITextView / NSTextView replacement.
 - [BezierKit](https://github.com/hfutrell/BezierKit) - Bezier curves and paths in Swift for building vector applications
 - [swift-spyable](https://github.com/Matejkob/swift-spyable) - Swift macro that simplifies and automates the process of creating spies for testing
 - [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -1823,7 +1822,7 @@
 - [SceneKit-SCNLine](https://github.com/maxxfrazer/SceneKit-SCNLine) - Draw a tube or thick line in SceneKit
 - [ImpressionKit](https://github.com/623637646/ImpressionKit) - A tool to detect impression events for UIView (exposure of UIView) in iOS. SwiftUI supported.
 - [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - null
-- [swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
+- [swift-navigation](https://github.com/pointfreeco/swift-navigation) - Bringing simple and powerful navigation tools to all Swift platforms, inspired by SwiftUI.
 - [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs.
 - [SwiftProcessing](https://github.com/SwiftProcessing/SwiftProcessing) - null
 - [ModernRIBs](https://github.com/DevYeom/ModernRIBs) - Uber's RIBs with Combine.
@@ -2005,6 +2004,7 @@
 
 ## TypeScript
 
+- [studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [turing-frontend-test](https://github.com/taehee-sp/turing-frontend-test) - null
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
@@ -2024,7 +2024,7 @@
 - [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
 - [athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is an Advance Wars inspired modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
-- [markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
+- [markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine 
 - [Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
@@ -2198,6 +2198,7 @@
 
 ## etc
 
+- [langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 - [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [cursor](https://github.com/getcursor/cursor) - The AI Code Editor
