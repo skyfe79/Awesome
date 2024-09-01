@@ -140,7 +140,7 @@
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [mini_chromium](https://github.com/chromium/mini_chromium) - A small collection of useful low-level (“base”) routines from Chromium
-- [srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+- [srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
 - [carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -236,7 +236,7 @@
 - [imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
+- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the future.
 - [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
@@ -626,7 +626,7 @@
 
 ## MDX
 
-- [ion](https://github.com/sst/ion) - ❍ — a new engine for SST
+- [ion](https://github.com/sst/ion) - SST v3
 - [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
@@ -2007,6 +2007,8 @@
 
 ## TypeScript
 
+- [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
+- [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [turing-frontend-test](https://github.com/taehee-sp/turing-frontend-test) - null
@@ -2014,14 +2016,14 @@
 - [sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
-- [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [template-code-hike](https://github.com/remotion-dev/template-code-hike) - Beautiful code snippet animations
 - [tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
-- [effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
+- [effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
 - [dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
@@ -2034,7 +2036,7 @@
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
 - [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -2045,7 +2047,7 @@
 - [TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [dash-mantine-components](https://github.com/snehilvj/dash-mantine-components) - Plotly Dash components based on Mantine React Components
-- [sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst](https://github.com/sst/sst) - SST v2
 - [langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [react-native-ridge-navigation](https://github.com/web-ridge/react-native-ridge-navigation) - Simple, performant & type-safe cross platform navigation in React Native / React Native Web
@@ -2065,7 +2067,7 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
-- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
+- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [stackflow](https://github.com/daangn/stackflow) - 🧱 Mobile-first stack navigator framework with composable plugin system
@@ -2110,7 +2112,7 @@
 - [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
@@ -2235,7 +2237,7 @@
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [Android-SnappingRecyclerView](https://github.com/lauw/Android-SnappingRecyclerView) - RecyclerView for android which can snap views to the center of the screen (like the old Gallery)
 - [awesome-ios-animation](https://github.com/v5tech/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
-- [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide) - A style guide that outlines the coding conventions for Kodeco
 - [BlurredSegues](https://github.com/edwurtle/BlurredSegues) - Modal Blurred Segue (and unwind segue) for iOS, full project to demo EDWBlurredSegue and EDWBlurredUnwindSegue
