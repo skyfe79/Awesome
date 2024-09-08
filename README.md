@@ -27,6 +27,7 @@
 - [MDX](#MDX)
 - [Makefile](#Makefile)
 - [Mako](#Mako)
+- [Markdown](#Markdown)
 - [Metal](#Metal)
 - [Objective-C](#Objective-C)
 - [Objective-C++](#Objective-C++)
@@ -145,6 +146,7 @@
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
+- [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -236,7 +238,7 @@
 - [imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the future.
+- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world.
 - [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
@@ -433,6 +435,7 @@
 
 ## JavaScript
 
+- [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [react-native-trimmer](https://github.com/repodio/react-native-trimmer) - An audio trimmer built for react native
 - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [markdowndown](https://github.com/asadm/markdowndown) - null
@@ -607,7 +610,6 @@
 - [circuit](https://github.com/slackhq/circuit) - ⚡️ A Compose-driven architecture for Kotlin and Android applications.
 - [draggable-menu](https://github.com/dokar3/draggable-menu) - A fluid draggable menu in Jetpack Compose
 - [swipe](https://github.com/saket/swipe) - Swipe gesture actions for Compose UI
-- [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖  epub2.0 viewer
 - [Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
 - [landscapist](https://github.com/skydoves/landscapist) - 🌻 A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco.
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
@@ -626,7 +628,6 @@
 
 ## MDX
 
-- [ion](https://github.com/sst/ion) - SST v3
 - [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
@@ -637,6 +638,10 @@
 ## Mako
 
 - [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
+
+## Markdown
+
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Metal
 
@@ -1660,7 +1665,7 @@
 - [pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
-- [privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
+- [privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://www.merklemap.com/
 - [skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
@@ -2021,6 +2026,7 @@
 - [tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
+- [ion](https://github.com/sst/ion) - SST v3
 - [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
@@ -2123,7 +2129,6 @@
 - [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
-- [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0. 
@@ -2154,7 +2159,7 @@
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
-- [devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [opencv-js](https://github.com/TechStark/opencv-js) - OpenCV JavaScript version for node.js or browser
 - [videojs-player](https://github.com/surmon-china/videojs-player) - @videojs player component for @vuejs(3) and React.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
@@ -2209,7 +2214,6 @@
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [awesome_xstate](https://github.com/darrylhebbes/awesome_xstate) - Everything awesome about XState
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [fe-news](https://github.com/naver/fe-news) - FE 기술 소식 큐레이션 뉴스레터
 - [How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
