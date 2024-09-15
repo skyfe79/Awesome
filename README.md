@@ -1652,7 +1652,7 @@
 ## Rust
 
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
+- [convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
 - [floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
@@ -2209,6 +2209,7 @@
 
 ## etc
 
+- [awesome-regex](https://github.com/slevithan/awesome-regex) - A curated collection of awesome regex tools, tutorials, libraries, etc.
 - [langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 - [swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
