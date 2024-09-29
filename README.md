@@ -146,7 +146,6 @@
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
-- [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [SGL](https://github.com/skyfe79/SGL) - Software 3D Graphics Rendering Library
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -225,7 +224,7 @@
 
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
-- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command.
@@ -594,7 +593,7 @@
 
 ## Jupyter-Notebook
 
-- [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
+- [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Accepted as [NeurIPS 2024] Spotlight Presentation Paper
 - [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -734,7 +733,6 @@
 - [ObjectiveCVerbalExpressions](https://github.com/VerbalExpressions/ObjectiveCVerbalExpressions) - null
 - [VRXVerbalExpressions](https://github.com/jacksonh/VRXVerbalExpressions) - An Objective-C implementation of Verbal Expressions
 - [iOS-6-Cookbook](https://github.com/erica/iOS-6-Cookbook) - iOS 6 update
-- [TSActivityIndicatorView](https://github.com/tomkowz/TSActivityIndicatorView) - Very simple view class that looks like an UIActivityIndicatorView but is fully customizable. It's great for you if you want to add indicator view to you game or app and it should be customized.
 - [iOS7Colors](https://github.com/claaslange/iOS7Colors) - The standard iOS 7 Colors as a handy category on UIColor
 - [couchbase-lite-ios](https://github.com/couchbase/couchbase-lite-ios) - Lightweight, embedded, syncable NoSQL database engine for iOS and MacOS apps.
 - [iOS7-Sampler](https://github.com/shu223/iOS7-Sampler) - Code examples for the new features of iOS 7.
@@ -1680,7 +1678,7 @@
 - [elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
+- [command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2024, ISBN 9781098109417)
 - [youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -2025,7 +2023,7 @@
 - [template-code-hike](https://github.com/remotion-dev/template-code-hike) - Beautiful code snippet animations
 - [tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [open-next](https://github.com/sst/open-next) - Open-source Next.js adapter for AWS
+- [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
 - [ion](https://github.com/sst/ion) - SST v3
 - [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
@@ -2129,6 +2127,7 @@
 - [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
+- [react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0. 
