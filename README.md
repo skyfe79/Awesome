@@ -133,6 +133,7 @@
 
 ## C++
 
+- [thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector-based scenes and animations including SVG and Lottie. It can be freely utilized across various software platforms and applications to visualize graphical contents.
 - [igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -249,7 +250,7 @@
 - [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [awesome-hangul](https://github.com/lqez/awesome-hangul) - An awesome list of Hangul/Korean related libraries and modules
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, and OpenCV Contrib.
+- [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
@@ -2025,7 +2026,7 @@
 - [ion](https://github.com/sst/ion) - SST v3
 - [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
-- [effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
+- [effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
