@@ -67,7 +67,6 @@
 
 - [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [axle](https://github.com/codyd51/axle) - Message-passing kernel + userspace
-- [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
@@ -139,6 +138,7 @@
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [mini_chromium](https://github.com/chromium/mini_chromium) - A small collection of useful low-level (“base”) routines from Chromium
@@ -523,6 +523,7 @@
 - [action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sl](https://github.com/rousan/sl) - :beers: An utility tool to list npm scripts from package.json file
+- [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
@@ -1686,7 +1687,7 @@
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
+- [inline-python](https://github.com/m-ou-se/inline-python) - Inline Python code directly in your Rust code
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [valora](https://github.com/turnage/valora) - painting by functions
 - [polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
@@ -2009,10 +2010,11 @@
 
 ## TypeScript
 
+- [builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
-- [onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [turing-frontend-test](https://github.com/taehee-sp/turing-frontend-test) - null
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
@@ -2148,10 +2150,9 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
