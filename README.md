@@ -435,6 +435,7 @@
 
 ## JavaScript
 
+- [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [react-native-trimmer](https://github.com/repodio/react-native-trimmer) - An audio trimmer built for react native
 - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -1056,7 +1057,7 @@
 - [A2DynamicDelegate](https://github.com/pandamonia/A2DynamicDelegate) - Blocks are to functions as A2DynamicDelegate is to delegates. (DEPRECATED mirror)
 - [SphereView](https://github.com/cezarsignori/SphereView) - 3D Sphere View for iOS
 - [CollabDraw](https://github.com/rafasalazarzx/CollabDraw) - Collaborative drawing application for Bluetooth-enabled iOS devices.
-- [MKNetworkKit](https://github.com/MugunthKumar/MKNetworkKit) - Modern NSURLSession based Networking Framework with built in authentication and HTTP 1.1 caching standards support for iOS 8+ devices
+- [MKNetworkKit](https://github.com/MKSG-MugunthKumar/MKNetworkKit) - Modern NSURLSession based Networking Framework with built in authentication and HTTP 1.1 caching standards support for iOS 8+ devices
 - [TouchOpenGL](https://github.com/skyfe79/TouchOpenGL) - null
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS
 - [SVStatusHUD](https://github.com/samvermette/SVStatusHUD) - a copycat of the HUD shown on orientation and volume change in iOS.
@@ -1156,7 +1157,7 @@
 - [PullToRefreshView](https://github.com/grp/PullToRefreshView) - dead simple pull to refresh. you probably shouldn't use this.
 - [TDAnimEngine](https://github.com/TheDamArmada/TDAnimEngine) - Export Maya characters and animations to Cocos2D
 - [iOS-OpenGLES-Stuff](https://github.com/mmathias01/iOS-OpenGLES-Stuff) - Various scripts, utils, and code examples for OpenGL ES programming for iOS
-- [MKTickerViewDemo](https://github.com/MugunthKumar/MKTickerViewDemo) - A drop-in control for creating stock tickers in your app
+- [MKTickerViewDemo](https://github.com/MKSG-MugunthKumar/MKTickerViewDemo) - A drop-in control for creating stock tickers in your app
 - [CKBezierPath](https://github.com/wmcrimson/CKBezierPath) - BezierPath object that can be used on both MacOSX and iOS
 - [Pholio](https://github.com/bdewey/Pholio) - iPad photo gallery. Available on the App Store.
 - [PhotoAppLink](https://github.com/pocketpixels/PhotoAppLink) - iOS library for connecting photo editing apps
@@ -1193,7 +1194,7 @@
 - [leaves](https://github.com/skyfe79/leaves) - An iBooks-like page-turning interface for iPhone and iPad apps using only public APIs.
 - [socialize-sdk-ios](https://github.com/socialize/socialize-sdk-ios) - Socialize SDK for iOS devices. An iOS social sharing SDK for native apps.
 - [iOS-nodechat](https://github.com/honcheng/iOS-nodechat) - iOS chat client for socket.io & node.js backend
-- [MKEntryPanelDemo](https://github.com/MugunthKumar/MKEntryPanelDemo) - Entry Panel UI
+- [MKEntryPanelDemo](https://github.com/MKSG-MugunthKumar/MKEntryPanelDemo) - Entry Panel UI
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit) - A set of efficient categories for UIImage class. It allows filtering, resizing, masking, rotating, enhancing... and more.
 - [CocosDistort](https://github.com/piferrari/CocosDistort) - iPhone adaptation of distort program C/Glut (Drew Olbrich, 1992) using cocos2d-iphone library
@@ -1204,7 +1205,7 @@
 - [CCBlade](https://github.com/hiepnd/CCBlade) - CCBlade - Fruit Ninja Blade effect implementation in cocos2d. 
 - [EGOTextView](https://github.com/enormego/EGOTextView) - EGOTextView is a complete drop in replacement for UITextView created by enormego, that adds support for Rich Text Editing. [tags:ios,objective-c,uitextview]
 - [DCControls](https://github.com/domesticcatsoftware/DCControls) - iOS Rotary Knob & Slider controls.  All custom drawing, no images, customizable.
-- [MKHorizMenuDemo](https://github.com/MugunthKumar/MKHorizMenuDemo) - Demo of MKHorizMenu a simple, drop-in replacement for the Three20 fame horizontal menus used in news apps
+- [MKHorizMenuDemo](https://github.com/MKSG-MugunthKumar/MKHorizMenuDemo) - Demo of MKHorizMenu a simple, drop-in replacement for the Three20 fame horizontal menus used in news apps
 - [GridMonster](https://github.com/intabulas/GridMonster) - A sample app comparing Grid Views for iOS in a single app. This was done on a lazy  Saturday night to test out the various options out there
 - [iOSPlot](https://github.com/honcheng/iOSPlot) - Chart library for iOS
 - [KTOneFingerRotationGestureRecognizer](https://github.com/kirbyt/KTOneFingerRotationGestureRecognizer) - KTOneFingerRotationGestureRecognizer is a custom UIGestureRecognizer for doing one finger rotations in iOS apps.
@@ -1278,7 +1279,7 @@
 - [Movist](https://github.com/samiamwork/Movist) - Movie Player for Mac OS X based on QuickTime & FFmpeg. (Fork of original project on Google Code as it seems to have died)
 - [ATMHud](https://github.com/atomton/ATMHud) - Library for the creation of HUDs in iPhone applications.
 - [MyStyledView](https://github.com/joericioppo/MyStyledView) - A generic styled view class for rendering simple graphics on the desktop.
-- [MKStoreKit](https://github.com/MugunthKumar/MKStoreKit) - The "Goto" In App Purchases Framework for iOS 8+
+- [MKStoreKit](https://github.com/MKSG-MugunthKumar/MKStoreKit) - The "Goto" In App Purchases Framework for iOS 8+
 - [MeterView](https://github.com/frankus/MeterView) - Dashboard-style gauges for iOS
 - [HSImageSidebarView](https://github.com/bjhomer/HSImageSidebarView) - A view based on the sidebar in Apple's Keynote app for iPad.
 - [OHGridView](https://github.com/AliSoftware/OHGridView) - View that display cells as a grid. Uses quite the same API as UITableView
@@ -1341,7 +1342,7 @@
 - [calendar-ui](https://github.com/muhku/calendar-ui) - MACalendarUI is a project which offers calendar user interface for iPhone applications.
 - [ios](https://github.com/tmdvs/ios) - CloudApp iOS
 - [Reusable-Particles-with-cocos2d](https://github.com/mbrandonw/Reusable-Particles-with-cocos2d) - A demo using my CCParticleSystem extension for cocos2d that allows one to create a pool of particles to pull from.
-- [Gravatar](https://github.com/MugunthKumar/Gravatar) - Objective-C Gravatar API
+- [Gravatar](https://github.com/MKSG-MugunthKumar/Gravatar) - Objective-C Gravatar API
 - [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS
 - [shapes-panels](https://github.com/jashmenn/shapes-panels) - paged uiscrollview with cocos2d used in Jacob's Shapes
 - [cocos2d_stuff](https://github.com/hezi/cocos2d_stuff) - random cocos2d addons i made 
@@ -1359,7 +1360,7 @@
 - [DDSocialClient](https://github.com/ddeville/DDSocialClient) - A handy library that makes access to social media clients easy.
 - [AmxMobile.IPhone.SixBookmarks-1.1](https://github.com/mbrit/AmxMobile.IPhone.SixBookmarks-1.1) - Six Bookmarks implementation for iOS
 - [PDColoredProgressview](https://github.com/pascalw/PDColoredProgressview) - A UIProgressview subclass with support for setting a tint color instead of the boring default blue.
-- [LocalNotifications](https://github.com/MugunthKumar/LocalNotifications) - Creating Local Notifications on iOS 4
+- [LocalNotifications](https://github.com/MKSG-MugunthKumar/LocalNotifications) - Creating Local Notifications on iOS 4
 - [CHCSVParser](https://github.com/davedelong/CHCSVParser) - A proper CSV parser for Objective-C
 - [PageScrollView](https://github.com/myell0w/PageScrollView) - A generic View that mimics Apple's homescreen-paging that supports both iPhone & iPad and rotation
 - [KSThreadProxy](https://github.com/karelia/KSThreadProxy) - Simple proxy for cross-thread messaging
@@ -1816,7 +1817,6 @@
 - [PixelKit](https://github.com/heestand-xyz/PixelKit) - Live Graphics in Swift & Metal
 - [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - null
 - [Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
-- [type-erasure-playgrounds](https://github.com/bignerdranch/type-erasure-playgrounds) - Code to accompany Swift Symposium Talk - https://www.youtube.com/watch?v=d_FJHBl5ohU
 - [octokit.swift](https://github.com/nerdishbynature/octokit.swift) - A Swift API Client for GitHub and GitHub Enterprise
 - [macocr](https://github.com/ughe/macocr) - macOS OCR CLI for https://developer.apple.com/documentation/vision/vnrecognizetextrequest
 - [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
@@ -2010,6 +2010,7 @@
 
 ## TypeScript
 
+- [core](https://github.com/diffusionstudio/core) - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.
 - [builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -2117,7 +2118,7 @@
 - [plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
-- [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
@@ -2260,7 +2261,7 @@
 - [Lex-Sample](https://github.com/adrienbrault/Lex-Sample) - XCode 4 lex sample project
 - [gitignore](https://github.com/neror/gitignore) - A collection of useful .gitignore templates
 - [Pixnix-iPad](https://github.com/ountzza/Pixnix-iPad) - iPad Comic Reader based on cocos2d
-- [PanelTableView](https://github.com/MugunthKumar/PanelTableView) - Multiple UITableViews in a UIScrollView
+- [PanelTableView](https://github.com/MKSG-MugunthKumar/PanelTableView) - Multiple UITableViews in a UIScrollView
 - [iOSFlocking-For-Games](https://github.com/onedayitwillmake/iOSFlocking-For-Games) - Boid Steering Behavior / Flocking on iOS
 - [scrollmenu](https://github.com/tomohisa/scrollmenu) - cocos2d page scroll enable layer and sample
 - [WebViewExternalFonts](https://github.com/luosheng/WebViewExternalFonts) - A test project showing how to use external fonts in web view.
