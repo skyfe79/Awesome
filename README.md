@@ -435,6 +435,7 @@
 
 ## JavaScript
 
+- [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [react-native-trimmer](https://github.com/repodio/react-native-trimmer) - An audio trimmer built for react native
