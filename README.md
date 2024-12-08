@@ -438,7 +438,6 @@
 
 - [servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
-- [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [react-native-trimmer](https://github.com/repodio/react-native-trimmer) - An audio trimmer built for react native
 - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -2014,6 +2013,7 @@
 
 ## TypeScript
 
+- [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [core](https://github.com/diffusionstudio/core) - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.
 - [builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
@@ -2046,7 +2046,7 @@
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
 - [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -2067,7 +2067,7 @@
 - [mantine-contextmenu](https://github.com/icflorescu/mantine-contextmenu) - Craft your applications for productivity and meet your users’ expectations by enhancing your Mantine-based UIs with a desktop-grade, lightweight yet fully-featured, dark-theme aware context-menu component, built by the creator of Mantine DataTable.
 - [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - The table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, context menus, nesting, Gmail-style batch row selection, dark theme, and more.
 - [tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
-- [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
+- [lumen](https://github.com/alxshelepenok/lumen) - A constantly evolving and thoughtful architecture for creating static blogs.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gptbrushes](https://github.com/aKzenT/gptbrushes) - null
 - [autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
@@ -2175,7 +2175,7 @@
 - [query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [video-editing-timeline](https://github.com/pansyjs/video-editing-timeline) - Timeline for video editing(为视频编辑而写时间线)
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
-- [Vega](https://github.com/toshusai/Vega) - video editor
+- [Vega](https://github.com/toshusai/Vega) - null
 - [notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 - [rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects 
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
