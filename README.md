@@ -225,7 +225,7 @@
 
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
-- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command.
@@ -704,7 +704,7 @@
 - [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states using POP
 - [RATreeView](https://github.com/Augustyniak/RATreeView) - Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.
 - [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) - A suite containing many tools to display progress information on iOS.
-- [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar (Date Picker) with Infinite Scrolling.
+- [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 12+ Calendar (Date Picker) with Infinite Scrolling.
 - [MDRadialProgress](https://github.com/mdinacci/MDRadialProgress) - A custom UIView useful to represent progress in discrete steps.
 - [PureLayout](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 - [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue providing a blurred overlay effect.
@@ -2017,7 +2017,7 @@
 - [core](https://github.com/diffusionstudio/core) - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.
 - [builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
-- [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [turing-frontend-test](https://github.com/taehee-sp/turing-frontend-test) - null
@@ -2073,7 +2073,7 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [gatsby-casper](https://github.com/scttcper/gatsby-casper) - A Casper blog starter for Gatsby
 - [openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
