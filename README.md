@@ -61,7 +61,7 @@
 
 ## Astro
 
-- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
+- [javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2024: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 
 ## C
 
@@ -223,9 +223,11 @@
 
 ## Go
 
+- [nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
+- [zasper](https://github.com/zasper-io/zasper) - Fastest and Most Efficient IDE to run Jupyter Notebooks.
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
-- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command.
@@ -1287,7 +1289,6 @@
 - [HSImageSidebarView](https://github.com/bjhomer/HSImageSidebarView) - A view based on the sidebar in Apple's Keynote app for iPad.
 - [OHGridView](https://github.com/AliSoftware/OHGridView) - View that display cells as a grid. Uses quite the same API as UITableView
 - [NLFetchedResultsTable](https://github.com/neallober/NLFetchedResultsTable) - A small open-source library that lets you quickly create a UITableViewController that is backed by an NSFetchedResultsController.
-- [TouchRSS](https://github.com/TouchCode/TouchRSS) - Simple iPhpne RSS reading library
 - [CCSlider](https://github.com/Seasons7/CCSlider) - Slider cocos2d iPhone
 - [DTCoreText](https://github.com/Cocoanetics/DTCoreText) - Methods to allow using HTML code with CoreText
 - [VertexHelper](https://github.com/basecode/VertexHelper) - Lets you graphically define vertices of sprites for Box2D and Chipmunk bodies/shapes.
@@ -1569,6 +1570,7 @@
 
 ## Python
 
+- [MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [LLDB](https://github.com/DerekSelander/LLDB) - A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - null
@@ -1578,7 +1580,7 @@
 - [aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -2017,6 +2019,10 @@
 
 ## TypeScript
 
+- [wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
+- [wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
+- [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [n8n-deepseek](https://github.com/rubickecho/n8n-deepseek) - A user-friendly DeepSeek AI node, similar to OpenAI, designed to enhance your workflow.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
@@ -2162,7 +2168,7 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -2214,6 +2220,7 @@
 
 ## Zig
 
+- [ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## reStructuredText
