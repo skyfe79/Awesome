@@ -439,6 +439,8 @@
 
 ## JavaScript
 
+- [steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
+- [open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
@@ -600,6 +602,7 @@
 
 ## Jupyter-Notebook
 
+- [smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
 - [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Accepted as [NeurIPS 2024] Spotlight Presentation Paper
 - [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1079,7 +1082,6 @@
 - [UIWebViewWebGL](https://github.com/atnan/UIWebViewWebGL) - Demo of WebGL-enabled UIWebViews
 - [AZCoreRecord](https://github.com/zwaldowski/AZCoreRecord) - Effortless fetching, saving, importing, and ubiquity for Core Data
 - [Browser-View-Controller--iPhone-](https://github.com/nbuggia/Browser-View-Controller--iPhone-) - Boilerplate code to embed a Browser into your iPhone app
-- [DETweetComposeViewController](https://github.com/doubleencore/DETweetComposeViewController) - The iOS 4 compatible Tweet Sheet.
 - [sscatalog](https://github.com/soffes/sscatalog) - Deprecated demo of SSToolkit
 - [SDURLCache](https://github.com/steipete/SDURLCache) - URLCache subclass with on-disk cache support on iPhone/iPad. Forked for speed!
 - [ecma-utils](https://github.com/dirmich/ecma-utils) - Many usefull classes for iPhone applications
@@ -1552,6 +1554,7 @@
 
 ## PHP
 
+- [coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [githuber-md](https://github.com/terrylinooo/githuber-md) - Markdown editor plugin for WordPress.
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 - [fuzzy-record](https://github.com/pokeb/fuzzy-record) - PHP Active Record implementation with a Rails-like API
@@ -1570,8 +1573,10 @@
 
 ## Python
 
+- [gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
+- [MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - null
 - [MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
-- [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+- [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
 - [LLDB](https://github.com/DerekSelander/LLDB) - A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - null
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -1660,7 +1665,7 @@
 
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
+- [convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
@@ -2019,6 +2024,8 @@
 
 ## TypeScript
 
+- [dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS
 - [wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
