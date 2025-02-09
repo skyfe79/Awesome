@@ -65,6 +65,7 @@
 
 ## C
 
+- [bgipc](https://github.com/beejjorgensen/bgipc) - Beej's Guide to Unix Interprocess Communication source
 - [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [axle](https://github.com/codyd51/axle) - Message-passing kernel + userspace
@@ -438,6 +439,8 @@
 
 ## JavaScript
 
+- [engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
 - [desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -639,6 +642,7 @@
 
 ## MDX
 
+- [magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 
 ## Makefile
@@ -1576,6 +1580,9 @@
 
 ## Python
 
+- [OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
+- [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 - [mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
 - [AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 - [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
@@ -1743,6 +1750,9 @@
 
 ## Swift
 
+- [swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
+- [Layout](https://github.com/Tinder/Layout) - High Fidelity Auto Layout Result Builder Syntax for UIKit
+- [stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [MeshBuddy](https://github.com/insidegui/MeshBuddy) - Simple SwiftUI MeshGradient editor
 - [anytype-swift](https://github.com/anyproto/anytype-swift) - Official Anytype client for iOS
 - [ios-app](https://github.com/ivpn/ios-app) - Official IVPN iOS app
@@ -2032,6 +2042,9 @@
 
 ## TypeScript
 
+- [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+- [open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
+- [puck](https://github.com/measuredco/puck) - The visual editor for React
 - [react-native-sortables](https://github.com/MatiPl01/react-native-sortables) - 🚀 Powerful Sortable Components for Flexible Content Reordering in React Native
 - [loras-dev](https://github.com/Nutlope/loras-dev) - An AI image generator w/ Flux LoRAs
 - [use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) - A lightweight React Hook intended mainly for AI chat applications, for smoothly sticking to bottom of messages
@@ -2041,7 +2054,7 @@
 - [kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components.
 - [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS
+- [resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
 - [wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
