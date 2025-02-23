@@ -443,8 +443,7 @@
 
 - [engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
-- [desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
-- [steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
+- [desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
@@ -607,6 +606,7 @@
 
 ## Jupyter-Notebook
 
+- [python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
@@ -1580,6 +1580,7 @@
 
 ## Python
 
+- [Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.
 - [hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
@@ -2042,6 +2043,7 @@
 
 ## TypeScript
 
+- [mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 - [dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
@@ -2056,6 +2058,7 @@
 - [kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components.
 - [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 - [resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
 - [wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
