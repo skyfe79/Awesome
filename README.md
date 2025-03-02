@@ -225,7 +225,7 @@
 ## Go
 
 - [nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [zasper](https://github.com/zasper-io/zasper) - Fastest and Most Efficient IDE to run Jupyter Notebooks.
+- [zasper](https://github.com/zasper-io/zasper) - 4X Better IDE than Jupyterlab
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
@@ -262,6 +262,7 @@
 
 ## HTML
 
+- [windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [linkedom](https://github.com/WebReflection/linkedom) - A triple-linked lists based DOM implementation.
 - [webgpuunleashed](https://github.com/shi-yan/webgpuunleashed) - Code samples for 'WebGPU Unleashed: A Practical Tutorial'
@@ -499,7 +500,6 @@
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
 - [distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
 - [triangulate-image](https://github.com/snorpey/triangulate-image) - triangulate images with node and in the browser
@@ -535,7 +535,6 @@
 - [action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sl](https://github.com/rousan/sl) - :beers: An utility tool to list npm scripts from package.json file
-- [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
@@ -1580,6 +1579,7 @@
 
 ## Python
 
+- [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.
 - [hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
@@ -1978,7 +1978,7 @@
 - [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - The world-1st example to-do list app using SwiftUI which is introduced in WWDC19
 - [NSWindowStyles](https://github.com/lukakerr/NSWindowStyles) - A showcase of the many different styles of windows possible with NSWindow on macOS
-- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
+- [HaishinKit.swift](https://github.com/HaishinKit/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 - [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 - [Reflection](https://github.com/Zewo/Reflection) - DEPRECATED
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
@@ -2043,7 +2043,8 @@
 
 ## TypeScript
 
-- [mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
+- [yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
@@ -2100,7 +2101,7 @@
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
 - [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -2131,7 +2132,7 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
-- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
+- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [stackflow](https://github.com/daangn/stackflow) - 🧱 Mobile-first stack navigator framework with composable plugin system
@@ -2180,9 +2181,10 @@
 - [material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-- [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+- [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
@@ -2212,6 +2214,7 @@
 - [tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance. 
 - [vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
