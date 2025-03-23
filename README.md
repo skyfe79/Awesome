@@ -261,6 +261,7 @@
 
 ## HTML
 
+- [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial 
 - [windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [linkedom](https://github.com/WebReflection/linkedom) - A triple-linked lists based DOM implementation.
 - [webgpuunleashed](https://github.com/shi-yan/webgpuunleashed) - Code samples for 'WebGPU Unleashed: A Practical Tutorial'
@@ -277,6 +278,7 @@
 - [iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [kotlin-resources](https://github.com/kotlinresources/kotlin-resources) - Collaborative list of awesome Kotlin resources.
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [www.html5rocks.com](https://github.com/html5rocks/www.html5rocks.com) - ....a top-notch resource for web developers
 - [iOS-HTMLTextEditor](https://github.com/insanoid/iOS-HTMLTextEditor) - A simple implementation of an HTML Editor using CKEditor in a web view.
 - [OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
@@ -1577,6 +1579,8 @@
 
 ## Python
 
+- [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - TTS Towards Human-Sounding Speech
+- [agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
 - [owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -1590,7 +1594,7 @@
 - [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
-- [MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - null
+- [MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
 - [LLDB](https://github.com/DerekSelander/LLDB) - A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions
@@ -1752,6 +1756,7 @@
 
 ## Swift
 
+- [Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [sharing-grdb](https://github.com/pointfreeco/sharing-grdb) - A lightweight replacement for SwiftData and the Query macro.
 - [swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 - [Layout](https://github.com/Tinder/Layout) - High Fidelity Auto Layout Result Builder Syntax for UIKit
@@ -2045,9 +2050,10 @@
 
 ## TypeScript
 
+- [prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 - [full-calendar-for-shadcn-ui](https://github.com/dninomiya/full-calendar-for-shadcn-ui) - null
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+- [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
@@ -2080,7 +2086,7 @@
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
-- [turing-frontend-test](https://github.com/taehee-sp/turing-frontend-test) - null
+- [turing-frontend-test](https://github.com/taehee-kim-sherpas/turing-frontend-test) - null
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
@@ -2105,7 +2111,7 @@
 - [Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
-- [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
@@ -2312,7 +2318,6 @@
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [Android-SnappingRecyclerView](https://github.com/lauw/Android-SnappingRecyclerView) - RecyclerView for android which can snap views to the center of the screen (like the old Gallery)
 - [awesome-ios-animation](https://github.com/v5tech/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
-- [computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide) - A style guide that outlines the coding conventions for Kodeco
 - [BlurredSegues](https://github.com/edwurtle/BlurredSegues) - Modal Blurred Segue (and unwind segue) for iOS, full project to demo EDWBlurredSegue and EDWBlurredUnwindSegue
