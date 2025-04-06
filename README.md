@@ -140,7 +140,7 @@
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [mini_chromium](https://github.com/chromium/mini_chromium) - A small collection of useful low-level (“base”) routines from Chromium
 - [srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
@@ -225,7 +225,6 @@
 ## Go
 
 - [nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [zasper](https://github.com/zasper-io/zasper) - 4X Better IDE than Jupyterlab
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
@@ -482,7 +481,6 @@
 - [degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
-- [iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
@@ -539,7 +537,8 @@
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
+- [daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
@@ -996,7 +995,6 @@
 - [CLTickerView](https://github.com/caydenliew/CLTickerView) - Custom Ticker or Marquee for IOS
 - [KKPagedFlowView](https://github.com/kejinlu/KKPagedFlowView) - A Paging Enabled Flow View, like screenshots view in iPhone App Store.
 - [toast-notifications-ios](https://github.com/sylverb/toast-notifications-ios) - We at Guru software really love toast notifications available on android OS, so we've built a similar feature for the IOS enabled devices.
-- [InstaFilters](https://github.com/diwu/InstaFilters) - Instagram filters hacked and open sourced. Supports both photo and video.
 - [SpinnerView](https://github.com/davidzech/SpinnerView) - Tweetbot pull to refresh spinner clone - add this to any pull to refresh control
 - [HMLauncherView](https://github.com/heikomaass/HMLauncherView) - [ABANDONED] UI component for buttons like Apple's SpringBoard
 - [SFContainerViewController](https://github.com/krzysztofzablocki/SFContainerViewController) - UIViewControllers containment predating Apple implementation. Works in both 4.x and 5.x iOS, no memory or hierarchy issues.
@@ -1579,8 +1577,8 @@
 
 ## Python
 
-- [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - TTS Towards Human-Sounding Speech
-- [agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
+- [agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -1752,7 +1750,6 @@
 
 - [svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects
 - [fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
-- [daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift
 
@@ -2078,6 +2075,7 @@
 - [wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
+- [zasper](https://github.com/zasper-io/zasper) - 4X Better IDE than Jupyterlab
 - [threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [n8n-deepseek](https://github.com/rubickecho/n8n-deepseek) - A user-friendly DeepSeek AI node, similar to OpenAI, designed to enhance your workflow.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
@@ -2163,6 +2161,7 @@
 - [react-color](https://github.com/uiwjs/react-color) - 🎨 Is a tiny color picker widget component for React apps.
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript. 
 - [signals](https://github.com/preactjs/signals) - Manage state with style in every framework
+- [iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
 - [trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
