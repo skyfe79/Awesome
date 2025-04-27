@@ -407,7 +407,6 @@
 - [jna](https://github.com/java-native-access/jna) - Java Native Access
 - [android_packages_apps_Email](https://github.com/CyanogenMod/android_packages_apps_Email) - Android Email Application
 - [NewQuickAction3D](https://github.com/lorensiuswlt/NewQuickAction3D) - Gallery3D like quickaction
-- [android-intents](https://github.com/marvinlabs/android-intents) - A small library which will save you from writing the same intent creation code again and again for the most simple tasks
 - [android-iconify](https://github.com/JoanZapata/android-iconify) - Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,...
 - [merlin](https://github.com/novoda/merlin) - Observes network connection status & gives callbacks
 - [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) - DEPRECATED
@@ -456,7 +455,6 @@
 - [examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 - [tshy](https://github.com/isaacs/tshy) - null
 - [gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
-- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
@@ -1577,6 +1575,7 @@
 
 ## Python
 
+- [dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
@@ -1594,7 +1593,7 @@
 - [gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
-- [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
+- [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [LLDB](https://github.com/DerekSelander/LLDB) - A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - null
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -2119,6 +2118,7 @@
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
