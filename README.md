@@ -535,7 +535,6 @@
 - [subtitles](https://github.com/dougsillars/subtitles) - Creating video subtitles with Google Cloud Text to Speech
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -1579,14 +1578,14 @@
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
-- [OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+- [OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.
 - [hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
-- [mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
+- [mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
 - [AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 - [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -1749,6 +1748,7 @@
 
 - [svelte-put](https://github.com/vnphanquang/svelte-put) - Useful svelte stuff to put in your projects
 - [fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
+- [daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift
 
@@ -2046,6 +2046,7 @@
 
 ## TypeScript
 
+- [open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components 👻
@@ -2076,7 +2077,7 @@
 - [wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
-- [zasper](https://github.com/zasper-io/zasper) - 4X Better IDE than Jupyterlab
+- [zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [n8n-deepseek](https://github.com/rubickecho/n8n-deepseek) - A user-friendly DeepSeek AI node, similar to OpenAI, designed to enhance your workflow.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
@@ -2104,7 +2105,7 @@
 - [dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
-- [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
+- [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
 - [athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
 - [markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
