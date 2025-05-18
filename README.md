@@ -133,6 +133,7 @@
 
 ## C++
 
+- [BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector-based scenes and animations including SVG and Lottie. It can be freely utilized across various software platforms and applications to visualize graphical contents.
@@ -226,7 +227,7 @@
 ## Go
 
 - [nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
+- [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -262,6 +263,7 @@
 
 ## HTML
 
+- [smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) - Real-time webcam demo with SmolVLM and llama.cpp server
 - [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial 
 - [windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [linkedom](https://github.com/WebReflection/linkedom) - A triple-linked lists based DOM implementation.
@@ -661,6 +663,7 @@
 
 ## Objective-C
 
+- [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [Brushes](https://github.com/sprang/Brushes) - Painting app for the iPhone and iPad.
 - [Ejecta](https://github.com/phoboslab/Ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS
 - [promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
@@ -784,7 +787,7 @@
 - [DAScratchPad](https://github.com/dblapps/DAScratchPad) - null
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
-- [Shift](https://github.com/wess/Shift) - Super simple category for NSObject that adds a tiny state machine.
+- [shift_objc](https://github.com/wess/shift_objc) - Super simple category for NSObject that adds a tiny state machine.
 - [iOS-6-Advanced-Cookbook](https://github.com/erica/iOS-6-Advanced-Cookbook) - Recipes for working with the advanced features of iOS 6
 - [PaperFoldGallery](https://github.com/honcheng/PaperFoldGallery) - PaperFoldGallery for iOS 
 - [RRTableHeaderView](https://github.com/RolandasRazma/RRTableHeaderView) - null
@@ -989,7 +992,6 @@
 - [CLAnimation](https://github.com/rickytan/CLAnimation) - a cocos2d-like animation API based on CAAnimation of UIView (not finished yet, can you help me?)
 - [YFCalendar](https://github.com/lmterence/YFCalendar) - Full View Calendar for iPad
 - [Drip](https://github.com/skyfe79/Drip) - OS X painting application
-- [CLTickerView](https://github.com/caydenliew/CLTickerView) - Custom Ticker or Marquee for IOS
 - [KKPagedFlowView](https://github.com/kejinlu/KKPagedFlowView) - A Paging Enabled Flow View, like screenshots view in iPhone App Store.
 - [toast-notifications-ios](https://github.com/sylverb/toast-notifications-ios) - We at Guru software really love toast notifications available on android OS, so we've built a similar feature for the IOS enabled devices.
 - [SpinnerView](https://github.com/davidzech/SpinnerView) - Tweetbot pull to refresh spinner clone - add this to any pull to refresh control
@@ -1574,9 +1576,11 @@
 
 ## Python
 
+- [pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.
+- [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
-- [agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
+- [agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
 - [owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -1585,7 +1589,7 @@
 - [OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
-- [mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 - [browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -2076,7 +2080,6 @@
 - [wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [n8n-deepseek](https://github.com/rubickecho/n8n-deepseek) - A user-friendly DeepSeek AI node, similar to OpenAI, designed to enhance your workflow.
@@ -2087,7 +2090,7 @@
 - [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
-- [onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
+- [onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
 - [turing-frontend-test](https://github.com/taehee-kim-sherpas/turing-frontend-test) - null
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
@@ -2105,7 +2108,7 @@
 - [dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
-- [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
+- [shippie](https://github.com/mattzcarey/shippie) - extensible code review and qa agent 🚢
 - [athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
 - [markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
@@ -2187,7 +2190,7 @@
 - [lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation
 - [etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [polymorphic-react-component](https://github.com/ohansemmanuel/polymorphic-react-component) - Companion repo for my build a polymorphic React component class
 - [plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -2267,6 +2270,7 @@
 
 ## Vue
 
+- [tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [Penzil](https://github.com/jacopocolo/Penzil) - A web application to sketch in 3d made in three.js and Vue
 - [vue-tags-component](https://github.com/ek0t0v/vue-tags-component) - Vue.js 2+ tags component
 - [automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
