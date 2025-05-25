@@ -26,7 +26,6 @@
 - [Kotlin](#Kotlin)
 - [MDX](#MDX)
 - [Makefile](#Makefile)
-- [Mako](#Mako)
 - [Markdown](#Markdown)
 - [Metal](#Metal)
 - [Objective-C](#Objective-C)
@@ -65,6 +64,7 @@
 
 ## C
 
+- [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [bgipc](https://github.com/beejjorgensen/bgipc) - Beej's Guide to Unix Interprocess Communication source
 - [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -133,7 +133,6 @@
 
 ## C++
 
-- [BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector-based scenes and animations including SVG and Lottie. It can be freely utilized across various software platforms and applications to visualize graphical contents.
@@ -242,7 +241,7 @@
 - [imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the world.
+- [xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 - [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
@@ -443,6 +442,7 @@
 
 ## JavaScript
 
+- [claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
 - [open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -647,10 +647,6 @@
 ## Makefile
 
 - [PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
-
-## Mako
-
-- [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 
 ## Markdown
 
@@ -1158,7 +1154,7 @@
 - [GLView](https://github.com/nicklockwood/GLView) - [DEPRECATED]
 - [PdfAnnotator-for-iPad](https://github.com/raphaelcruzeiro/PdfAnnotator-for-iPad) - This was my first ever iOS project when I knew almost nothing about iOS. Check the demo: http://www.youtube.com/watch?v=CLTF6Rw8k_o
 - [QuartzPatterns](https://github.com/bharath2020/QuartzPatterns) - Sample project to demonstrate Quartz2D patterns in iOS
-- [BHTabBar](https://github.com/fictorial/BHTabBar) - A web-browser like tab bar implementation for iOS4+
+- [BHTabBar](https://github.com/horatio-sans-serif/BHTabBar) - A web-browser like tab bar implementation for iOS4+
 - [NextiveJson](https://github.com/nextive/NextiveJson) - A fast JSON parser for iOS and MacOS
 - [MGImageUtilities](https://github.com/lesscode/MGImageUtilities) - Useful UIImage categories for iPhone/iPad developers.
 - [MAConfirmButton](https://github.com/wave2future/MAConfirmButton) - MAConfirmButton is an animated subclass of UIButton that replicates and improves upon the behavior of the AppStore “Buy Now” buttons. Built and animated with Core Animation layers, it is completely image free.
@@ -1576,11 +1572,13 @@
 
 ## Python
 
+- [manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) - null
+- [BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.
 - [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
-- [agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
+- [agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents.
 - [owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -1684,6 +1682,7 @@
 
 ## Rust
 
+- [edit](https://github.com/microsoft/edit) - We all edit.
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -2050,9 +2049,10 @@
 
 ## TypeScript
 
+- [macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
 - [open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript
+- [beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components 👻
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
@@ -2108,7 +2108,7 @@
 - [dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
-- [shippie](https://github.com/mattzcarey/shippie) - extensible code review and qa agent 🚢
+- [shippie](https://github.com/mattzcarey/shippie) - extensible repo automation 🚢
 - [athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
 - [markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
@@ -2146,6 +2146,7 @@
 - [gatsby-casper](https://github.com/scttcper/gatsby-casper) - A Casper blog starter for Gatsby
 - [openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
+- [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
