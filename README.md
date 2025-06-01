@@ -195,7 +195,6 @@
 
 - [littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 - [motion-hover-effects](https://github.com/clementroche/motion-hover-effects) - null
-- [gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## Clojure
@@ -357,7 +356,7 @@
 - [joda-time-android](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way...
 - [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) - [DEPRECATED] Android floating action button
-- [material-menu](https://github.com/balysv/material-menu) - Animations for Android L drawer, back, dismiss and check icons
+- [material-menu](https://github.com/balysv/material-menu) - [deprecated] Animations for Android L drawer, back, dismiss and check icons
 - [NiftyDialogEffects](https://github.com/litao0621/NiftyDialogEffects) - Nifty Modal Dialog Effects
 - [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 - [sugar](https://github.com/chennaione/sugar) - Insanely easy way to work with Android Database.  
@@ -446,7 +445,6 @@
 - [engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
 - [open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [react-native-trimmer](https://github.com/repodio/react-native-trimmer) - An audio trimmer built for react native
@@ -1572,6 +1570,7 @@
 
 ## Python
 
+- [NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
 - [manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) - null
 - [BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.
@@ -1597,6 +1596,7 @@
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [LLDB](https://github.com/DerekSelander/LLDB) - A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - null
+- [servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -2065,7 +2065,7 @@
 - [activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
-- [puck](https://github.com/measuredco/puck) - The visual editor for React
+- [puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [react-native-sortables](https://github.com/MatiPl01/react-native-sortables) - 🚀 Powerful Sortable Components for Flexible Content Reordering in React Native
 - [loras-dev](https://github.com/Nutlope/loras-dev) - An AI image generator w/ Flux LoRAs
 - [use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) - A lightweight React Hook intended mainly for AI chat applications, for smoothly sticking to bottom of messages
@@ -2090,7 +2090,7 @@
 - [arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
-- [onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+- [onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [turing-frontend-test](https://github.com/taehee-kim-sherpas/turing-frontend-test) - null
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
@@ -2108,7 +2108,7 @@
 - [dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
-- [shippie](https://github.com/mattzcarey/shippie) - extensible repo automation 🚢
+- [shippie](https://github.com/mattzcarey/shippie) - extendable code review and QA agent 🚢
 - [athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. 
 - [markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
@@ -2117,7 +2117,7 @@
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
 - [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
