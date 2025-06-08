@@ -224,6 +224,8 @@
 
 ## Go
 
+- [local-gitingest](https://github.com/bigwhite/local-gitingest) - a command-line tool that converts a local Git repository into a single text file.
+- [opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
@@ -478,6 +480,7 @@
 - [easylogic.studio](https://github.com/kode-team/easylogic.studio) - Fantastic Web Design Tool 
 - [degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
+- [react-design-editor](https://github.com/salgum1114/react-design-editor) - React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs 
 - [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
@@ -601,6 +604,7 @@
 
 ## Jupyter-Notebook
 
+- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
@@ -1020,7 +1024,6 @@
 - [CMTraerPhysics](https://github.com/chrismiles/CMTraerPhysics) - Objective-C/Cocoa port of the Traer v3.0 physics engine; with iOS demo app.
 - [VPPDropDown](https://github.com/vicpenap/VPPDropDown) - VPPDropDown is an iOS library that allows you to create dropdown-like menus in a table view, as seen in old Twitter 3 for iPhone.
 - [bottom-pull-to-refresh](https://github.com/emenegro/bottom-pull-to-refresh) - Pull-to-Refresh behavior at the bottom of a UITableView
-- [PullableView](https://github.com/crocodella/PullableView) - UIView subclass that implements pullable behaviour similar to the Notification Center in iOS 5
 - [BlockAlertsAnd-ActionSheets](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets) - Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot
 - [ThumbnailPickerView](https://github.com/ayoy/ThumbnailPickerView) - iOS UI control displaying a set of thumbnails - resembling iPad's Photos.app toolbar thumbnails view
 - [TSMiniWebBrowser](https://github.com/tonisalae/TSMiniWebBrowser) - In-App web browsing support for iPhone apps
@@ -1570,6 +1573,7 @@
 
 ## Python
 
+- [deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer) - A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.
 - [NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
 - [manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) - null
 - [BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -1577,7 +1581,7 @@
 - [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
-- [agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents.
+- [agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
 - [owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -1683,6 +1687,7 @@
 ## Rust
 
 - [edit](https://github.com/microsoft/edit) - We all edit.
+- [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -1755,6 +1760,8 @@
 
 ## Swift
 
+- [MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
+- [AvdManager-MacOS](https://github.com/prudhvir3ddy/AvdManager-MacOS) - MacOS app to view,start,stop your emulators
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [sharing-grdb](https://github.com/pointfreeco/sharing-grdb) - A lightweight replacement for SwiftData and the Query macro.
 - [swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
@@ -1897,7 +1904,7 @@
 - [CompositionalDiffablePlayground.ios](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios) - Examples showing Compositional Layout, Diffable Data Sources and more!
 - [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 - [Animo](https://github.com/eure/Animo) - Bring life to CALayers with SpriteKit-like animation builders
-- [tuist](https://github.com/tuist/tuist) - Build better Swift apps faster
+- [tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship 
 - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
 - [PopMenu](https://github.com/CaliCastle/PopMenu) - A fully customizable popup style menu for iOS 😎
@@ -2049,9 +2056,10 @@
 
 ## TypeScript
 
+- [lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
+- [tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
 - [open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
-- [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components 👻
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
@@ -2164,7 +2172,6 @@
 - [theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
-- [react-design-editor](https://github.com/salgum1114/react-design-editor) - React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs 
 - [react-color](https://github.com/uiwjs/react-color) - 🎨 Is a tiny color picker widget component for React apps.
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript. 
 - [signals](https://github.com/preactjs/signals) - Manage state with style in every framework
