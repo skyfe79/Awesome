@@ -224,6 +224,7 @@
 
 ## Go
 
+- [opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [local-gitingest](https://github.com/bigwhite/local-gitingest) - a command-line tool that converts a local Git repository into a single text file.
 - [opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -444,6 +445,9 @@
 
 ## JavaScript
 
+- [ccundo](https://github.com/RonitSachdev/ccundo) - ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code's session files to track file operations and allows you to selectively revert changes with full preview and cascading safety.
+- [opendia](https://github.com/aaronjmars/opendia) - No need to switch browsers, just use Dia on Chrome or on Arc.
+- [d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
@@ -1602,7 +1606,7 @@
 - [AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 - [browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
+- [gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase 
 - [MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) - The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention
 - [MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -2067,12 +2071,14 @@
 
 ## TypeScript
 
-- [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop to build n8n workflows for you 
+- [claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
+- [sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+- [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 - [stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js
 - [claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
-- [opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [mcp-containers](https://github.com/metorial/mcp-containers) - Containerized versions of hundreds of MCP servers 📡 🧠
 - [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 - [lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
@@ -2144,7 +2150,7 @@
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
 - [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
