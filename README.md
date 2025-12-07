@@ -134,6 +134,7 @@
 
 ## C++
 
+- [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [react-native-godot](https://github.com/borndotcom/react-native-godot) - React Native Godot - Embed Godot Engine in React Native apps
 - [typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -248,7 +249,7 @@
 - [imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 - [reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [readability](https://github.com/cixtor/readability) - Readability is a library written in Go (golang) to parse, analyze and convert HTML pages into readable content. Originally an Arc90 Experiment, it is now incorporated into Safari’s Reader View.
 - [geometry](https://github.com/tidwall/geometry) - Efficient 2D geometry library for Go.
@@ -514,7 +515,6 @@
 - [Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
 - [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [fontkit](https://github.com/foliojs/fontkit) - An advanced font engine for Node and the browser
-- [material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
 - [distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
@@ -1416,7 +1416,6 @@
 - [GSTwitPicEngine](https://github.com/Gurpartap/GSTwitPicEngine) - Objective C wrapper around TwitPic's OAuth and OAuth Echo API with OAuthConsumer Lib. Deprecated.
 - [TwitterClient](https://github.com/dojoiphone/TwitterClient) - Client Twitter pour Iphone
 - [TweetNow](https://github.com/yuumi3/TweetNow) - 現在の位置情報から近くの駅や登録した場所名を Twitter につぶやく iPhoneアプリ 
-- [DashApp](https://github.com/jjg/DashApp) - DashApp is an iPad application that allows you to run multiple iPhone Web Apps simultaneously in a Dashboard-like environment.
 - [big5app](https://github.com/holtwick/big5app) - Enhanced UIWebView browser with e.g. camera support via Javascript
 - [TICoreDataUtilities](https://github.com/timisted/TICoreDataUtilities) - Utilities to make Core Data applications as free of template code (and as painless) as possible
 - [Lambda-Alert](https://github.com/zoul/Lambda-Alert) - Simple UIAlertView wrapper that uses blocks for button actions.
@@ -1595,10 +1594,13 @@
 
 ## Python
 
+- [LeX-Art](https://github.com/zhaoshitian/LeX-Art) - Official Implementation of "LeX-Art: Rethinking Text Generation via Scalable High-Quality Data Synthesis"
+- [Z-Image](https://github.com/Tongyi-MAI/Z-Image) - null
 - [public-apis-4Kr](https://github.com/yybmion/public-apis-4Kr) - 한국 서비스에 이용 가능한 Public API 모음 | Public APIs Available for Korean Services
 - [VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI) - A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows.
 - [ComfyUI-VibeVoice](https://github.com/wildminder/ComfyUI-VibeVoice) - ComfyUI custom node for the VibeVoice TTS. Expressive, long-form, multi-speaker conversational audio
 - [VibeVoice](https://github.com/vibevoice-community/VibeVoice) - VibeVoice: Expressive, longform conversational speech synthesis. (Community fork)
+- [VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kimi-book-writer](https://github.com/intertwine/kimi-book-writer) - null
 - [skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
@@ -1627,7 +1629,7 @@
 - [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) - null
 - [n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
-- [zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+- [pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -1641,7 +1643,7 @@
 - [dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
-- [agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
+- [agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 - [owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -1730,7 +1732,6 @@
 
 ## Ruby
 
-- [try](https://github.com/tobi/try) - fresh directories for every vibe
 - [roast](https://github.com/Shopify/roast) - Structured AI workflows made easy
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
@@ -1804,7 +1805,9 @@
 
 ## Shell
 
+- [continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development.
+- [try](https://github.com/tobi/try) - fresh directories for every vibe
 - [superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
@@ -2129,6 +2132,8 @@
 
 ## TypeScript
 
+- [davia](https://github.com/davialabs/davia) - Interactive, editable docs designed for coding agents
+- [jaaz](https://github.com/11cafe/jaaz) - The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
 - [dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 - [toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
@@ -2158,7 +2163,7 @@
 - [opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
-- [opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [metorial](https://github.com/metorial/metorial) - Connect any AI model to 600+ integrations; powered by MCP 📡 🚀
 - [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 - [lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
@@ -2311,6 +2316,7 @@
 - [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+- [material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -2343,7 +2349,7 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -2407,7 +2413,6 @@
 ## etc
 
 - [gemini-cli-git](https://github.com/eliasecchig/gemini-cli-git) - Turn your Git repository into a self-improving autonomous agent. Open issues to assign tasks, review PRs, merge to teach. Gemini is the brain, Git is the backend.
-- [VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech
 - [n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) - N8N Workflows Catalog
 - [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) - The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
 - [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
