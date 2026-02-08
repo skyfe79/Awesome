@@ -125,7 +125,6 @@
 
 ## C#
 
-- [agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [TableCloth](https://github.com/yourtablecloth/TableCloth) - 식탁보 프로젝트
 - [Pix2Pix](https://github.com/keijiro/Pix2Pix) - Real-time pix2pix implementation with Unity
@@ -139,7 +138,7 @@
 - [Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [react-native-godot](https://github.com/borndotcom/react-native-godot) - React Native Godot - Embed Godot Engine in React Native apps
 - [typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [thorvg](https://github.com/thorvg/thorvg) - An open-source C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced rendering backends such as WebGPU for high-performance graphics.
+- [thorvg](https://github.com/thorvg/thorvg) - A production-ready C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced rendering backends such as WebGPU for high-performance graphics.
 - [igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -283,6 +282,7 @@
 - [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌
 - [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+- [prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
@@ -529,7 +529,6 @@
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
 - [aisa](https://github.com/jdiemke/aisa) - AISA - TypeScript based Software Rendering
-- [instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
 - [firebase-core-with-react](https://github.com/JaredPotter/firebase-core-with-react) - null
 - [vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
@@ -1597,7 +1596,12 @@
 
 ## Python
 
-- [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- [memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [manim_skill](https://github.com/adithya-s-k/manim_skill) - Agent skills for Manim to create 3Blue1Brown style animations.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 - [vllm-metal](https://github.com/vllm-project/vllm-metal) - Community maintained hardware plugin for vLLM on Apple Silicon
@@ -1631,6 +1635,7 @@
 - [ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 - [graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution.
+- [ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [deeplearning_math](https://github.com/kafa46/deeplearning_math) - 딥러닝 수학
 - [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT) - null
@@ -1642,6 +1647,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻 
 - [claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
@@ -1771,7 +1777,6 @@
 ## Rust
 
 - [Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
-- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [edit](https://github.com/microsoft/edit) - We all edit.
 - [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -1827,6 +1832,7 @@
 
 ## Shell
 
+- [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
@@ -1855,6 +1861,7 @@
 
 ## Swift
 
+- [agent-skills](https://github.com/nonameplum/agent-skills) - Documentation formatted as skills for AI coding assistants. Includes a DocC converter for creating new skills.
 - [velox](https://github.com/velox-apps/velox) - Velox is a port of Tauri to Swift.
 - [cmd-eikana](https://github.com/iMasanari/cmd-eikana) - Application of macOS which switches Alphabet / Kana by pressing left and right command key alone. Other key remapping is also possible.
 - [ReqRes](https://github.com/OloApps/ReqRes) - Modern Web Debugging Proxy
@@ -1955,7 +1962,7 @@
 - [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
 - [UIKitPlus](https://github.com/MihaelIsaev/UIKitPlus) - 🏰 Declarative UIKit with LivePreview for iOS9+ (best alternative to SwiftUI)
 - [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
-- [dskit](https://github.com/imodeveloperlab/dskit) - A design system with a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
+- [dskit](https://github.com/imodeveloper/dskit) - A design system with a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 - [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
@@ -2158,6 +2165,11 @@
 
 ## TypeScript
 
+- [skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
+- [excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app) - Excalidraw MCP App
+- [superset](https://github.com/superset-sh/superset) - The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve.
+- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [make-comics](https://github.com/Nutlope/make-comics) - Create full comics with AI in seconds
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
@@ -2174,6 +2186,7 @@
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 - [fate](https://github.com/nkzw-tech/fate) - fate is a modern data client for React.
@@ -2197,7 +2210,6 @@
 - [better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [open-agent-builder](https://github.com/firecrawl/open-agent-builder) - 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution
 - [apify-mcp-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.
-- [ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
@@ -2218,7 +2230,7 @@
 - [voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [metorial](https://github.com/metorial/metorial) - Connect any AI model to 600+ integrations; powered by MCP 📡 🚀
-- [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
+- [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
@@ -2325,7 +2337,6 @@
 - [clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [stackflow](https://github.com/daangn/stackflow) - 🧱 Mobile-first stack navigator framework with composable plugin system
 - [motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
-- [prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
@@ -2378,6 +2389,7 @@
 - [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
 - [nest-cloud-functions](https://github.com/fireship-io/nest-cloud-functions) - NestJS + Firebase Cloud Functions Example
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
@@ -2464,6 +2476,7 @@
 
 ## etc
 
+- [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
