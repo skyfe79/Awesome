@@ -672,6 +672,7 @@
 
 ## Kotlin
 
+- [swift-android-examples](https://github.com/swiftlang/swift-android-examples) - null
 - [quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [circuit](https://github.com/slackhq/circuit) - ⚡️ A Compose-driven architecture for Kotlin and Android applications.
 - [draggable-menu](https://github.com/dokar3/draggable-menu) - A fluid draggable menu in Jetpack Compose
@@ -1618,6 +1619,9 @@
 
 ## Python
 
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [termaid](https://github.com/fasouto/termaid) - Render Mermaid diagrams in your terminal or Python app
 - [youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline) - Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
 - [open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -1628,7 +1632,7 @@
 - [fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
-- [deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+- [deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 - [autoresearch-macos](https://github.com/miolini/autoresearch-macos) - AI agents running research on single-GPU nanochat training automatically adopted for MacOS
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
@@ -1644,7 +1648,7 @@
 - [memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
+- [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 - [manim_skill](https://github.com/adithya-s-k/manim_skill) - Agent skills for Manim to create 3Blue1Brown style animations.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 - [vllm-metal](https://github.com/vllm-project/vllm-metal) - Community maintained hardware plugin for vLLM on Apple Silicon
@@ -1818,13 +1822,14 @@
 
 ## Rust
 
+- [grafeo](https://github.com/GrafeoDB/grafeo) - Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a standalone database, with optional in-memory or persistent storage. Grafeo supports both LPG and RDF and all major query languages.
 - [OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel) - For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.
 - [SuperLightTUI](https://github.com/subinium/SuperLightTUI) - 🦀 An immediate-mode Rust TUI framework with flexbox layout and Tailwind-style chaining API.
 - [deff](https://github.com/flamestro/deff) - interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting
 - [rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
-- [nfd2nfc](https://github.com/elgar328/nfd2nfc) - macOS NFD-to-NFC filename converter with TUI and background watcher
+- [nfd2nfc](https://github.com/elgar328/nfd2nfc) - macOS NFD/NFC filename converter with TUI, CLI, and background watcher
 - [Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
@@ -1918,9 +1923,11 @@
 
 ## Swift
 
+- [LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
+- [chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
+- [TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for every database
 - [XCDocs](https://github.com/BitrigApp/XCDocs) - Apple's developer docs as a Swift package and CLI.
 - [Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
-- [TUIkit](https://github.com/phranck/TUIkit) - A declarative, SwiftUI-like framework for building Terminal User Interfaces in Swift.
 - [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [beautiful-mermaid-swift](https://github.com/lukilabs/beautiful-mermaid-swift) - Native Mermaid diagram renderer for Swift
 - [JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
@@ -1928,7 +1935,6 @@
 - [velox](https://github.com/velox-apps/velox) - Velox is a port of Tauri to Swift.
 - [cmd-eikana](https://github.com/iMasanari/cmd-eikana) - Application of macOS which switches Alphabet / Kana by pressing left and right command key alone. Other key remapping is also possible.
 - [ReqRes](https://github.com/OloApps/ReqRes) - Modern Web Debugging Proxy
-- [swift-android-examples](https://github.com/swiftlang/swift-android-examples) - null
 - [metal-tools](https://github.com/computer-graphics-tools/metal-tools) - A Swift framework that simplifies working with Apple's Metal API.
 - [claude-code-usage-monitor-macos](https://github.com/Sapeet/claude-code-usage-monitor-macos) - Claude Code Usage Monitor on macOS Menubar
 - [iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
@@ -2230,6 +2236,11 @@
 
 ## TypeScript
 
+- [pretext](https://github.com/chenglou/pretext) - null
+- [editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+- [dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
+- [arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
+- [tooscut](https://github.com/mohebifar/tooscut) - Professional video editing, right in your browser. Made with Rust, WebGPU, WASM, and Tanstack Start.
 - [liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
@@ -2240,7 +2251,7 @@
 - [ai-sdk-provider-gemini-cli](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - Vercel AI SDK community provider for Gemini CLI - Free use via Gemini Code Assist License
 - [ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK
 - [clip-js](https://github.com/mohyware/clip-js) - online video editor built with nextjs, remotion and ffmpeg (web assembly port) for render.
-- [harnss](https://github.com/OpenSource03/harnss) - Open-source, blazing-fast desktop client/UI build to harness Claude Code, Codex and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.
+- [harnss](https://github.com/OpenSource03/harnss) - Open-source, desktop client/UI build to harness Claude Code, Codex and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.
 - [claudeclaw](https://github.com/moazbuilds/claudeclaw) - A lightweight, open-source OpenClaw version built into your Claude Code.
 - [paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -2257,7 +2268,7 @@
 - [qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
-- [superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
@@ -2590,7 +2601,6 @@
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at system design, join this newsletter now 👇
 - [agents](https://github.com/contains-studio/agents) - sharing current agents in use
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [awesome-rstack](https://github.com/rstackjs/awesome-rstack) - A curated list of awesome things related to Rstack.
 - [awesome-regex](https://github.com/slevithan/awesome-regex) - 🦉 A curated collection of regex tools, tutorials, libraries, etc.
