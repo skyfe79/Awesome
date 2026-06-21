@@ -259,7 +259,7 @@
 - [myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [encore](https://github.com/encoredev/encore) - Automate infrastructure from local to your cloud
+- [encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [local-gitingest](https://github.com/bigwhite/local-gitingest) - a command-line tool that converts a local Git repository into a single text file.
 - [opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -483,6 +483,7 @@
 
 ## JavaScript
 
+- [Cowart](https://github.com/zhongerxin/Cowart) - null
 - [god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) - Python & Node package to use GPT image 2.0 model via codex subscription
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) - Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines
@@ -495,6 +496,7 @@
 - [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 - [overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [pencil-skill](https://github.com/de-novo/pencil-skill) - null
@@ -700,7 +702,7 @@
 - [draggable-menu](https://github.com/dokar3/draggable-menu) - A fluid draggable menu in Jetpack Compose
 - [swipe](https://github.com/saket/swipe) - Swipe gesture actions for Compose UI
 - [Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
-- [landscapist](https://github.com/skydoves/landscapist) - 🌻 A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images, compatible with Glide, Coil, and Fresco.
+- [landscapist](https://github.com/skydoves/landscapist) - 🌻 A pluggable, lightweight, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images.
 - [kyrie](https://github.com/alexjlockwood/kyrie) - 🍀 Animated Vector Drawables on steroids 🍀
 - [BottomDrawer](https://github.com/HeyAlex/BottomDrawer) - BottomSheet with animations
 - [TedNaverMapClustering](https://github.com/ParkSangGwon/TedNaverMapClustering) - 네이버지도용 클러스터 유틸리티 라이브러리
@@ -911,7 +913,7 @@
 - [PSCollectionView](https://github.com/ptshih/PSCollectionView) - A simple open source implementation of a Pinterest Pinboard for iOS
 - [JPSThumbnailAnnotation](https://github.com/jpsim/JPSThumbnailAnnotation) - A simple mapkit annotation for displaying images and details.
 - [ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData) - Core Data with ReactiveCocoa
-- [KIImagePager](https://github.com/kimar/KIImagePager) - The KIImagePager is inspired by foursquare's ImageSlideshow, the user may scroll through images loaded from the Web
+- [KIImagePager](https://github.com/DK1DA/KIImagePager) - The KIImagePager is inspired by foursquare's ImageSlideshow, the user may scroll through images loaded from the Web
 - [chatheads](https://github.com/brutella/chatheads) - An implementation of Facebook's ChatHeads on iOS.
 - [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) - UIWebView progress interface
 - [MZDayPicker](https://github.com/m1entus/MZDayPicker) - An iOS day picker to allow users to select date
@@ -1638,6 +1640,8 @@
 
 ## Python
 
+- [MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
+- [flowkit](https://github.com/crisng95/flowkit) - AI agent can create video content better than you. No reason why you do it manually in google flow!
 - [SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [agent-skills](https://github.com/tmchow/agent-skills) - Cross-platform AI agent skills (SKILL.md) installable via npx skills / gh skills
 - [sprite-gen](https://github.com/aldegad/sprite-gen) - Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.
@@ -1707,11 +1711,11 @@
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [memU](https://github.com/NevaMind-AI/memU) - The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.
+- [memU](https://github.com/NevaMind-AI/memU) - From workspace to agent memory
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
 - [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
-- [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
+- [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
 - [manim_skill](https://github.com/adithya-s-k/manim_skill) - Agent skills for Manim to create 3Blue1Brown style animations.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
 - [vllm-metal](https://github.com/vllm-project/vllm-metal) - Community maintained hardware plugin for vLLM on Apple Silicon
@@ -1972,7 +1976,6 @@
 - [skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [smux](https://github.com/ShawnPana/smux) - tmux config with built-in terminal automation and agent-to-agent communication.
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 - [android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 - [tutor-skills](https://github.com/bevibing/tutor-skills) - A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults
@@ -2019,7 +2022,7 @@
 - [TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [XCDocs](https://github.com/BitrigApp/XCDocs) - Apple's developer docs as a Swift package and CLI.
 - [Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
-- [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
 - [beautiful-mermaid-swift](https://github.com/lukilabs/beautiful-mermaid-swift) - Native Mermaid diagram renderer for Swift
 - [JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 - [agent-skills](https://github.com/nonameplum/agent-skills) - Documentation formatted as skills for AI coding assistants. Includes a DocC converter for creating new skills.
@@ -2327,6 +2330,7 @@
 
 ## TypeScript
 
+- [gorest-2d-animation-spritesheet-generator](https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator) - Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.
 - [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
 - [wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 - [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
@@ -2357,7 +2361,7 @@
 - [chromex](https://github.com/GENEXIS-AI/chromex) - A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.
 - [lazyweb-skill](https://github.com/aboul3ata/lazyweb-skill) - Lazyweb agent skills: start with /lazyweb:lazyweb-welcome, free screenshot references, optional paid 20k+ A/B Test Agent.
 - [open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
-- [context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+- [context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [spawn-agent](https://github.com/millionco/spawn-agent) - Spawn available local agents on a user's computer
 - [tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -2416,7 +2420,7 @@
 - [dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [kode-agent-sdk](https://github.com/shareAI-lab/kode-agent-sdk) - Open runtime for building Claude Code & Manus like Agent Product
 - [Kode-CLI](https://github.com/shareAI-lab/Kode-CLI) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
-- [openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+- [openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
