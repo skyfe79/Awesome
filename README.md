@@ -23,6 +23,7 @@
 - [Go](#Go)
 - [Go Template](#Go-Template)
 - [HTML](#HTML)
+- [Inno Setup](#Inno-Setup)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
 - [Jupyter Notebook](#Jupyter-Notebook)
@@ -73,7 +74,7 @@
 ## C
 
 - [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-- [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - [ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
@@ -151,6 +152,7 @@
 
 ## C++
 
+- [video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [drawy](https://github.com/Prayag2/drawy) - The project has now moved to KDE Invent.
@@ -159,6 +161,7 @@
 - [react-native-godot](https://github.com/borndotcom/react-native-godot) - React Native Godot - Embed Godot Engine in React Native apps
 - [BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [thorvg](https://github.com/thorvg/thorvg) - A production-ready C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced rendering backends such as WebGPU for high-performance graphics.
 - [igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -257,9 +260,9 @@
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
-- [multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
+- [multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent实现全自动AI小说生成
-- [ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -273,7 +276,6 @@
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [any-sync](https://github.com/anyproto/any-sync) - An open-source protocol enabling high-performance, local-first, peer-to-peer, end-to-end encrypted collaborative apps.
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [DLX](https://github.com/OwO-Network/DLX) - DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE.
 - [cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command.
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
@@ -340,6 +342,10 @@
 - [computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [www.html5rocks.com](https://github.com/html5rocks/www.html5rocks.com) - ....a top-notch resource for web developers
 - [iOS-HTMLTextEditor](https://github.com/insanoid/iOS-HTMLTextEditor) - A simple implementation of an HTML Editor using CKEditor in a web view.
+
+## Inno-Setup
+
+- [nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 ## Java
 
@@ -496,6 +502,7 @@
 
 ## JavaScript
 
+- [Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle) - null
 - [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) - null
 - [Cowart](https://github.com/zhongerxin/Cowart) - null
 - [god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) - Python & Node package to use GPT image 2.0 model via codex subscription
@@ -517,7 +524,7 @@
 - [ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - A Claude skill for developing WebGPU applications with Three.js
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
+- [xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response.
 - [claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 - [playwright-skill](https://github.com/lackeyjb/playwright-skill) - General-purpose Playwright automation for coding agents
 - [handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
@@ -529,7 +536,6 @@
 - [claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images/animations
-- [desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [react-native-trimmer](https://github.com/repodio/react-native-trimmer) - An audio trimmer built for react native
@@ -1026,7 +1032,7 @@
 - [MusicPlayerViewController](https://github.com/BeamApp/MusicPlayerViewController) - An iPhone view controller to visualize and control music playback
 - [CCSVG](https://github.com/lukelutman/CCSVG) - Display SVG images on iOS using Cocos2D
 - [QBKOverlayMenuView](https://github.com/sendoa/QBKOverlayMenuView) - Menú flotante que trata de imitar el ofrecido por la app Sparrow para iOS
-- [LBYouTubeView](https://github.com/lbrndnr/LBYouTubeView) - MPMoviePlayerViewController subclass with YouTube support
+- [LBYouTubeView](https://github.com/lerboe/LBYouTubeView) - MPMoviePlayerViewController subclass with YouTube support
 - [NSDateCategoryForReporting](https://github.com/melsam/NSDateCategoryForReporting) - A simple NSDate category to calculate dates at the beginning and end of a Month, Quarter or Year.
 - [DYNavigationController](https://github.com/dyang/DYNavigationController) - null
 - [CustomToolBar](https://github.com/tciuro/CustomToolBar) - Custom UIToolBar with raised center button using UIImagePicker.
@@ -1123,7 +1129,7 @@
 - [iOS-Flip-Transform](https://github.com/Dillion/iOS-Flip-Transform) - Core Animation framework for navigating data by flipping
 - [MacGap1](https://github.com/MacGapProject/MacGap1) - Desktop WebKit wrapper for HTML/CSS/JS applications.
 - [CollectionCalendar](https://github.com/dallarosa/CollectionCalendar) - CollectionCalendar
-- [LBGIFImage](https://github.com/lbrndnr/LBGIFImage) - This is a small category that creates an animated UIImage out of a gif image.
+- [LBGIFImage](https://github.com/lerboe/LBGIFImage) - This is a small category that creates an animated UIImage out of a gif image.
 - [ABDelete](https://github.com/shrtlist/ABDelete) - ABPersonViewController category which allows contact deletion. NOTE: Unavailable in iOS 7
 - [UIViewDrawRectBlock](https://github.com/hsjunnesson/UIViewDrawRectBlock) - A category on UIView to create an instance with a block for its drawRect.
 - [SWSnapshotStackView](https://github.com/snwau/SWSnapshotStackView) - Snapshot Stack View cocoa touch class decorates your UIImage's for presentation to the user with matte border, drop shadows and simulated stack of physical photos.
@@ -1651,11 +1657,16 @@
 
 ## Python
 
+- [Helios](https://github.com/PKU-YuanGroup/Helios) - Helios: Real Real-Time Long Video Generation Model
+- [openworker](https://github.com/andrewyng/openworker) - null
+- [Audio8_TTS](https://github.com/Audio8-AI/Audio8_TTS) - SOTA-Class TTS at Compact Scale
+- [pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
+- [growth-lab](https://github.com/tsingyuai/growth-lab) - An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaigns, and reviews results to improve the next round of growth. 从代码到市场的开源端到端增长工具。理解产品、接入信息渠道、研究市场、执行增长行动，并基于真实数据自我改进。
 - [dots.tts](https://github.com/studio-dots-ai/dots.tts) - null
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [QtEditorialTimelineWidget](https://github.com/hasielhassan/QtEditorialTimelineWidget) - Non linear editor timeline widget for python Qt bindings
 - [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) - null
-- [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+- [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [srt-whiteboard-animation](https://github.com/geeklee/srt-whiteboard-animation) - 将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。
 - [Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, LTX-2, Qwen Image, Hunyuan Video, LTX  Video and Flux.
 - [LeapTalk](https://github.com/zhangrongxiang/LeapTalk) - We propose LeapTalk, a novel framework that achieves stable and real-time talking-head generation with a single forward step, scaling to arbitrarily long videos.
@@ -1692,6 +1703,7 @@
 - [ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 - [violin](https://github.com/shang-zhu/violin) - Open-source Video Translation Skill
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- [GPT-Image-2-Seedance-2.5-Workflow](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow) - GPT Image 2 to Seedance 2.5 Early Access workflow guide.
 - [mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [mtg-realtime-translator](https://github.com/nanameru/mtg-realtime-translator) - null
 - [browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
@@ -1922,6 +1934,7 @@
 
 ## Rust
 
+- [microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 - [gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -2048,7 +2061,7 @@
 - [CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
 - [ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
-- [Swarm](https://github.com/christopherkarani/Swarm) - 🐦‍🔥 LangGraph for Swift — build stateful AI agent workflows natively on Apple/Linux platforms.
+- [Swarm](https://github.com/christopherkarani/Swarm) - Type-safe tools, on-device inference, multi-agent workflows, memory, and guardrails, in one Swift-native runtime
 - [macos-app-skills](https://github.com/fayazara/macos-app-skills) - AI coding agent skills for building, shipping, and maintaining native macOS apps
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [zeus](https://github.com/namuan/zeus) - Native macOS AI agent orchestrator
@@ -2372,6 +2385,8 @@
 
 ## TypeScript
 
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+- [vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 - [modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [rescript](https://github.com/wassgha/rescript) - 🎬 Open source, transcript-based video/audio editor that lives in the browser.
@@ -2385,7 +2400,6 @@
 - [wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 - [image-extender](https://github.com/boona13/image-extender) - Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.
 - [voltra](https://github.com/callstackincubator/voltra) - Voltra lets React Native developers build native iOS Live Activities, Dynamic Island layouts, and widgets as React components without writing Swift. It supports hot reload, push updates, and includes a config plugin that wires everything automatically.
-- [open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
 - [hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [node-pty](https://github.com/microsoft/node-pty) - Fork pseudoterminals in Node.JS
 - [OpencodeOrchestra](https://github.com/AidenGeunGeun/OpencodeOrchestra) - Multi-layer agent orchestration. PM plans, specialists execute.
@@ -2767,6 +2781,8 @@
 
 ## etc
 
+- [Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
+- [robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
 - [ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 - [motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI
 - [awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation) - null
@@ -2774,6 +2790,7 @@
 - [agent-skills](https://github.com/tmchow/agent-skills) - Cross-platform AI agent skills (SKILL.md) installable via npx skills / gh skills
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
+- [open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
 - [automate-faceless-content](https://github.com/cporter202/automate-faceless-content) - Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram on autopilot — from idea → script → video → scheduled posts.
 - [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - null
