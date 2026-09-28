@@ -107,7 +107,6 @@
 - [android-ffmpeg-tutorial](https://github.com/roman10/android-ffmpeg-tutorial) - android-ffmpeg-tutorial
 - [OpenGL](https://github.com/McNopper/OpenGL) - OpenGL 3 and 4 examples using GLSL
 - [gsoc](https://github.com/slash-dev-null/gsoc) -  An attempt to complete Robert Rudd's GSOC project of 2008 with XBMC
-- [PhotoProcessing](https://github.com/chrisbanes/PhotoProcessing) - A demo of how you can process photos leveraging the ndk.
 - [Simple-OpenGL-Image-Library](https://github.com/kbranigan/Simple-OpenGL-Image-Library) - Simple image uploader primarily for OpenGL
 - [Android-ImageMagick](https://github.com/lilac/Android-ImageMagick) - ImageMagick library ported to Android
 - [android-ffmpeg-sample](https://github.com/churnlabs/android-ffmpeg-sample) - An actual functioning Android app using ffmpeg through the NDK
@@ -315,6 +314,8 @@
 
 ## HTML
 
+- [animasyon-stil-katalogu](https://github.com/yasinozmeen/animasyon-stil-katalogu) - irticalen videoları için 20 animasyon tarzı: her biri kendi kısa filmiyle. Tarzı README'den seç.
+- [tools](https://github.com/alesha-pro/tools) - Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig
 - [NullMotion](https://github.com/blixvip/NullMotion) - Launch-film preview: a finished motion-graphics ad over the black-and-white HyperFrames drafts it grew from, with frame-accurate MP4 export.
 - [cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
@@ -512,6 +513,7 @@
 - [codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 - [ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 - [ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [flow-agent](https://github.com/kodelyx/flow-agent) - ⚡ CLI toolkit for Google Flow — Nano Banana Pro images, Omni Flash videos, MCP v2 & OpenAI API.
 - [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) - null
 - [Cowart](https://github.com/zhongerxin/Cowart) - null
 - [god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) - Python & Node package to use GPT image 2.0 model via codex subscription
@@ -597,6 +599,7 @@
 - [distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
 - [triangulate-image](https://github.com/snorpey/triangulate-image) - triangulate images with node and in the browser
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+- [skia-canvas](https://github.com/samizdatco/skia-canvas) - A multi-threaded, GPU-powered, 2D vector graphics environment for Node.js
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [Phil](https://github.com/keiranking/Phil) - A crossword maker.
@@ -745,7 +748,7 @@
 
 ## MDX
 
-- [Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle) - null
+- [Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle) - A comprehensive open-source reference for backend engineering  HTTP, concurrency, gRPC, distributed systems, observability, and cloud-native deployment. Built from first principles.
 - [magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [gatsby-starter-minimal-blog](https://github.com/LekoArts/gatsby-starter-minimal-blog) - Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 
@@ -1667,7 +1670,9 @@
 
 ## Python
 
-- [laya](https://github.com/NandhaKishorM/laya) - null
+- [AuK](https://github.com/Tencent-Hunyuan/AuK) - AuK: An Open-Source Foundational Model for Speech Generation and Editing
+- [lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
+- [laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 - [laya-coreml](https://github.com/mizorewww/laya-coreml) - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.
 - [NanoJev](https://github.com/TianyuCodings/NanoJev) - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.
 - [skills](https://github.com/android/skills) - null
@@ -1687,7 +1692,6 @@
 - [srt-whiteboard-animation](https://github.com/geeklee/srt-whiteboard-animation) - 将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。
 - [Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, LTX-2, Qwen Image, Hunyuan Video, LTX  Video and Flux.
 - [LeapTalk](https://github.com/zhangrongxiang/LeapTalk) - We propose LeapTalk, a novel framework that achieves stable and real-time talking-head generation with a single forward step, scaling to arbitrarily long videos.
-- [flow-agent](https://github.com/kodelyx/flow-agent) - ⚡ CLI toolkit for Google Flow — Nano Banana Pro images, Omni Flash videos, MCP v2 & OpenAI API.
 - [build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) - A step-by-step guide to build your own AI agent.
 - [phone-harness](https://github.com/ShawnPana/phone-harness) - let your agent control your phone
 - [xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
@@ -1729,10 +1733,9 @@
 - [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading
 - [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-- [claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.
+- [claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions, including DataForSEO, Firecrawl, Ahrefs and Matomo.
 - [claude-ads](https://github.com/AgriciDaniel/claude-ads) - Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes.
 - [OpenOutreach](https://github.com/eracle/OpenOutreach) - Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install.
-- [agentkits-marketing](https://github.com/aitytech/agentkits-marketing) - Enterprise-grade AI marketing automation for Claude Code, Cursor, GitHub Copilot, and any AI assistant supporting agents & skills
 - [im-not-ai](https://github.com/epoko77-ai/im-not-ai) - AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells
 - [vllm-swift](https://github.com/TheTom/vllm-swift) - vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
@@ -1762,7 +1765,7 @@
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
 - [khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-- [Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
+- [Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 - [LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [claude-code-thinking-blocks-fix](https://github.com/miteshashar/claude-code-thinking-blocks-fix) - Fix Claude Code 'thinking blocks cannot be modified' API errors caused by streaming interleaving corruption in session JSONL files
@@ -1829,12 +1832,12 @@
 - [BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) - Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.
 - [deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer) - A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.
 - [NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) - null
-- [pixeltable](https://github.com/pixeltable/pixeltable) - The unified multimodal backend agents build with. Database, orchestration, and serving in one Python file.
+- [pixeltable](https://github.com/pixeltable/pixeltable) - The backend agents build with - Multimodal database, orchestration, and serving in one file
 - [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
@@ -1949,18 +1952,19 @@
 
 ## Rust
 
+- [ollaya](https://github.com/ollaya-dev/ollaya) - Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.
 - [zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
 - [microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 - [gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- [videorc](https://github.com/TheOrcDev/videorc) - Open-source macOS screen recorder & multistream studio — record in 4K, stream live, publish with AI.
+- [videorc](https://github.com/TheOrcDev/videorc) - Open-source multistream studio and screen recorder for Mac: go live on 5 platforms free, record in 4K, publish with AI.
 - [perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
-- [openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
+- [openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 - [cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [ggsql](https://github.com/posit-dev/ggsql) - A SQL extension for declarative data visualisation based on the Grammar of Graphics.
@@ -1989,6 +1993,7 @@
 - [Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -2001,7 +2006,6 @@
 - [turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS
-- [skia-canvas](https://github.com/samizdatco/skia-canvas) - A multi-threaded, GPU-powered, 2D vector graphics environment for Node.js
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
@@ -2074,6 +2078,7 @@
 
 ## Swift
 
+- [ChunUI](https://github.com/liseami/ChunUI) - Define your palette. Ship the same texture. — Monochrome-quality SwiftUI design system extracted from Zinner (阿奇)
 - [Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
 - [HangulSync](https://github.com/catgarret/HangulSync) - 맥 간 한/영 입력 소스 실시간 동기화 · 원격 데스크탑 한글 자소 분리 해결 | Real-time Korean/English input source sync between Macs — fixes Hangul jamo separation over Jump Desktop & other remote desktop apps
 - [markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
@@ -2404,8 +2409,12 @@
 
 ## TypeScript
 
+- [shipvideo](https://github.com/diggerhq/shipvideo) - Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.
+- [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+- [Graft](https://github.com/trailhq/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
+- [stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [localjev](https://github.com/githubnext/localjev) - null
-- [OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
+- [OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.
 - [editor](https://github.com/diffusionstudio/editor) - An open-source video editor built for agents. Edits become code, code becomes video.
 - [skillbox](https://github.com/kitze/skillbox) - Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.
 - [jev-experiments](https://github.com/dabit3/jev-experiments) - null
@@ -2448,12 +2457,12 @@
 - [sokuji](https://github.com/kizuna-ai-lab/sokuji) - Real-time two-way speech translation for bilingual meetings — auto-detects the spoken language and translates both directions, cloud or fully offline on-device. Desktop (Windows · macOS · Linux) + browser extension (Chrome · Edge) for Zoom, Meet, Teams & any app.
 - [hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
-- [ima2-gen](https://github.com/lidge-jun/ima2-gen) - Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers.
+- [ima2-gen](https://github.com/lidge-ai/ima2-gen) - Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers.
 - [html-in-canvas](https://github.com/remotion-dev/html-in-canvas) - null
 - [cc-haha](https://github.com/NanmiCoder/cc-haha) - Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.
 - [chromex](https://github.com/GENEXIS-AI/chromex) - A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.
 - [lazyweb-skill](https://github.com/aboul3ata/lazyweb-skill) - Lazyweb agent skills: start with /lazyweb:lazyweb-welcome, free screenshot references, optional paid 20k+ A/B Test Agent.
-- [open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
+- [open-slide](https://github.com/open-slide/open-slide) - A slide framework built for agents.
 - [context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [spawn-agent](https://github.com/millionco/spawn-agent) - Spawn available local agents on a user's computer
 - [tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
@@ -2560,7 +2569,7 @@
 - [voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [metorial](https://github.com/metorial/metorial) - Connect any AI model to 1200+ integrations (MCP, CLI, API)
-- [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+- [MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
@@ -2585,7 +2594,7 @@
 - [inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [corner-smoothing](https://github.com/gtokman/corner-smoothing) -  Apple-like smooth corners for Tailwind CSS.
 - [kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
-- [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
@@ -2630,7 +2639,6 @@
 - [web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine 
 - [lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) - The text buffer implementation that is used in VS Code.
-- [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
